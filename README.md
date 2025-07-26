@@ -1,6 +1,6 @@
 # Brasil ISPB Database 🏦
 
-[![Update Data](https://github.com/seu-usuario/brasil-ispb-database/actions/workflows/update-data.yml/badge.svg)](https://github.com/seu-usuario/brasil-ispb-database/actions/workflows/update-data.yml)
+[![Update Data](https://github.com/antoniopaolillo/brasil-ispb-database/actions/workflows/update-data.yml/badge.svg)](https://github.com/antoniopaolillo/brasil-ispb-database/actions/workflows/update-data.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Lista completa e atualizada diariamente de todas as instituições financeiras do Brasil que possuem ISPB (Identificador do Sistema de Pagamentos Brasileiros)**
@@ -57,7 +57,7 @@ import json
 import requests
 
 # Carregar dados diretamente do GitHub
-url = "https://raw.githubusercontent.com/seu-usuario/brasil-ispb-database/main/data/ispbs.json"
+url = "https://raw.githubusercontent.com/antoniopaolillo/brasil-ispb-database/main/data/ispbs.json"
 response = requests.get(url)
 ispbs = response.json()
 
@@ -91,7 +91,7 @@ brasil-ispb-database/
 
 ```bash
 # Clonar repositório
-git clone https://github.com/seu-usuario/brasil-ispb-database.git
+git clone https://github.com/antoniopaolillo/brasil-ispb-database.git
 cd brasil-ispb-database
 
 # Instalar dependências

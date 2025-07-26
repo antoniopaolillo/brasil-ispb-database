@@ -32,7 +32,7 @@ Este documento detalha como hospedar a aplicação Brasil ISPB Database de forma
    git add .
    git commit -m "🚀 Initial commit"
    git branch -M main
-   git remote add origin https://github.com/SEU-USUARIO/brasil-ispb-database.git
+   git remote add origin https://github.com/antoniopaolillo/brasil-ispb-database.git
    git push -u origin main
    ```
 
@@ -44,15 +44,15 @@ Este documento detalha como hospedar a aplicação Brasil ISPB Database de forma
    - Folder: "/ (root)"
 
 3. **Dados disponíveis em:**
-   - `https://SEU-USUARIO.github.io/brasil-ispb-database/data/ispbs.json`
-   - `https://SEU-USUARIO.github.io/brasil-ispb-database/data/last_update.json`
+   - `https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.json`
+   - `https://antoniopaolillo.github.io/brasil-ispb-database/data/last_update.json`
 
 ### Exemplo de Uso
 ```python
 import requests
 
 # Dados sempre atualizados diretamente do GitHub
-url = "https://SEU-USUARIO.github.io/brasil-ispb-database/data/ispbs.json"
+url = "https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.json"
 response = requests.get(url)
 ispbs = response.json()
 
@@ -176,7 +176,7 @@ instituicao = next((item for item in ispbs if item["ispb"] == ispb_procurado), N
 ## 📊 Monitoramento e Logs
 
 ### GitHub Actions
-- Visualizar execuções: `https://github.com/SEU-USUARIO/brasil-ispb-database/actions`
+- Visualizar execuções: `https://github.com/antoniopaolillo/brasil-ispb-database/actions`
 - Logs detalhados de cada atualização
 - Notificações por email em caso de falha
 

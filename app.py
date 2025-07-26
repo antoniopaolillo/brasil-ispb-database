@@ -208,7 +208,7 @@ HOME_TEMPLATE = """
     <div class="example">
         import requests<br><br>
         # Carregar dados diretamente<br>
-        url = "https://raw.githubusercontent.com/seu-usuario/brasil-ispb-database/main/data/ispbs.json"<br>
+        url = "https://raw.githubusercontent.com/antoniopaolillo/brasil-ispb-database/main/data/ispbs.json"<br>
         response = requests.get(url)<br>
         ispbs = response.json()
     </div>
