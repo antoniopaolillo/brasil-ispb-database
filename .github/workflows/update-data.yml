@@ -1,0 +1,97 @@
+name: Update ISPB Data
+
+on:
+  # Execução diária às 9:00 BRT (12:00 UTC)
+  schedule:
+    - cron: '0 12 * * *'
+  
+  # Permitir execução manual
+  workflow_dispatch:
+  
+  # Execução na primeira vez (push to main)
+  push:
+    branches: [ main ]
+    paths:
+      - 'scripts/update_data.py'
+      - '.github/workflows/update-data.yml'
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Create data directory
+      run: mkdir -p data
+    
+    - name: Update ISPB data
+      run: |
+        python scripts/update_data.py
+      env:
+        PYTHONPATH: ${{ github.workspace }}
+    
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        git commit -m "🤖 Atualização automática dos dados de ISPB - $(date '+%Y-%m-%d %H:%M:%S')"
+        git push
+    
+    - name: Generate summary
+      if: always()
+      run: |
+        echo "## 📊 Resumo da Atualização" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Data da execução:** $(date)" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f "data/last_update.json" ]; then
+          echo "**Metadados:**" >> $GITHUB_STEP_SUMMARY
+          echo '```json' >> $GITHUB_STEP_SUMMARY
+          cat data/last_update.json >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ **Dados atualizados com sucesso!**" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "ℹ️ **Nenhuma alteração detectada nos dados.**" >> $GITHUB_STEP_SUMMARY
+        fi
+    
+    - name: Create artifact
+      uses: actions/upload-artifact@v4
+      if: always()
+      with:
+        name: ispb-data-${{ github.run_number }}
+        path: |
+          data/ispbs.json
+          data/last_update.json
+        retention-days: 7 
