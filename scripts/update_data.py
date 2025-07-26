@@ -154,38 +154,73 @@ class ISPBDataUpdater:
         """Baixa dados do STR."""
         return self._download_csv(STR_URL, "Lista STR")
     
-    def _standardize_column_names(self, df: pd.DataFrame, source: str) -> pd.DataFrame:
-        """Padroniza nomes das colunas."""
-        # Mapear colunas conhecidas para nomes padrão
-        column_mapping = {
-            # PIX
-            'Nome Reduzido': 'nome',
-            'ISPB': 'ispb',
-            'CNPJ': 'cnpj',
-            'Tipo de Instituição': 'tipo_instituicao',
-            'Autorizada pelo BCB': 'autorizada_bcb',
-            'Tipo de Participação no SPI': 'tipo_participacao_spi',
-            'Tipo de Participação no Pix': 'tipo_participacao_pix',
-            'Modalidade de Participação no Pix': 'modalidade_pix',
-            'Status em produção': 'status_producao',
-            'Iniciação de Transação de Pagamento': 'iniciacao_pagamento',
-            'Facilitador de serviço de Saque e Troco (FSS)': 'facilitador_saque',
-            
-            # STR (adaptar conforme necessário)
-            'NomeReduzido': 'nome',
-            'Nome': 'nome',
-            'CNPJ_Principal': 'cnpj',
-            'TipoInstituicao': 'tipo_instituicao',
-            'Situacao': 'status_producao',
+    def _normalize_institution_data(self, df: pd.DataFrame, source: str) -> pd.DataFrame:
+        """Normaliza dados de instituições para estrutura única."""
+        
+        # Definir estrutura padrão para TODAS as instituições
+        standard_structure = {
+            'ispb': '',
+            'nome_completo': '',
+            'nome_reduzido': '',
+            'cnpj': '',
+            'tipo_instituicao': '',
+            'autorizada_bcb': '',
+            'participa_pix': 'Não',
+            'participa_str': 'Não',
+            'status_operacional': '',
+            'data_inicio_operacao': '',
+            'acesso_principal': '',
+            'participa_compe': '',
+            'modalidade_pix': '',
+            'iniciacao_pagamento': 'Não',
+            'facilitador_saque': 'Não',
+            'fonte_dados': source
         }
         
-        # Renomear colunas
-        df = df.rename(columns=column_mapping)
+        # Criar DataFrame normalizado
+        normalized_data = []
         
-        # Adicionar fonte
-        df['fonte'] = source
+        for _, row in df.iterrows():
+            normalized_row = standard_structure.copy()
+            
+            if source == 'PIX':
+                # Mapeamento específico para dados do PIX
+                normalized_row.update({
+                    'ispb': str(row.get('ISPB', '')).strip(),
+                    'nome_completo': str(row.get('Nome Reduzido', '')).strip(),
+                    'nome_reduzido': str(row.get('Nome Reduzido', '')).strip(),
+                    'cnpj': str(row.get('CNPJ', '')).strip(),
+                    'tipo_instituicao': str(row.get('Tipo de Instituição', '')).strip(),
+                    'autorizada_bcb': str(row.get('Autorizada pelo BCB', '')).strip(),
+                    'participa_pix': 'Sim',
+                    'status_operacional': str(row.get('Status em produção', '')).strip(),
+                    'modalidade_pix': str(row.get('Modalidade de Participação no Pix', '')).strip(),
+                    'iniciacao_pagamento': str(row.get('Iniciação de Transação de Pagamento', 'Não')).strip(),
+                    'facilitador_saque': str(row.get('Facilitador de serviço de Saque e Troco (FSS)', 'Não')).strip(),
+                })
+                
+            elif source == 'STR':
+                # Mapeamento específico para dados do STR
+                nome_extenso = str(row.get('Nome_Extenso', '')).strip()
+                nome_reduzido = str(row.get('Nome_Reduzido', '')).strip()
+                
+                normalized_row.update({
+                    'ispb': str(row.get('ISPB', '')).strip(),
+                    'nome_completo': nome_extenso if nome_extenso else nome_reduzido,
+                    'nome_reduzido': nome_reduzido,
+                    'cnpj': '',  # STR não tem CNPJ
+                    'tipo_instituicao': 'Instituição Financeira',  # Genérico para STR
+                    'autorizada_bcb': 'Sim',  # Todas do STR são autorizadas
+                    'participa_str': 'Sim',
+                    'status_operacional': 'Ativo',  # Assumir ativo se está no STR
+                    'data_inicio_operacao': str(row.get('Início_da_Operação', '')).strip(),
+                    'acesso_principal': str(row.get('Acesso_Principal', '')).strip(),
+                    'participa_compe': str(row.get('Participa_da_Compe', '')).strip(),
+                })
+            
+            normalized_data.append(normalized_row)
         
-        return df
+        return pd.DataFrame(normalized_data)
     
     def _clean_and_validate_data(self, df: pd.DataFrame) -> pd.DataFrame:
         """Limpa e valida os dados."""
@@ -215,38 +250,68 @@ class ISPBDataUpdater:
         return df
     
     def consolidate_data(self, pix_df: Optional[pd.DataFrame], str_df: Optional[pd.DataFrame]) -> List[Dict]:
-        """Consolida dados do PIX e STR, removendo duplicatas."""
-        all_data = []
+        """Consolida dados do PIX e STR com estrutura única."""
+        consolidated_institutions = {}
         
         # Processar dados do PIX
         if pix_df is not None:
-            logger.info("Processando dados do PIX...")
-            pix_clean = self._standardize_column_names(pix_df, 'PIX')
-            pix_clean = self._clean_and_validate_data(pix_clean)
+            logger.info("Normalizando dados do PIX...")
+            pix_normalized = self._normalize_institution_data(pix_df, 'PIX')
+            pix_clean = self._clean_and_validate_data(pix_normalized)
             
             for _, row in pix_clean.iterrows():
-                all_data.append(row.to_dict())
+                ispb = row['ispb']
+                if ispb and ispb.isdigit() and len(ispb) == 8:
+                    consolidated_institutions[ispb] = row.to_dict()
         
         # Processar dados do STR
         if str_df is not None:
-            logger.info("Processando dados do STR...")
-            str_clean = self._standardize_column_names(str_df, 'STR')
-            str_clean = self._clean_and_validate_data(str_clean)
+            logger.info("Normalizando dados do STR...")
+            str_normalized = self._normalize_institution_data(str_df, 'STR')
+            str_clean = self._clean_and_validate_data(str_normalized)
             
             for _, row in str_clean.iterrows():
-                all_data.append(row.to_dict())
+                ispb = row['ispb']
+                if ispb and ispb.isdigit() and len(ispb) == 8:
+                    if ispb in consolidated_institutions:
+                        # Instituição já existe (vem do PIX), merge dados do STR
+                        existing = consolidated_institutions[ispb]
+                        
+                        # Usar nome mais completo se disponível
+                        if not existing['nome_completo'] and row['nome_completo']:
+                            existing['nome_completo'] = row['nome_completo']
+                        
+                        # Manter melhor tipo de instituição (PIX é mais específico)
+                        if existing['tipo_instituicao'] == 'Instituição Financeira' and row['tipo_instituicao']:
+                            existing['tipo_instituicao'] = row['tipo_instituicao']
+                        
+                        # Adicionar informações exclusivas do STR
+                        existing['participa_str'] = 'Sim'
+                        existing['data_inicio_operacao'] = row['data_inicio_operacao']
+                        existing['acesso_principal'] = row['acesso_principal']
+                        existing['participa_compe'] = row['participa_compe']
+                        
+                        # Indicar que tem dados de ambas as fontes
+                        existing['fonte_dados'] = 'PIX+STR'
+                        
+                    else:
+                        # Instituição só existe no STR
+                        consolidated_institutions[ispb] = row.to_dict()
         
-        # Remover duplicatas por ISPB (mantém o primeiro encontrado)
-        seen_ispbs = set()
-        unique_data = []
+        # Converter para lista e ordenar por ISPB
+        unique_data = list(consolidated_institutions.values())
+        unique_data.sort(key=lambda x: x['ispb'])
         
-        for item in all_data:
-            ispb = item.get('ispb')
-            if ispb and ispb not in seen_ispbs:
-                seen_ispbs.add(ispb)
-                unique_data.append(item)
+        # Estatísticas para log
+        pix_only = sum(1 for item in unique_data if item['fonte_dados'] == 'PIX')
+        str_only = sum(1 for item in unique_data if item['fonte_dados'] == 'STR')
+        both = sum(1 for item in unique_data if item['fonte_dados'] == 'PIX+STR')
         
         logger.info(f"Dados consolidados: {len(unique_data)} instituições únicas")
+        logger.info(f"  - Apenas PIX: {pix_only}")
+        logger.info(f"  - Apenas STR: {str_only}")
+        logger.info(f"  - PIX+STR: {both}")
+        
         return unique_data
     
     def _clean_data_for_json(self, data: List[Dict]) -> List[Dict]:
@@ -293,10 +358,28 @@ class ISPBDataUpdater:
             # Substituir NaN por strings vazias no CSV também
             df = df.fillna('')
             
-            # Reordenar colunas para ter as principais primeiro
-            cols_order = ['ispb', 'nome', 'cnpj', 'tipo_instituicao', 'fonte']
-            other_cols = [col for col in df.columns if col not in cols_order]
-            final_cols = [col for col in cols_order if col in df.columns] + other_cols
+            # Ordenar colunas de forma lógica (informações principais primeiro)
+            cols_order = [
+                'ispb', 
+                'nome_completo', 
+                'nome_reduzido',
+                'cnpj', 
+                'tipo_instituicao',
+                'autorizada_bcb',
+                'participa_pix',
+                'participa_str',
+                'status_operacional',
+                'fonte_dados',
+                'modalidade_pix',
+                'iniciacao_pagamento',
+                'facilitador_saque',
+                'data_inicio_operacao',
+                'acesso_principal',
+                'participa_compe'
+            ]
+            
+            # Garantir que todas as colunas existam
+            final_cols = [col for col in cols_order if col in df.columns]
             
             df = df[final_cols]
             df.to_csv(csv_file, index=False, encoding='utf-8-sig')
@@ -307,8 +390,8 @@ class ISPBDataUpdater:
         metadata = {
             "last_update": datetime.now().isoformat(),
             "total_institutions": len(clean_data),
-            "sources": list(set(item.get('fonte', 'unknown') for item in clean_data if item.get('fonte'))),
-            "update_script_version": "1.2",
+            "sources": list(set(item.get('fonte_dados', 'unknown') for item in clean_data if item.get('fonte_dados'))),
+            "update_script_version": "2.0",
             "formats_available": ["json", "csv"]
         }
         

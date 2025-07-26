@@ -16,7 +16,37 @@
 | **📈 Metadados** | [`https://antoniopaolillo.github.io/brasil-ispb-database/data/last_update.json`](https://antoniopaolillo.github.io/brasil-ispb-database/data/last_update.json) | Info sobre última atualização |
 
 > ⚡ **Dados atualizados automaticamente todos os dias úteis às 9:00 BRT**
+## 📊 Estrutura dos Dados (Normalizada)
 
+**Cada instituição possui os mesmos campos padronizados:**
+
+### 🏷️ **Identificação**
+- **`ispb`** - Código ISPB único (8 dígitos)
+- **`nome_completo`** - Nome completo da instituição
+- **`nome_reduzido`** - Nome reduzido/fantasia
+- **`cnpj`** - CNPJ da instituição (quando disponível)
+
+### 🏛️ **Classificação**
+- **`tipo_instituicao`** - Tipo (Banco, Instituição de Pagamento, etc.)
+- **`autorizada_bcb`** - Autorizada pelo Banco Central (Sim/Não)
+
+### 🔗 **Participação em Sistemas**
+- **`participa_pix`** - Participa do PIX (Sim/Não)
+- **`participa_str`** - Participa do STR (Sim/Não)
+- **`participa_compe`** - Participa da COMPE (Sim/Não)
+
+### 📈 **Status e Operação**
+- **`status_operacional`** - Status atual da operação
+- **`data_inicio_operacao`** - Data de início das operações
+- **`acesso_principal`** - Tipo de acesso ao sistema
+
+### 🎯 **Específicos do PIX**
+- **`modalidade_pix`** - Modalidade de participação no PIX
+- **`iniciacao_pagamento`** - Permite iniciação de pagamento (Sim/Não)
+- **`facilitador_saque`** - É facilitador de saque e troco (Sim/Não)
+
+### 📍 **Metadados**
+- **`fonte_dados`** - Origem dos dados (PIX, STR, ou PIX+STR)
 ---
 
 ## 📋 Sobre
@@ -90,9 +120,16 @@ import pandas as pd
 url = "https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.csv"
 df = pd.read_csv(url)
 
-# Filtrar por tipo de instituição
-bancos = df[df['tipo_instituicao'].str.contains('Banco', na=False)]
-print(f"Total de bancos: {len(bancos)}")
+# Análises possíveis com a estrutura normalizada
+print(f"Total de instituições: {len(df)}")
+
+# Instituições que participam tanto do PIX quanto do STR
+pix_e_str = df[(df['participa_pix'] == 'Sim') & (df['participa_str'] == 'Sim')]
+print(f"PIX + STR: {len(pix_e_str)} instituições")
+
+# Bancos por tipo
+tipos = df['tipo_instituicao'].value_counts()
+print("Tipos de instituição:", tipos.head())
 
 # Exportar para Excel local
 df.to_excel("ispbs_brasil.xlsx", index=False)
