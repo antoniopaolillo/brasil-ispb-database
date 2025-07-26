@@ -72,14 +72,27 @@ class ISPBDataUpdater:
             response = self.session.get(url, timeout=30)
             response.raise_for_status()
             
-            # Detectar encoding
-            encoding = response.encoding or 'utf-8'
-            if encoding.lower() in ['iso-8859-1', 'latin-1']:
-                encoding = 'latin-1'
+            # Tentar diferentes encodings para caracteres acentuados
+            encodings_to_try = ['utf-8', 'latin-1', 'cp1252', 'iso-8859-1']
+            csv_content = None
+            
+            for encoding in encodings_to_try:
+                try:
+                    csv_content = response.content.decode(encoding)
+                    # Verificar se há caracteres estranhos
+                    if '�' not in csv_content and 'Ã§' not in csv_content:
+                        logger.info(f"Encoding detectado: {encoding}")
+                        break
+                except UnicodeDecodeError:
+                    continue
+            
+            # Se não conseguiu com nenhum encoding, usar latin-1 com replace
+            if csv_content is None or '�' in csv_content:
+                csv_content = response.content.decode('latin-1', errors='replace')
+                logger.warning("Usando latin-1 com fallback para caracteres especiais")
             
             # Ler CSV
             from io import StringIO
-            csv_content = response.content.decode(encoding, errors='replace')
             
             # Tratamento específico para cada tipo de CSV
             if 'pix' in url.lower():
@@ -112,7 +125,7 @@ class ISPBDataUpdater:
             df = df.dropna(axis=1, how='all')
             
             logger.info(f"✅ {description} baixado com sucesso: {len(df)} linhas")
-            logger.info(f"Colunas encontradas: {list(df.columns)}")
+            logger.info(f"Colunas encontradas: {list(df.columns)[:5]}...")  # Mostrar só as 5 primeiras
             return df
             
         except requests.exceptions.RequestException as e:
@@ -236,21 +249,67 @@ class ISPBDataUpdater:
         logger.info(f"Dados consolidados: {len(unique_data)} instituições únicas")
         return unique_data
     
-    def save_data(self, data: List[Dict]) -> None:
-        """Salva dados consolidados em JSON."""
-        # Salvar dados principais
-        output_file = DATA_DIR / "ispbs.json"
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+    def _clean_data_for_json(self, data: List[Dict]) -> List[Dict]:
+        """Limpa dados para evitar problemas no JSON (NaN, etc)."""
+        clean_data = []
         
-        logger.info(f"✅ Dados salvos em: {output_file}")
+        for item in data:
+            clean_item = {}
+            for key, value in item.items():
+                # Tratar valores NaN, None, ou inválidos
+                if pd.isna(value) or value is None:
+                    clean_item[key] = ""
+                elif isinstance(value, str):
+                    # Limpar strings vazias ou com apenas espaços
+                    cleaned_str = str(value).strip()
+                    if cleaned_str.lower() in ['nan', 'none', 'null', '']:
+                        clean_item[key] = ""
+                    else:
+                        clean_item[key] = cleaned_str
+                else:
+                    clean_item[key] = str(value).strip() if value else ""
+            
+            clean_data.append(clean_item)
+        
+        return clean_data
+    
+    def save_data(self, data: List[Dict]) -> None:
+        """Salva dados consolidados em JSON e CSV."""
+        # Limpar dados para JSON (remover NaN, etc)
+        clean_data = self._clean_data_for_json(data)
+        
+        # Salvar dados em JSON
+        json_file = DATA_DIR / "ispbs.json"
+        with open(json_file, 'w', encoding='utf-8') as f:
+            json.dump(clean_data, f, ensure_ascii=False, indent=2)
+        
+        logger.info(f"✅ Dados JSON salvos em: {json_file}")
+        
+        # Salvar dados em CSV
+        if data:
+            csv_file = DATA_DIR / "ispbs.csv"
+            df = pd.DataFrame(data)
+            
+            # Substituir NaN por strings vazias no CSV também
+            df = df.fillna('')
+            
+            # Reordenar colunas para ter as principais primeiro
+            cols_order = ['ispb', 'nome', 'cnpj', 'tipo_instituicao', 'fonte']
+            other_cols = [col for col in df.columns if col not in cols_order]
+            final_cols = [col for col in cols_order if col in df.columns] + other_cols
+            
+            df = df[final_cols]
+            df.to_csv(csv_file, index=False, encoding='utf-8-sig')
+            
+            logger.info(f"✅ Dados CSV salvos em: {csv_file}")
         
         # Salvar metadados da atualização
         metadata = {
             "last_update": datetime.now().isoformat(),
-            "total_institutions": len(data),
-            "sources": list(set(item.get('fonte', 'unknown') for item in data)),
-            "update_script_version": "1.0"
+            "total_institutions": len(clean_data),
+            "sources": list(set(item.get('fonte', 'unknown') for item in clean_data if item.get('fonte'))),
+            "update_script_version": "1.2",
+            "formats_available": ["json", "csv"]
         }
         
         metadata_file = DATA_DIR / "last_update.json"

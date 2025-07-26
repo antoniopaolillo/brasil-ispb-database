@@ -5,6 +5,20 @@
 
 > **Lista completa e atualizada diariamente de todas as instituições financeiras do Brasil que possuem ISPB (Identificador do Sistema de Pagamentos Brasileiros)**
 
+## 📊 **DADOS SEMPRE ATUALIZADOS - ACESSO DIRETO**
+
+### 🔗 **Links dos Dados (GitHub Pages)**
+
+| Formato | Link Direto | Descrição |
+|---------|-------------|-----------|
+| **📋 CSV** | [`https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.csv`](https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.csv) | Ideal para Excel, Google Sheets, análises |
+| **📄 JSON** | [`https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.json`](https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.json) | Ideal para APIs, desenvolvimento, integração |
+| **📈 Metadados** | [`https://antoniopaolillo.github.io/brasil-ispb-database/data/last_update.json`](https://antoniopaolillo.github.io/brasil-ispb-database/data/last_update.json) | Info sobre última atualização |
+
+> ⚡ **Dados atualizados automaticamente todos os dias úteis às 9:00 BRT**
+
+---
+
 ## 📋 Sobre
 
 Este projeto mantém uma base de dados sempre atualizada de todas as instituições financeiras brasileiras que possuem ISPB, consolidando informações de:
@@ -17,7 +31,8 @@ Este projeto mantém uma base de dados sempre atualizada de todas as instituiç�
 - 🔄 **Atualização automática diária** via GitHub Actions
 - 🏦 **Lista consolidada** sem duplicatas por ISPB
 - 🔍 **API simples** para consultas por ISPB ou lista completa
-- 📊 **Dados em JSON** para fácil integração
+- 📊 **Múltiplos formatos**: JSON e CSV
+- 📋 **CSV para análises** em Excel, Google Sheets, Power BI
 - 🌐 **Totalmente gratuito** e open source
 
 ## 📊 Dados Disponíveis
@@ -50,21 +65,42 @@ curl http://localhost:8000/api/ispb/00000000           # Busca por ISPB específ
 
 ### Dados Diretos
 
-Os dados estão sempre disponíveis no arquivo [`data/ispbs.json`](data/ispbs.json)
+Os dados estão sempre disponíveis em múltiplos formatos:
 
+#### 📄 **JSON (Para APIs e Desenvolvimento)**
 ```python
-import json
 import requests
 
-# Carregar dados diretamente do GitHub
-url = "https://raw.githubusercontent.com/antoniopaolillo/brasil-ispb-database/main/data/ispbs.json"
+# Carregar dados diretamente do GitHub Pages
+url = "https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.json"
 response = requests.get(url)
 ispbs = response.json()
 
 # Buscar por ISPB específico
-ispb_procurado = "00000000"
+ispb_procurado = "24313102"  # 99PAY IP S.A.
 instituicao = next((item for item in ispbs if item["ispb"] == ispb_procurado), None)
+print(f"Encontrado: {instituicao['nome']}")
 ```
+
+#### 📋 **CSV (Para Análises em Excel/Google Sheets)**
+```python
+import pandas as pd
+
+# Carregar CSV diretamente
+url = "https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.csv"
+df = pd.read_csv(url)
+
+# Filtrar por tipo de instituição
+bancos = df[df['tipo_instituicao'].str.contains('Banco', na=False)]
+print(f"Total de bancos: {len(bancos)}")
+
+# Exportar para Excel local
+df.to_excel("ispbs_brasil.xlsx", index=False)
+```
+
+#### 🔗 **Links Diretos (Clique para Download)**
+- **CSV**: [ispbs.csv](https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.csv)
+- **JSON**: [ispbs.json](https://antoniopaolillo.github.io/brasil-ispb-database/data/ispbs.json)
 
 ## 🏗️ Estrutura do Projeto
 
@@ -103,24 +139,6 @@ python scripts/update_data.py
 # Executar API
 python app.py
 ```
-
-## 🌐 Hospedagem Gratuita
-
-### Opção 1: GitHub Pages + GitHub Actions (Recomendado)
-- ✅ Totalmente gratuito
-- ✅ Dados sempre atualizados
-- ✅ CDN global
-- ❌ Apenas arquivos estáticos (sem API)
-
-### Opção 2: Railway
-- ✅ API completa
-- ✅ $5/mês de crédito gratuito
-- ✅ Deploy automático
-
-### Opção 3: Render
-- ✅ API completa
-- ✅ Tier gratuito disponível
-- ❌ Hiberna após inatividade
 
 ## 🤝 Contribuições
 

@@ -101,5 +101,6 @@ jobs:
         name: ispb-data-${{ github.run_number }}
         path: |
           data/ispbs.json
+          data/ispbs.csv
           data/last_update.json
         retention-days: 7 
