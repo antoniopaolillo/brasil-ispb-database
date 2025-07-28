@@ -613,7 +613,6 @@
 28195667,BCO ABC BRASIL S.A.,BCO ABC BRASIL S.A.,28195667000106,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 28220872,VALEPAY,VALEPAY,28220872000184,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 28269650,MB INVESTIMENTOS,MB INVESTIMENTOS,28269650000156,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-28494518,LIDER,LIDER,28494518000148,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 28595756,SUN SOLUCOES DE PAGAMENTOS,SUN SOLUCOES DE PAGAMENTOS,28595756000140,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 28650236,GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,GALAPAGOS DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2018,RSFN,Não
 28683892,PAYMEE BRASIL IP S.A.,PAYMEE BRASIL IP S.A.,28683892000191,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -630,7 +629,6 @@
 30153943,MONEY CLOUD IP S.A.,MONEY CLOUD IP S.A.,30153943000115,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 30306294,BANCO BTG PACTUAL S.A.,BANCO BTG PACTUAL S.A.,30306294000145,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 30498377,CSD CENTRAL DE SERVICOS DE REGISTRO E DEPOSITO AOS MERCADOS FINANCEIRO E DE CAPITAIS S.A.,CSDBR,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/02/2025,RSFN,Não
-30612886,DELIVERY PAY,DELIVERY PAY,30612886000195,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 30680829,"NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento",NU FINANCEIRA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/01/2021,RSFN,Não
 30723871,BANQI,BANQI,30723871000102,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,07/05/2025,RSFN,Não
 30723886,Banco Modal S.A.,BCO MODAL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
@@ -917,7 +915,7 @@
 53776852,CCR FOR CANA CENTRO EST SP,CCR FOR CANA CENTRO EST SP,53776852000131,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 53822116,MW IP LTDA.,MW IP LTDA.,53822116000172,Instituição de Pagamento,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 53841911,CCI UNINDÚSTRIA,CCI UNINDÚSTRIA,53841911000108,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-53842122,URBANO S.A. SCFI,URBANO S.A. SCFI,53842122000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação restrita,PIX+STR,Provedor de Conta Transacional,Não,Não,23/12/2024,RSFN,Não
+53842122,URBANO S.A. SCFI,URBANO S.A. SCFI,53842122000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,23/12/2024,RSFN,Não
 53935029,CCLA SICOOB COOCRELIVRE,CCLA SICOOB COOCRELIVRE,53935029000121,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 54037916,CC CREDICITRUS,CC CREDICITRUS,54037916000145,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 54190525,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,54190525000166,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
