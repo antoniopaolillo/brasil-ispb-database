@@ -303,6 +303,7 @@
 05979692,CREDCREA,CREDCREA,05979692000185,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 05983995,COOP CRESOL COOPERAR,COOP CRESOL COOPERAR,05983995000171,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 06031727,COOP CRESOL ESSENCIA,COOP CRESOL ESSENCIA,06031727000112,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+06062488,BLACK SIG PAY INSTITUICAO DE P,BLACK SIG PAY INSTITUICAO DE P,06062488000168,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 06078926,COOP SICREDI CREDENOREG,COOP SICREDI CREDENOREG,06078926000186,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 06126780,COOP CRESOL GRANDES LAGOS PR/SP,COOP CRESOL GRANDES LAGOS PR/SP,06126780000105,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 06139650,COOP CRESOL RIO GRANDE DO SUL,COOP CRESOL RIO GRANDE DO SUL,06139650000107,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -330,7 +331,7 @@
 07268499,COOP CRESOL INTEGRACAO,COOP CRESOL INTEGRACAO,07268499000161,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 07318874,COOP  SICOOB MÉDIO OESTE,COOP  SICOOB MÉDIO OESTE,07318874000130,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 07320890,COOP CRESOL VALE,COOP CRESOL VALE,07320890000168,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-07322044,XISNET,XISNET,07322044000187,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+07322044,6PAY IP,6PAY IP,07322044000187,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 07398335,AILOG IP LTDA.,AILOG IP LTDA.,07398335000159,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 07412987,COOP CRESOL ALIANÇA,COOP CRESOL ALIANÇA,07412987000109,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 07450604,BANK OF CHINA (BRASIL) BANCO MÚLTIPLO S/A,BOC BRASIL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
@@ -608,7 +609,7 @@
 27970567,HINOVA PAY IP S.A.,HINOVA PAY IP S.A.,27970567000147,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,12/12/2024,RSFN,Não
 28127603,BCO BANESTES S.A.,BCO BANESTES S.A.,28127603000178,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Sim
 28195667,BCO ABC BRASIL S.A.,BCO ABC BRASIL S.A.,28195667000106,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
-28220872,VALEPAY,VALEPAY,28220872000184,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+28220872,VALEPAY BRASIL IP,VALEPAY BRASIL IP,28220872000184,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 28494518,LIDER,LIDER,28494518000148,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 28595756,SUN SOLUCOES DE PAGAMENTOS,SUN SOLUCOES DE PAGAMENTOS,28595756000140,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 28650236,GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,GALAPAGOS DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2018,RSFN,Não

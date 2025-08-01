@@ -5472,6 +5472,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "06062488",
+    "nome_completo": "BLACK SIG PAY INSTITUICAO DE P",
+    "nome_reduzido": "BLACK SIG PAY INSTITUICAO DE P",
+    "cnpj": "06062488000168",
+    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
+    "autorizada_bcb": "Não",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Etapa Homologatória",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "06078926",
     "nome_completo": "COOP SICREDI CREDENOREG",
     "nome_reduzido": "COOP SICREDI CREDENOREG",
@@ -5959,8 +5977,8 @@
   },
   {
     "ispb": "07322044",
-    "nome_completo": "XISNET",
-    "nome_reduzido": "XISNET",
+    "nome_completo": "6PAY IP",
+    "nome_reduzido": "6PAY IP",
     "cnpj": "07322044000187",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -10963,8 +10981,8 @@
   },
   {
     "ispb": "28220872",
-    "nome_completo": "VALEPAY",
-    "nome_reduzido": "VALEPAY",
+    "nome_completo": "VALEPAY BRASIL IP",
+    "nome_reduzido": "VALEPAY BRASIL IP",
     "cnpj": "28220872000184",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
