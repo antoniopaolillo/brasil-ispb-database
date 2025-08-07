@@ -5472,24 +5472,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "06062488",
-    "nome_completo": "BLACK SIG PAY INSTITUICAO DE P",
-    "nome_reduzido": "BLACK SIG PAY INSTITUICAO DE P",
-    "cnpj": "06062488000168",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "Etapa Homologatória",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "06078926",
     "nome_completo": "COOP SICREDI CREDENOREG",
     "nome_reduzido": "COOP SICREDI CREDENOREG",
@@ -7450,6 +7432,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
+  },
+  {
+    "ispb": "10440482",
+    "nome_completo": "GETNET ADQUIRÊNCIA E SERVIÇOS PARA MEIOS DE PAGAMENTO S.A. INSTITUIÇÃO DE PAGAMENTO",
+    "nome_reduzido": "GETNET IP",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "13/08/2025",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
   },
   {
     "ispb": "10506341",
@@ -9450,6 +9450,24 @@
     "fonte_dados": "PIX+STR"
   },
   {
+    "ispb": "20443996",
+    "nome_completo": "BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "nome_reduzido": "BECKER FINANCEIRA SA - CFI",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "13/08/2025",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
+  },
+  {
     "ispb": "20520298",
     "nome_completo": "BS2 PAYMENTS IP S.A.",
     "nome_reduzido": "BS2 PAYMENTS IP S.A.",
@@ -10973,7 +10991,7 @@
     "status_operacional": "Ativo em operação plena",
     "data_inicio_operacao": "22/04/2002",
     "acesso_principal": "RSFN",
-    "participa_compe": "Sim",
+    "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
@@ -12544,6 +12562,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "STR"
+  },
+  {
+    "ispb": "33735811",
+    "nome_completo": "B91",
+    "nome_reduzido": "B91",
+    "cnpj": "33735811000190",
+    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
+    "autorizada_bcb": "Não",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Ativo em operação restrita",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
   },
   {
     "ispb": "33737818",
@@ -15711,24 +15747,6 @@
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
-  },
-  {
-    "ispb": "47381104",
-    "nome_completo": "CONTAAZUL IP LTDA.",
-    "nome_reduzido": "CONTAAZUL IP LTDA.",
-    "cnpj": "47381104000157",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "Aguardando Início da Etapa de Operação Restrita",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "",
-    "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
   {

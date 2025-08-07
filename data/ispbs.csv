@@ -303,7 +303,6 @@
 05979692,CREDCREA,CREDCREA,05979692000185,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 05983995,COOP CRESOL COOPERAR,COOP CRESOL COOPERAR,05983995000171,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 06031727,COOP CRESOL ESSENCIA,COOP CRESOL ESSENCIA,06031727000112,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-06062488,BLACK SIG PAY INSTITUICAO DE P,BLACK SIG PAY INSTITUICAO DE P,06062488000168,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 06078926,COOP SICREDI CREDENOREG,COOP SICREDI CREDENOREG,06078926000186,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 06126780,COOP CRESOL GRANDES LAGOS PR/SP,COOP CRESOL GRANDES LAGOS PR/SP,06126780000105,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 06139650,COOP CRESOL RIO GRANDE DO SUL,COOP CRESOL RIO GRANDE DO SUL,06139650000107,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -413,6 +412,7 @@
 10348181,COOP SICREDI VALE LITORAL SC,COOP SICREDI VALE LITORAL SC,10348181000103,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Sim,,,
 10371492,Banco Yamaha Motor do Brasil S.A.,BCO YAMAHA MOTOR S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2022,RSFN,Não
 10398952,CRESOL CONFEDERAÇÃO,CRESOL CONFEDERAÇÃO,10398952000169,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,02/05/2016,RSFN,Sim
+10440482,GETNET ADQUIRÊNCIA E SERVIÇOS PARA MEIOS DE PAGAMENTO S.A. INSTITUIÇÃO DE PAGAMENTO,GETNET IP,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/08/2025,RSFN,Não
 10506341,BLU IP LTDA.,BLU IP LTDA.,10506341000197,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 10520232,COOP CRESOL AMAZONIA,COOP CRESOL AMAZONIA,10520232000124,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 10573521,MERCADO PAGO IP LTDA.,MERCADO PAGO IP LTDA.,10573521000191,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Sim,24/06/2019,RSFN,Não
@@ -524,6 +524,7 @@
 20155248,UNIDA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,UNIDA DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/10/2017,RSFN,Não
 20251847,SUDACRED SCD S.A.,SUDACRED SCD S.A.,20251847000156,Sociedade de Crédito Direto,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,08/05/2023,RSFN,Não
 20308187,PROVER PROMOCAO DE VENDAS IP LTDA.,PROVER PROMOCAO DE VENDAS IP LTDA.,20308187000100,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,04/03/2024,RSFN,Não
+20443996,"BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",BECKER FINANCEIRA SA - CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/08/2025,RSFN,Não
 20520298,BS2 PAYMENTS IP S.A.,BS2 PAYMENTS IP S.A.,20520298000178,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 20757199,PAY4FUN IP S.A.,PAY4FUN IP S.A.,20757199000104,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2023,RSFN,Não
 20855875,NEON PAGAMENTOS S.A. IP,NEON PAGAMENTOS S.A. IP,20855875000182,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,12/01/2023,RSFN,Não
@@ -608,7 +609,7 @@
 27842177,BPY CCTVM S.A.,BPY CCTVM S.A.,27842177000191,Sociedade Corretora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,26/02/2018,RSFN,Não
 27970567,HINOVA PAY IP S.A.,HINOVA PAY IP S.A.,27970567000147,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,12/12/2024,RSFN,Não
 28127603,BCO BANESTES S.A.,BCO BANESTES S.A.,28127603000178,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Sim
-28195667,BCO ABC BRASIL S.A.,BCO ABC BRASIL S.A.,28195667000106,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
+28195667,BCO ABC BRASIL S.A.,BCO ABC BRASIL S.A.,28195667000106,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 28220872,VALEPAY BRASIL IP,VALEPAY BRASIL IP,28220872000184,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 28494518,LIDER,LIDER,28494518000148,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 28595756,SUN SOLUCOES DE PAGAMENTOS,SUN SOLUCOES DE PAGAMENTOS,28595756000140,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -696,6 +697,7 @@
 33644196,Banco Fator S.A.,BCO FATOR S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 33657248,BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL,BNDES,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,30/06/2014,RSFN,Não
 33667205,"COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO CENTRO NORTE DO BRASIL - CENTRAL SICREDI CENTRO NORTE",CCC POUP INV DO CENTRO NORTE DO BRASIL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/03/2024,RSFN,Não
+33735811,B91,B91,33735811000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
 33737818,"COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DE MATO GROSSO DO SUL, GOIÁS, DISTRITO FEDERAL E TOCANTINS - CENTRAL SICREDI BRASIL CENTRAL","CCC POUP INV DE MS, GO, DF E TO",,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/03/2024,RSFN,Não
 33775974,"ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES",ATIVA S.A. INVESTIMENTOS CCTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2017,RSFN,Não
 33862244,BGC LIQUIDEZ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,BGC LIQUIDEZ DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2014,RSFN,Não
@@ -872,7 +874,6 @@
 46955383,QI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,QI DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/03/2024,RSFN,Não
 47074323,SICOOB CREDICONSUMO CC,SICOOB CREDICONSUMO CC,47074323000193,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 47133056,TRANSFERO IP LTDA.,TRANSFERO IP LTDA.,47133056000188,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
-47381104,CONTAAZUL IP LTDA.,CONTAAZUL IP LTDA.,47381104000157,Instituição de Pagamento,Sim,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 47593544,RED SOCIEDADE DE CRÉDITO DIRETO S.A.,RED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/03/2023,RSFN,Não
 47873449,SER FINANCE SCD S.A.,SER FINANCE SCD S.A.,47873449000128,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,14/03/2023,RSFN,Não
 48176336,PAGOL SCD,PAGOL SCD,48176336000136,Sociedade de Crédito Direto,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
