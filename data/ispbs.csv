@@ -484,6 +484,7 @@
 16814330,BK IP S.A.,BK IP S.A.,16814330000150,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,02/04/2025,RSFN,Não
 16876258,APTARE,APTARE,16876258000196,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 16944141,Broker Brasil Corretora de Câmbio Ltda.,BROKER BRASIL CC LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2015,RSFN,Não
+17028875,MY FIRST,MY FIRST,17028875000102,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
 17079937,PINBANK IP,PINBANK IP,17079937000105,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,16/11/2022,RSFN,Não
 17157777,BANCO NACIONAL S.A.,BCO NACIONAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/10/2024,RSFN,Não
 17184037,BCO MERCANTIL DO BRASIL S.A.,BCO MERCANTIL DO BRASIL S.A.,17184037000110,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
@@ -495,7 +496,7 @@
 17453575,ICBC do Brasil Banco Múltiplo S.A.,ICBC DO BRASIL BM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/09/2013,RSFN,Não
 17502881,CECM EMPR CEMIG IND METAL E SERV PUB MUN,CECM EMPR CEMIG IND METAL E SERV PUB MUN,17502881000141,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 17768068,PINPAG IP S.A.,PINPAG IP S.A.,17768068000118,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-17772370,Vip's Corretora de Câmbio Ltda.,VIPS CC LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/08/2018,Internet,Não
+17772370,VIPS CORRETORA DE CÂMBIO S.A.,VIPS CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/08/2018,Internet,Não
 17819084,PAGCERTO IP LTDA.,PAGCERTO IP LTDA.,17819084000192,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 17826860,BMS SCD S.A.,BMS SCD S.A.,17826860000181,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,01/10/2020,RSFN,Não
 18188384,CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE S.A.,CREFAZ SCMEPP SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/06/2019,RSFN,Não
@@ -686,7 +687,7 @@
 33370115,FURNAS,FURNAS,33370115000127,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33416108,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,33416108000119,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33423888,VILLELA IP S.A.,VILLELA IP S.A.,33423888000124,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-33449007,EMPRESA DE BENEFÍCIOS IP LTDA.,EMPRESA DE BENEFÍCIOS IP LTDA.,33449007000144,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,Não,,,
+33449007,EMPRESA DE BENEFÍCIOS IP LTDA.,EMPRESA DE BENEFÍCIOS IP LTDA.,33449007000144,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 33466988,Banco Caixa Geral - Brasil S.A.,BCO CAIXA GERAL BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,31/03/2009,RSFN,Não
 33479023,BCO CITIBANK S.A.,BCO CITIBANK S.A.,33479023000180,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 33579731,CCLA CENTRO-SUL GOIANO,CCLA CENTRO-SUL GOIANO,33579731000192,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -874,6 +875,7 @@
 46955383,QI DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,QI DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/03/2024,RSFN,Não
 47074323,SICOOB CREDICONSUMO CC,SICOOB CREDICONSUMO CC,47074323000193,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 47133056,TRANSFERO IP LTDA.,TRANSFERO IP LTDA.,47133056000188,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
+47381104,CONTAAZUL IP LTDA.,CONTAAZUL IP LTDA.,47381104000157,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,Não,,,
 47593544,RED SOCIEDADE DE CRÉDITO DIRETO S.A.,RED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/03/2023,RSFN,Não
 47873449,SER FINANCE SCD S.A.,SER FINANCE SCD S.A.,47873449000128,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,14/03/2023,RSFN,Não
 48176336,PAGOL SCD,PAGOL SCD,48176336000136,Sociedade de Crédito Direto,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -955,7 +957,7 @@
 60850229,OMNI BANCO S.A.,OMNI BANCO S.A.,60850229000147,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 60889128,BCO SOFISA S.A.,BCO SOFISA S.A.,60889128000180,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 60934221,Câmara de Câmbio B3,Câmbio B3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-61024352,BANCO VOITER,BANCO VOITER,61024352000171,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
+61024352,BM PLENO S.A.,BM PLENO S.A.,61024352000171,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 61033106,BCO CREFISA S.A.,BCO CREFISA S.A.,61033106000186,Banco Comercial,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,18/11/2005,RSFN,Sim
 61088183,Banco Mizuho do Brasil S.A.,BCO MIZUHO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 61182408,Banco Investcred Unibanco S.A.,BANCO INVESTCRED UNIBANCO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
