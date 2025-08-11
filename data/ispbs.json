@@ -12762,24 +12762,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "33982918",
-    "nome_completo": "SIMPAY PAGAMENTOS LTDA",
-    "nome_reduzido": "SIMPAY PAGAMENTOS LTDA",
-    "cnpj": "33982918000132",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "Aguardando Início da Etapa de Operação Restrita",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "34006497",
     "nome_completo": "ASTROPAY",
     "nome_reduzido": "ASTROPAY",
