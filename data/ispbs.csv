@@ -757,7 +757,6 @@
 37229413,"SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO EFÍ S.A.",SCFI EFÍ S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 37241230,SUMUP SCD S.A.,SUMUP SCD S.A.,37241230000152,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,16/10/2020,RSFN,Não
 37255049,SICOOB CREDIGOIÁS CC,SICOOB CREDIGOIÁS CC,37255049000103,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-37293930,BASS PAGO,BASS PAGO,37293930000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 37319859,NEXT SERVICOS E NEGOCIOS LTDA,NEXT SERVICOS E NEGOCIOS LTDA,37319859000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 37395399,CCLA CENTRO BRASILEIRA LTDA.,CCLA CENTRO BRASILEIRA LTDA.,37395399000167,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 37414009,ZIPDIN SOLUÇÕES DIGITAIS SOCIEDADE DE CRÉDITO DIRETO S/A,ZIPDIN SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/08/2021,RSFN,Não
@@ -815,6 +814,7 @@
 40571694,WISE BRASIL IP LTDA.,WISE BRASIL IP LTDA.,40571694000131,Instituição de Pagamento,Sim,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 40654622,TRINUS SCD S.A.,TRINUS SCD S.A.,40654622000158,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,09/09/2021,RSFN,Não
 40710595,NG CASH IP,NG CASH IP,40710595000193,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+40735713,JRM2,JRM2,40735713000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 40768766,LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,LIONS TRUST DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 40820176,PAY BROKERS IP,PAY BROKERS IP,40820176000104,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 40910463,BIPA INSTITUICAO DE PAGAMENTO,BIPA INSTITUICAO DE PAGAMENTO,40910463000105,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -1093,7 +1093,7 @@
 81706616,COOP SICREDI VLR SUSTENT PR/SP,COOP SICREDI VLR SUSTENT PR/SP,81706616000184,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 81723108,CREDICOAMO,CREDICOAMO,81723108000104,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,10/12/2012,RSFN,Sim
 82065285,COOP SICREDI SOMA,COOP SICREDI SOMA,82065285000103,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-82096447,CREDI&GENTE - COOPERATIVA DE CRÉDITO E INVESTIMENTOS,COOP CREDI&GENTE,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/09/2021,RSFN,Não
+82096447,COOP CREDI&GENTE,COOP CREDI&GENTE,82096447000170,Cooperativa de Crédito,Sim,Sim,Sim,Aguardando Início da Etapa de Operação Restrita,PIX+STR,Provedor de Conta Transacional,nan,nan,02/09/2021,RSFN,Não
 82133182,CC DO VALE EUROPEU - SICOOB EURO VALE,CC DO VALE EUROPEU - SICOOB EURO VALE,82133182000133,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 82527557,COOP SICREDI FRONTEIR PR/SC/SP,COOP SICREDI FRONTEIR PR/SC/SP,82527557000140,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 82639451,COOP VIACREDI,COOP VIACREDI,82639451000138,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
