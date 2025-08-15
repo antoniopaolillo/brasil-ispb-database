@@ -16794,6 +16794,24 @@
     "fonte_dados": "STR"
   },
   {
+    "ispb": "57487987",
+    "nome_completo": "VIVO PAY SCD S.A.",
+    "nome_reduzido": "VIVO PAY SCD S.A.",
+    "cnpj": "57487987000138",
+    "tipo_instituicao": "Sociedade de Crédito Direto",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Ativo em operação restrita",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "57563728",
     "nome_completo": "CECME EMPR EMP GR ECON RHODIA",
     "nome_reduzido": "CECME EMPR EMP GR ECON RHODIA",
