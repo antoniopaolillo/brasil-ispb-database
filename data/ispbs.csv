@@ -473,7 +473,7 @@
 15173776,SOCIAL BANK S/A,SOCIAL BANK S/A,15173776000180,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 15320615,BANCO ÚTIL,BANCO ÚTIL,15320615000172,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 15357060,Banco Woori Bank do Brasil S.A.,BCO WOORI BANK DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,09/08/2012,RSFN,Sim
-15489568,INTRA DTVM,INTRA DTVM,15489568000195,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Aguardando Início da Etapa de Operação Restrita,PIX+STR,Provedor de Conta Transacional,nan,nan,19/06/2023,RSFN,Não
+15489568,INTRA DTVM,INTRA DTVM,15489568000195,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Ativo em operação restrita,PIX+STR,Provedor de Conta Transacional,Não,Não,19/06/2023,RSFN,Não
 15581638,FACTA S.A. CFI,FACTA S.A. CFI,15581638000130,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Instituição Usuária,nan,nan,08/07/2015,RSFN,Não
 16501555,STONE IP S.A.,STONE IP S.A.,16501555000157,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2017,RSFN,Não
 16564240,CECM APOS PENS E IDOSOS - SICOOB COOPERNAPI,CECM APOS PENS E IDOSOS - SICOOB COOPERNAPI,16564240000159,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -484,7 +484,7 @@
 16814330,BK IP S.A.,BK IP S.A.,16814330000150,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,02/04/2025,RSFN,Não
 16876258,APTARE,APTARE,16876258000196,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 16944141,Broker Brasil Corretora de Câmbio Ltda.,BROKER BRASIL CC LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2015,RSFN,Não
-17028875,MY FIRST,MY FIRST,17028875000102,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
+17028875,MY FIRST,MY FIRST,17028875000102,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 17079937,PINBANK IP,PINBANK IP,17079937000105,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,16/11/2022,RSFN,Não
 17157777,BANCO NACIONAL S.A.,BCO NACIONAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/10/2024,RSFN,Não
 17184037,BCO MERCANTIL DO BRASIL S.A.,BCO MERCANTIL DO BRASIL S.A.,17184037000110,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
@@ -559,7 +559,7 @@
 23949522,CC CREDICARPA,CC CREDICARPA,23949522000130,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 24048910,CC CREDINTER,CC CREDINTER,24048910000102,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 24074692,GUITTA CORRETORA DE CAMBIO LTDA.,GUITTA CC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/05/2015,Internet,Não
-24313102,99PAY IP S.A.,99PAY IP S.A.,24313102000125,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
+24313102,99PAY IP S.A.,99PAY IP S.A.,24313102000125,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,18/08/2025,RSFN,Não
 24431221,COOP CRESOL TRANSAMAZÔNICA,COOP CRESOL TRANSAMAZÔNICA,24431221000182,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 24610065,CC SICOOB IPÊ,CC SICOOB IPÊ,24610065000117,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 24654881,COOP SICREDI UNIÃO MS/TO,COOP SICREDI UNIÃO MS/TO,24654881000122,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -613,7 +613,6 @@
 28127603,BCO BANESTES S.A.,BCO BANESTES S.A.,28127603000178,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Sim
 28195667,BCO ABC BRASIL S.A.,BCO ABC BRASIL S.A.,28195667000106,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 28220872,VALEPAY BRASIL IP,VALEPAY BRASIL IP,28220872000184,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-28494518,LIDER,LIDER,28494518000148,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 28595756,SUN SOLUCOES DE PAGAMENTOS,SUN SOLUCOES DE PAGAMENTOS,28595756000140,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 28650236,GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,GALAPAGOS DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2018,RSFN,Não
 28683892,PAYMEE BRASIL IP S.A.,PAYMEE BRASIL IP S.A.,28683892000191,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
