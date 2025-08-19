@@ -9990,24 +9990,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "23791922",
-    "nome_completo": "ORUS PRIME DIGITAL LTDA",
-    "nome_reduzido": "ORUS PRIME DIGITAL LTDA",
-    "cnpj": "23791922000160",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "Ativo em operação plena",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "23862762",
     "nome_completo": "WILL FINANCEIRA S.A.CFI",
     "nome_reduzido": "WILL FINANCEIRA S.A.CFI",
@@ -10960,6 +10942,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "STR"
+  },
+  {
+    "ispb": "27810157",
+    "nome_completo": "IPAG PAGAMENTOS DIGITAIS",
+    "nome_reduzido": "IPAG PAGAMENTOS DIGITAIS",
+    "cnpj": "27810157000139",
+    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
+    "autorizada_bcb": "Não",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Aguardando Início da Etapa de Operação Restrita",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
   },
   {
     "ispb": "27842177",
@@ -16830,6 +16830,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "57824223",
+    "nome_completo": "WX IP LTDA.",
+    "nome_reduzido": "WX IP LTDA.",
+    "cnpj": "57824223000190",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Etapa Homologatória",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "57839805",
     "nome_completo": "Banco Tricury S.A.",
     "nome_reduzido": "BCO TRICURY S.A.",
@@ -19153,8 +19171,8 @@
   },
   {
     "ispb": "78825270",
-    "nome_completo": "CCLA MAXI ALFA",
-    "nome_reduzido": "CCLA MAXI ALFA",
+    "nome_completo": "CCLAA SICOOB MAXICRÉDITO",
+    "nome_reduzido": "CCLAA SICOOB MAXICRÉDITO",
     "cnpj": "78825270000129",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",

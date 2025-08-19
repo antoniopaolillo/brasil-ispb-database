@@ -554,7 +554,6 @@
 23197081,PGWEB IP LTDA.,PGWEB IP LTDA.,23197081000167,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 23273917,VALLOO PAGAMENTOS,VALLOO PAGAMENTOS,23273917000165,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 23623636,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,23623636000195,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-23791922,ORUS PRIME DIGITAL LTDA,ORUS PRIME DIGITAL LTDA,23791922000160,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 23862762,WILL FINANCEIRA S.A.CFI,WILL FINANCEIRA S.A.CFI,23862762000100,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,10/05/2018,RSFN,Não
 23949522,CC CREDICARPA,CC CREDICARPA,23949522000130,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 24048910,CC CREDINTER,CC CREDINTER,24048910000102,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -608,6 +607,7 @@
 27302181,CRED.UFES,CRED.UFES,27302181000167,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,26/04/2021,RSFN,Não
 27351731,"REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",REALIZE CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/09/2020,RSFN,Não
 27652684,Genial Investimentos Corretora de Valores Mobiliários S.A.,GENIAL INVESTIMENTOS CVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/05/2018,RSFN,Não
+27810157,IPAG PAGAMENTOS DIGITAIS,IPAG PAGAMENTOS DIGITAIS,27810157000139,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 27842177,BPY CCTVM S.A.,BPY CCTVM S.A.,27842177000191,Sociedade Corretora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,26/02/2018,RSFN,Não
 27970567,HINOVA PAY IP S.A.,HINOVA PAY IP S.A.,27970567000147,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,12/12/2024,RSFN,Não
 28127603,BCO BANESTES S.A.,BCO BANESTES S.A.,28127603000178,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Sim
@@ -934,6 +934,7 @@
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,Não,,,
 57563728,CECME EMPR EMP GR ECON RHODIA,CECME EMPR EMP GR ECON RHODIA,57563728000149,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 57647653,COOP SICREDI FORÇA DOS VENTOS,COOP SICREDI FORÇA DOS VENTOS,57647653000184,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+57824223,WX IP LTDA.,WX IP LTDA.,57824223000190,Instituição de Pagamento,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 57839805,Banco Tricury S.A.,BCO TRICURY S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/08/2013,RSFN,Sim
 58022195,CECM EMPR EMP ZILLO LORENZETTI,CECM EMPR EMP ZILLO LORENZETTI,58022195000150,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 58160789,BCO SAFRA S.A.,BCO SAFRA S.A.,58160789000128,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
@@ -1063,7 +1064,7 @@
 78626983,BCO VR S.A.,BCO VR S.A.,78626983000163,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 78632767,OURIBANK S.A.,OURIBANK S.A.,78632767000120,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,28/01/2014,RSFN,Não
 78825023,CCLAA OESTE CATARINENSE,CCLAA OESTE CATARINENSE,78825023000122,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-78825270,CCLA MAXI ALFA,CCLA MAXI ALFA,78825270000129,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+78825270,CCLAA SICOOB MAXICRÉDITO,CCLAA SICOOB MAXICRÉDITO,78825270000129,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 78834975,CCLA DO VALE DO CANOINHAS,CCLA DO VALE DO CANOINHAS,78834975000102,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 78840071,COOP SICOOB CREDIAUC,COOP SICOOB CREDIAUC,78840071000190,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 78858107,CCLAA AURIVERDE-SICOOB CREDIAL,CCLAA AURIVERDE-SICOOB CREDIAL,78858107000162,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
