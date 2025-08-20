@@ -10944,24 +10944,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "27810157",
-    "nome_completo": "IPAG PAGAMENTOS DIGITAIS",
-    "nome_reduzido": "IPAG PAGAMENTOS DIGITAIS",
-    "cnpj": "27810157000139",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "Aguardando Início da Etapa de Operação Restrita",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "27842177",
     "nome_completo": "BPY CCTVM S.A.",
     "nome_reduzido": "BPY CCTVM S.A.",
