@@ -686,6 +686,7 @@
 33370115,FURNAS,FURNAS,33370115000127,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33416108,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,33416108000119,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33423888,VILLELA IP S.A.,VILLELA IP S.A.,33423888000124,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+33440218,CEOPAG IP,CEOPAG IP,33440218000116,Instituição de Pagamento,Não,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 33449007,EMPRESA DE BENEFÍCIOS IP LTDA.,EMPRESA DE BENEFÍCIOS IP LTDA.,33449007000144,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 33466988,Banco Caixa Geral - Brasil S.A.,BCO CAIXA GERAL BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,31/03/2009,RSFN,Não
 33479023,BCO CITIBANK S.A.,BCO CITIBANK S.A.,33479023000180,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
@@ -780,7 +781,7 @@
 38224857,DELCRED SCD S.A.,DELCRED SCD S.A.,38224857000168,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,27/08/2021,RSFN,Sim
 38297374,NUVENDE,NUVENDE,38297374000193,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 38314747,PLANIUM INSTITUICAO DE PAGAMEN,PLANIUM INSTITUICAO DE PAGAMEN,38314747000197,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-38320462,V3 IP S.A.,V3 IP S.A.,38320462000169,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+38320462,V3 IP S.A.,V3 IP S.A.,38320462000169,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 38372267,SHOPEE,SHOPEE,38372267000182,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 38406148,CF BANK,CF BANK,38406148000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 38429045,FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,FÊNIX DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/12/2022,RSFN,Não
@@ -1141,7 +1142,7 @@
 90729369,COOP SICREDI CULTURAS RS/MG,COOP SICREDI CULTURAS RS/MG,90729369000122,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 91159764,COOP SICREDI INTEGRAÇÃO RS/MG,COOP SICREDI INTEGRAÇÃO RS/MG,91159764000180,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 91586982,COOP SICREDI PIONEIRA RS,COOP SICREDI PIONEIRA RS,91586982000109,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-91669747,DM SA CFI,DM SA CFI,91669747000192,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,20/09/2024,RSFN,Não
+91669747,DM SA CFI,DM SA CFI,91669747000192,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Aguardando Início da Etapa de Operação Restrita,PIX+STR,Provedor de Conta Transacional,nan,nan,20/09/2024,RSFN,Não
 91884981,Banco John Deere S.A.,BANCO JOHN DEERE S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 92555150,COOP SICREDI ALT SERRA RS/SC,COOP SICREDI ALT SERRA RS/SC,92555150000180,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 92702067,BCO DO ESTADO DO RS S.A.,BCO DO ESTADO DO RS S.A.,92702067000196,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
