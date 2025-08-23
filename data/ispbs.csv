@@ -14,7 +14,6 @@
 00315557,UNICRED DO BRASIL,UNICRED DO BRASIL,00315557000111,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,28/07/2014,RSFN,Sim
 00329598,SEFER INVESTIMENTOS DTVM LTDA,SEFER INVESTIMENTOS DTVM LTDA,00329598000167,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/02/2021,RSFN,Não
 00360305,CAIXA ECONOMICA FEDERAL,CAIXA ECONOMICA FEDERAL,00360305000104,Caixa Econômica Federal,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
-00377239,AQBANK,AQBANK,00377239000185,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 00394460,STN,STN,00394460040950,Governo,Não,Sim,Sim,Ativo em operação plena,PIX+STR,Ente Governamental,Não,nan,22/04/2002,RSFN,Não
 00411939,"FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",FINAMAX S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/06/2025,Internet,Não
 00416968,BANCO INTER,BANCO INTER,00416968000101,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Sim,15/08/2008,RSFN,Sim
@@ -240,7 +239,7 @@
 04572960,CECM MILITARES ESTADUAIS DE SC,CECM MILITARES ESTADUAIS DE SC,04572960000187,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 04608925,CREDJUST - CCM INTEGRANTES DA,CREDJUST - CCM INTEGRANTES DA,04608925000170,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 04632856,CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.,CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.,04632856000130,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,08/02/2011,RSFN,Sim
-04649337,SICOOB DFMIL,SICOOB DFMIL,04649337000185,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+04649337,COOP SICOOB BRMIL LTDA.,COOP SICOOB BRMIL LTDA.,04649337000185,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 04663561,COOP INVEST INT SOL VALE DAS ÁGUAS PR/MG,COOP INVEST INT SOL VALE DAS ÁGUAS PR/MG,04663561000121,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 04694278,CECM INTEG. MF DP ESTADO RJ,CECM INTEG. MF DP ESTADO RJ,04694278000167,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 04715685,CCM DESP TRÂNS SC E RS,CCM DESP TRÂNS SC E RS,04715685000103,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,08/05/2012,RSFN,Não
@@ -465,13 +464,11 @@
 14568725,COOPCENTRAL DE ECON. E CRÉDITO SICOOB UNIMAIS RIO LTDA.,COOPCENTRAL DE ECON. E CRÉDITO SICOOB UNIMAIS RIO LTDA.,14568725000195,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 14615234,MAPBANK,MAPBANK,14615234000158,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 14796606,ADYEN DO BRASIL IP LTDA.,ADYEN DO BRASIL IP LTDA.,14796606000190,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Sim,Não,,,
-14821124,TARGET BANK,TARGET BANK,14821124000142,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 14913919,CC MERCADO IMOBILIÁRIO - SICOOB IMOB.VC,CC MERCADO IMOBILIÁRIO - SICOOB IMOB.VC,14913919000180,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 15111975,IUGU IP S.A.,IUGU IP S.A.,15111975000164,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,06/05/2021,RSFN,Não
 15114366,Banco Bocom BBM S.A.,BCO BOCOM BBM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 15124464,BANCO BESA S.A.,BANCO BESA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/02/2023,RSFN,Não
 15173776,SOCIAL BANK S/A,SOCIAL BANK S/A,15173776000180,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
-15320615,BANCO ÚTIL,BANCO ÚTIL,15320615000172,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 15357060,Banco Woori Bank do Brasil S.A.,BCO WOORI BANK DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,09/08/2012,RSFN,Sim
 15489568,INTRA DTVM,INTRA DTVM,15489568000195,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Ativo em operação restrita,PIX+STR,Provedor de Conta Transacional,Não,Não,19/06/2023,RSFN,Não
 15581638,FACTA S.A. CFI,FACTA S.A. CFI,15581638000130,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Instituição Usuária,nan,nan,08/07/2015,RSFN,Não
@@ -589,7 +586,6 @@
 26178533,CCLA PONTAL DO TRIANGULO,CCLA PONTAL DO TRIANGULO,26178533000151,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 26191078,COOP SICREDI SUL DO MARANHÃO,COOP SICREDI SUL DO MARANHÃO,26191078000124,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 26264220,ZERO IP,ZERO IP,26264220000116,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,11/11/2024,RSFN,Não
-26356125,ZIG,ZIG,26356125000142,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 26408161,COOP SICREDI CENTRO-SUL MS/BA,COOP SICREDI CENTRO-SUL MS/BA,26408161000102,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 26408187,COOP SICREDI PANTANAL,COOP SICREDI PANTANAL,26408187000150,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 26526166,CCLA SUL MARANHENSE - SICOOB SUL MARANHENSE,CCLA SUL MARANHENSE - SICOOB SUL MARANHENSE,26526166000130,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -607,6 +603,7 @@
 27302181,CRED.UFES,CRED.UFES,27302181000167,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,26/04/2021,RSFN,Não
 27351731,"REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",REALIZE CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/09/2020,RSFN,Não
 27652684,Genial Investimentos Corretora de Valores Mobiliários S.A.,GENIAL INVESTIMENTOS CVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/05/2018,RSFN,Não
+27810157,IPAG PAGAMENTOS DIGITAIS,IPAG PAGAMENTOS DIGITAIS,27810157000139,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
 27842177,BPY CCTVM S.A.,BPY CCTVM S.A.,27842177000191,Sociedade Corretora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,26/02/2018,RSFN,Não
 27970567,HINOVA PAY IP S.A.,HINOVA PAY IP S.A.,27970567000147,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,12/12/2024,RSFN,Não
 28127603,BCO BANESTES S.A.,BCO BANESTES S.A.,28127603000178,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Sim
@@ -617,7 +614,6 @@
 28650236,GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,GALAPAGOS DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2018,RSFN,Não
 28683892,PAYMEE BRASIL IP S.A.,PAYMEE BRASIL IP S.A.,28683892000191,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 28719664,Sistema do Balcão B3,Balcão B3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-28806775,WISEPAY,WISEPAY,28806775000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 28811341,STONEX BANCO DE CÂMBIO S.A.,STONEX BANCO DE CÂMBIO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/07/2023,RSFN,Não
 29011780,CIP S.A,CIP SA C3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,30/01/2012,RSFN,Não
 29030467,Scotiabank Brasil S.A. Banco Múltiplo,Scotiabank Brasil,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
@@ -639,7 +635,6 @@
 31166683,MOUNT PAY,MOUNT PAY,31166683000185,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 31531997,CONPAY IP S.A.,CONPAY IP S.A.,31531997000130,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 31597552,BANCO CLASSICO S.A.,BCO CLASSICO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
-31666182,CRONOS SOLUÇÕES PARA FINTECHS,CRONOS SOLUÇÕES PARA FINTECHS,31666182000168,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 31680151,SWAP IP S.A.,SWAP IP S.A.,31680151000161,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 31711972,S3 BANK IP S.A.,S3 BANK IP S.A.,31711972000118,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 31749596,IDEAL CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,IDEAL CTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/01/2021,RSFN,Não
@@ -819,7 +814,6 @@
 40768766,LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,LIONS TRUST DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 40820176,PAY BROKERS IP,PAY BROKERS IP,40820176000104,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 40910463,BIPA INSTITUICAO DE PAGAMENTO,BIPA INSTITUICAO DE PAGAMENTO,40910463000105,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-40994589,BSCASH,BSCASH,40994589000105,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 41180092,COOP SICREDI EXPANSÃO,COOP SICREDI EXPANSÃO,41180092000116,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 41255225,COOP SICREDI CENTRO PERNAMBUCANA,COOP SICREDI CENTRO PERNAMBUCANA,41255225000176,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 41538335,CLARA IP,CLARA IP,41538335000145,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
