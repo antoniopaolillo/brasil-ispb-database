@@ -9530,7 +9530,7 @@
     "autorizada_bcb": "Não",
     "participa_pix": "Sim",
     "participa_str": "Não",
-    "status_operacional": "Ativo em operação restrita",
+    "status_operacional": "Ativo em operação plena",
     "data_inicio_operacao": "",
     "acesso_principal": "",
     "participa_compe": "",
@@ -14094,24 +14094,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "39157329",
-    "nome_completo": "OZ PAY",
-    "nome_reduzido": "OZ PAY",
-    "cnpj": "39157329000104",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "Aguardando Início da Etapa de Operação Restrita",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "39331592",
     "nome_completo": "GRECALE SOLUCOES EM MEIOS DE P",
     "nome_reduzido": "GRECALE SOLUCOES EM MEIOS DE P",
@@ -15369,6 +15351,24 @@
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
+    "fonte_dados": "PIX"
+  },
+  {
+    "ispb": "44921281",
+    "nome_completo": "NIXFIN SCD",
+    "nome_reduzido": "NIXFIN SCD",
+    "cnpj": "44921281000190",
+    "tipo_instituicao": "Sociedade de Crédito Direto",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Etapa Homologatória",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "",
+    "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
   {

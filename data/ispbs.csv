@@ -528,7 +528,7 @@
 20833992,CC MECUNP,CC MECUNP,20833992000145,Cooperativa de Crédito,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 20855875,NEON PAGAMENTOS S.A. IP,NEON PAGAMENTOS S.A. IP,20855875000182,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,12/01/2023,RSFN,Não
 21018182,EBANX IP LTDA.,EBANX IP LTDA.,21018182000106,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,09/07/2020,RSFN,Não
-21041840,PPRO BRASIL,PPRO BRASIL,21041840000172,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
+21041840,PPRO BRASIL,PPRO BRASIL,21041840000172,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 21332862,CARTOS SCD S.A.,CARTOS SCD S.A.,21332862000191,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,16/09/2020,RSFN,Não
 21661202,CC CREDICAMPO LTDA,CC CREDICAMPO LTDA,21661202000154,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 21670187,CC CREDIBOM,CC CREDIBOM,21670187000100,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -782,7 +782,6 @@
 38429045,FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,FÊNIX DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/12/2022,RSFN,Não
 38588174,CC CREDICOPE,CC CREDICOPE,38588174000190,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 38593706,MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A.,MULTICRED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/09/2023,RSFN,Não
-39157329,OZ PAY,OZ PAY,39157329000104,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 39331592,GRECALE SOLUCOES EM MEIOS DE P,GRECALE SOLUCOES EM MEIOS DE P,39331592000160,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 39343350,CC LAR CREDI,CC LAR CREDI,39343350000196,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,21/07/2021,RSFN,Sim
 39416705,OCTA SCD S.A.,OCTA SCD S.A.,39416705000120,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,18/11/2021,RSFN,Não
@@ -853,6 +852,7 @@
 44728700,ATF SCD S.A.,ATF SCD S.A.,44728700000172,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,02/12/2022,RSFN,Não
 44782130,ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,ACTUAL DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2024,RSFN,Não
 44815065,PAY2ALL IP LTDA.,PAY2ALL IP LTDA.,44815065000160,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
+44921281,NIXFIN SCD,NIXFIN SCD,44921281000190,Sociedade de Crédito Direto,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 45246410,BANCO GENIAL,BANCO GENIAL,45246410000155,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,19/11/2012,RSFN,Sim
 45283173,BBVA BRASIL BANCO DE INVESTIMENTO S.A.,BBVA BRASIL BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2025,RSFN,Não
 45331622,BNK DIGITAL SCD S.A.,BNK DIGITAL SCD S.A.,45331622000130,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,01/06/2023,RSFN,Não
