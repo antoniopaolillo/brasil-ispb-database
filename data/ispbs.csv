@@ -791,7 +791,7 @@
 39664698,CREDSYSTEM SCD S.A.,CREDSYSTEM SCD S.A.,39664698000185,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,20/04/2021,RSFN,Não
 39669186,HEMERA DTVM LTDA.,HEMERA DTVM LTDA.,39669186000101,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,17/08/2021,RSFN,Não
 39676772,CREDIFIT SCD S.A.,CREDIFIT SCD S.A.,39676772000183,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,15/09/2021,RSFN,Não
-39715262,MASTERBARTER,MASTERBARTER,39715262000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
+39715262,MASTERBARTER,MASTERBARTER,39715262000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 39738065,FFCRED SCD S.A.,FFCRED SCD S.A.,39738065000174,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,30/11/2022,RSFN,Não
 39908427,STARK SCD S.A.,STARK SCD S.A.,39908427000128,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Liquidante Especial,Não,nan,01/10/2021,RSFN,Não
 39929224,DIZCONTA,DIZCONTA,39929224000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -876,7 +876,7 @@
 48552108,LIQUIDO INSTITUICAO DE PAGAMENTO LTDA,LIQUIDO IP LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/03/2025,RSFN,Não
 48584954,DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.,DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.,48584954000115,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,13/06/2024,RSFN,Não
 48632754,VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A,VIA CAPITAL SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/02/2025,RSFN,Não
-48703388,ASA SOCIEDADE DE CRÉDITO DIRETO S.A.,ASA SOCIEDADE DE CRÉDITO DIRETO S.A.,48703388000113,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Sim,11/03/2024,RSFN,Não
+48703388,ASA SCFI S.A.,ASA SCFI S.A.,48703388000113,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Sim,11/03/2024,RSFN,Não
 48707451,PERCAPITAL SOCIEDADE DE CRÉDITO DIRETO S.A.,PERCAPITAL SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/09/2023,RSFN,Não
 48756121,A55 SCD S.A.,A55 SCD S.A.,48756121000194,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,21/02/2025,RSFN,Não
 48795256,Banco AndBank (Brasil) S.A.,BCO ANDBANK S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
@@ -911,6 +911,7 @@
 53841911,CCI UNINDÚSTRIA,CCI UNINDÚSTRIA,53841911000108,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 53842122,URBANO S.A. SCFI,URBANO S.A. SCFI,53842122000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,23/12/2024,RSFN,Não
 53935029,CCLA SICOOB COOCRELIVRE,CCLA SICOOB COOCRELIVRE,53935029000121,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+54024532,MAX IP,MAX IP,54024532000198,Instituição de Pagamento,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 54037916,CC CREDICITRUS,CC CREDICITRUS,54037916000145,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 54190525,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,54190525000166,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 54264235,VBS SCD S.A.,VBS SCD S.A.,54264235000110,Sociedade de Crédito Direto,Sim,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,Não,,,
