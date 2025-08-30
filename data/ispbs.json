@@ -11929,7 +11929,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
+    "iniciacao_pagamento": "Sim",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
