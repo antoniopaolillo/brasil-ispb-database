@@ -662,6 +662,7 @@
 32615247,CC SICOOB COOPEC LTDA.,CC SICOOB COOPEC LTDA.,32615247000109,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 32648370,FAIR CORRETORA DE CAMBIO S.A.,FAIR CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/09/2017,Internet,Não
 32708748,WE PAY OUT IP LTDA.,WE PAY OUT IP LTDA.,32708748000130,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,25/11/2024,RSFN,Não
+32820711,EFEX INSTITUIÇÃO DE PAGAMENTO S.A.,EFEX IP,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2025,RSFN,Não
 32906701,EXPAG SOLUÇÕES EM PAGAMENTOS,EXPAG SOLUÇÕES EM PAGAMENTOS,32906701000180,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 32983165,COOP SICREDI VL DO CERRADO,COOP SICREDI VL DO CERRADO,32983165000117,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 32995755,COOP SICREDI SUDOESTE MT/PA,COOP SICREDI SUDOESTE MT/PA,32995755000160,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -720,7 +721,7 @@
 35136120,BITSO IP LTDA,BITSO IP LTDA,35136120000103,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 35210410,ONEKEY PAYMENTS IP S.A.,ONEKEY PAYMENTS IP S.A.,35210410000141,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,30/09/2024,RSFN,Não
 35257964,CICLLOS PAY,CICLLOS PAY,35257964000102,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-35340796,INCO SEP S.A.,INCO SEP S.A.,35340796000106,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,Ativo em operação restrita,PIX+STR,Provedor de Conta Transacional,Não,Não,10/06/2025,RSFN,Não
+35340796,INCO SEP S.A.,INCO SEP S.A.,35340796000106,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,10/06/2025,RSFN,Não
 35479592,"DUFRIO FINANCEIRA, CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S.A.",DUFRIO CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/01/2025,RSFN,Não
 35523352,BEES IP LTDA.,BEES IP LTDA.,35523352000106,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 35534511,A27 IP S/A,A27 IP S/A,35534511000178,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -914,7 +915,7 @@
 54024532,MAX IP,MAX IP,54024532000198,Instituição de Pagamento,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 54037916,CC CREDICITRUS,CC CREDICITRUS,54037916000145,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 54190525,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,54190525000166,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-54264235,VBS SCD S.A.,VBS SCD S.A.,54264235000110,Sociedade de Crédito Direto,Sim,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,Não,,,
+54264235,VBS SCD S.A.,VBS SCD S.A.,54264235000110,Sociedade de Crédito Direto,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 54401286,CC COCRE,CC COCRE,54401286000146,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 54403563,BCO ARBI S.A.,BCO ARBI S.A.,54403563000150,Banco Comercial,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 54641030,Câmara B3,Câmara B3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
@@ -925,7 +926,7 @@
 55823094,DELTA GLOBAL SCD S.A.,DELTA GLOBAL SCD S.A.,55823094000190,Sociedade de Crédito Direto,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,17/04/2025,RSFN,Não
 56106523,VUE IP S.A.,VUE IP S.A.,56106523000171,Instituição de Pagamento,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,28/07/2025,RSFN,Não
 56198117,SQUID SOCIEDADE DE CRÉDITO DIRETO S.A.,SQUID SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/06/2025,RSFN,Não
-56392166,"PLUG FINANCEIRA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO",PLUG FINANCEIRA S.A. SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
+56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,Não,,,
 57563728,CECME EMPR EMP GR ECON RHODIA,CECME EMPR EMP GR ECON RHODIA,57563728000149,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 57647653,COOP SICREDI FORÇA DOS VENTOS,COOP SICREDI FORÇA DOS VENTOS,57647653000184,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
