@@ -384,7 +384,6 @@
 09313766,CARUANA SCFI,CARUANA SCFI,09313766000109,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,12/08/2013,RSFN,Não
 09330158,COOP CRESOL TREZE DE MAIO,COOP CRESOL TREZE DE MAIO,09330158000102,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09343038,COOP SICREDI ALTSERTÃO PARAIBANO,COOP SICREDI ALTSERTÃO PARAIBANO,09343038000131,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-09370323,LIBERCARD,LIBERCARD,09370323000141,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 09403026,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,09403026000155,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09424988,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,09424988000190,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09437293,BRINKS PAY IP LTDA.,BRINKS PAY IP LTDA.,09437293000143,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -431,7 +430,7 @@
 11351086,MERCADO BITCOIN IP LTDA,MERCADO BITCOIN IP LTDA,11351086000113,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,01/04/2024,RSFN,Não
 11414839,EAGLE INSTITUICAO DE PAGAMENTO LTDA.,EAGLE IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,30/09/2024,RSFN,Não
 11476673,BANCO RANDON S.A.,BANCO RANDON S.A.,11476673000139,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,03/08/2020,RSFN,Não
-11491029,IP4Y IP LTDA.,IP4Y IP LTDA.,11491029000130,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
+11491029,IP4Y IP LTDA.,IP4Y IP LTDA.,11491029000130,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,08/09/2025,RSFN,Não
 11495073,OM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,OM DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/03/2019,Internet,Não
 11581339,BMP SCMEPP LTDA,BMP SCMEPP LTDA,11581339000145,Sociedade de Crédito ao Microempreendedor,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,10/09/2019,RSFN,Não
 11703662,BANCO TRAVELEX S.A.,BANCO TRAVELEX S.A.,11703662000144,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/06/2010,RSFN,Não
@@ -627,7 +626,6 @@
 30498377,CSD CENTRAL DE SERVICOS DE REGISTRO E DEPOSITO AOS MERCADOS FINANCEIRO E DE CAPITAIS S.A.,CSDBR,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/02/2025,RSFN,Não
 30680829,"NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento",NU FINANCEIRA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/01/2021,RSFN,Não
 30723871,BANQI,BANQI,30723871000102,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,07/05/2025,RSFN,Não
-30723886,Banco Modal S.A.,BCO MODAL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 30765018,GALAX PAY IP S.A.,GALAX PAY IP S.A.,30765018000145,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 30944783,PAGPRIME IP,PAGPRIME IP,30944783000122,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,23/10/2023,RSFN,Não
 30949267,CECME CHOCOLATES GAROTO LTDA,CECME CHOCOLATES GAROTO LTDA,30949267000190,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
