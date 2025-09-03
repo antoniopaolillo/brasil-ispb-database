@@ -384,6 +384,7 @@
 09313766,CARUANA SCFI,CARUANA SCFI,09313766000109,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,12/08/2013,RSFN,Não
 09330158,COOP CRESOL TREZE DE MAIO,COOP CRESOL TREZE DE MAIO,09330158000102,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09343038,COOP SICREDI ALTSERTÃO PARAIBANO,COOP SICREDI ALTSERTÃO PARAIBANO,09343038000131,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+09370323,LIBERCARD,LIBERCARD,09370323000141,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
 09403026,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,09403026000155,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09424988,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,09424988000190,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09437293,BRINKS PAY IP LTDA.,BRINKS PAY IP LTDA.,09437293000143,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -639,6 +640,7 @@
 31752308,PHI IP S.A.,PHI IP S.A.,31752308000117,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 31804966,SICOOB COOPERMAIS,SICOOB COOPERMAIS,31804966000105,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 31818873,QESH IP LTDA.,QESH IP LTDA.,31818873000130,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
+31841474,CLUBE AGRO,CLUBE AGRO,31841474000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
 31872495,BCO C6 S.A.,BCO C6 S.A.,31872495000172,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,31/01/2019,RSFN,Não
 31880826,BCO GUANABARA S.A.,BCO GUANABARA S.A.,31880826000116,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 31895683,BCO INDUSTRIAL DO BRASIL S.A.,BCO INDUSTRIAL DO BRASIL S.A.,31895683000116,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
@@ -702,6 +704,7 @@
 33923798,BANCO MASTER,BANCO MASTER,33923798000100,Banco Comercial,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 33924028,SICOOB COOPVALE,SICOOB COOPVALE,33924028000174,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33930368,7TRUST FINANCE & TAX ASSET,7TRUST FINANCE & TAX ASSET,33930368000108,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+33982918,SIMPAY PAGAMENTOS LTDA,SIMPAY PAGAMENTOS LTDA,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
 34006497,ASTROPAY,ASTROPAY,34006497000177,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 34088029,LISTO SCD S.A.,LISTO SCD S.A.,34088029000199,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,15/10/2020,RSFN,Não
 34111187,Haitong Banco de Investimento do Brasil S.A.,HAITONG BI DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,31/07/2008,RSFN,Não
@@ -734,7 +737,7 @@
 35990763,ENOQ BANK,ENOQ BANK,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 36059974,SEQUOIAPAY INSTITUICAO DE PAGA,SEQUOIAPAY INSTITUICAO DE PAGA,36059974000198,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 36113876,OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.,OLIVEIRA TRUST DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/03/2011,RSFN,Não
-36266751,FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,FINVEST DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/08/2022,RSFN,Não
+36266751,FINVEST DTVM,FINVEST DTVM,36266751000100,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,01/08/2022,RSFN,Não
 36272465,REAG IP,REAG IP,36272465000149,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 36321990,"AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",AGORACRED S/A SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/08/2024,RSFN,Não
 36583700,"QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",QISTA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2022,RSFN,Não
