@@ -15012,6 +15012,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "42963742",
+    "nome_completo": "BANSUR JM SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "nome_reduzido": "BANSUR JM SCD S.A.",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "15/09/2025",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
+  },
+  {
     "ispb": "43180355",
     "nome_completo": "PEFISA S.A. - C.F.I.",
     "nome_reduzido": "PEFISA S.A. - C.F.I.",
@@ -20485,21 +20503,21 @@
   },
   {
     "ispb": "91669747",
-    "nome_completo": "DM FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "nome_completo": "DM SA CFI",
     "nome_reduzido": "DM SA CFI",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
+    "cnpj": "91669747000192",
+    "tipo_instituicao": "Sociedade de Crédito, Financiamento e Investimento",
     "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
+    "participa_pix": "Sim",
     "participa_str": "Sim",
-    "status_operacional": "Ativo",
+    "status_operacional": "Ativo em operação restrita",
     "data_inicio_operacao": "20/09/2024",
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
-    "modalidade_pix": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
-    "fonte_dados": "STR"
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "91884981",

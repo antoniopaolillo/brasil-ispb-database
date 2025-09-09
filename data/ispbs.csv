@@ -833,6 +833,7 @@
 42887133,CCLA REG SUDESTE MG,CCLA REG SUDESTE MG,42887133000171,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 42898825,CECM MEDICOS E PROFISSIONAIS AREA SAUDE DO BRASIL,CECM MEDICOS E PROFISSIONAIS AREA SAUDE DO BRASIL,42898825000115,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 42934794,CC CREDIPIMENTA,CC CREDIPIMENTA,42934794000100,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+42963742,BANSUR JM SOCIEDADE DE CRÉDITO DIRETO S/A,BANSUR JM SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/09/2025,RSFN,Não
 43180355,PEFISA S.A. - C.F.I.,PEFISA S.A. - C.F.I.,43180355000112,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,21/11/2017,RSFN,Não
 43394419,GOOGLE PAY BRASIL IP LTDA.,GOOGLE PAY BRASIL IP LTDA.,43394419000188,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Iniciador,Sim,nan,,,
 43599047,SUPERLÓGICA SCD S.A.,SUPERLÓGICA SCD S.A.,43599047000126,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,29/08/2022,RSFN,Não
@@ -1137,7 +1138,7 @@
 90729369,COOP SICREDI CULTURAS RS/MG,COOP SICREDI CULTURAS RS/MG,90729369000122,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 91159764,COOP SICREDI INTEGRAÇÃO RS/MG,COOP SICREDI INTEGRAÇÃO RS/MG,91159764000180,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 91586982,COOP SICREDI PIONEIRA RS,COOP SICREDI PIONEIRA RS,91586982000109,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-91669747,"DM FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",DM SA CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/09/2024,RSFN,Não
+91669747,DM SA CFI,DM SA CFI,91669747000192,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação restrita,PIX+STR,Provedor de Conta Transacional,Não,Não,20/09/2024,RSFN,Não
 91884981,Banco John Deere S.A.,BANCO JOHN DEERE S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 92555150,COOP SICREDI ALT SERRA RS/SC,COOP SICREDI ALT SERRA RS/SC,92555150000180,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 92702067,BCO DO ESTADO DO RS S.A.,BCO DO ESTADO DO RS S.A.,92702067000196,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
