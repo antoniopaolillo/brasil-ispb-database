@@ -5706,6 +5706,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "07115294",
+    "nome_completo": "BOKU NETWORK BRASIL IP",
+    "nome_reduzido": "BOKU NETWORK BRASIL IP",
+    "cnpj": "07115294000146",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Etapa Homologatória",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "07122321",
     "nome_completo": "CC INTEGRADO - SICOOB INTEGRADO",
     "nome_reduzido": "CC INTEGRADO - SICOOB INTEGRADO",
