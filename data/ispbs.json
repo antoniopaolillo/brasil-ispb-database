@@ -7362,6 +7362,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "10314753",
+    "nome_completo": "STRADA PAY IP LTDA.",
+    "nome_reduzido": "STRADA PAY IP LTDA.",
+    "cnpj": "10314753000125",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Etapa Homologatória",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "10319386",
     "nome_completo": "CCLA DO CENTRO SUL DE MS",
     "nome_reduzido": "CCLA DO CENTRO SUL DE MS",
@@ -12364,6 +12382,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
+  },
+  {
+    "ispb": "33588252",
+    "nome_completo": "BANCO INDUSCRED DE INVESTIMENTO S.A.",
+    "nome_reduzido": "BCO INDUSCRED DE INVESTIM. S/A",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "17/09/2025",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
   },
   {
     "ispb": "33603457",
