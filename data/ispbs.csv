@@ -502,7 +502,7 @@
 18236120,NU PAGAMENTOS - IP,NU PAGAMENTOS - IP,18236120000158,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,10/10/2017,RSFN,Não
 18394228,CDC SCD S.A.,CDC SCD S.A.,18394228000179,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Sim,15/03/2022,RSFN,Não
 18520834,UBS BB BANCO DE INVESTIMENTO S.A.,UBS BB BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/03/2014,RSFN,Não
-18639407,AUTHPAY INSTITUICAO DE PAGAMEN,AUTHPAY INSTITUICAO DE PAGAMEN,18639407000129,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+18639407,E2E PAY INSTITUICAO DE PAGAMEN,E2E PAY INSTITUICAO DE PAGAMEN,18639407000129,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 18684408,AZIMUT BRASIL DTVM LTDA,AZIMUT BRASIL DTVM LTDA,18684408000195,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,08/01/2024,RSFN,Não
 18966739,CC COPERSUL LTDA,CC COPERSUL LTDA,18966739000118,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 19037276,E-PREPAG,E-PREPAG,19037276000172,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -755,7 +755,7 @@
 37229413,"SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO EFÍ S.A.",SCFI EFÍ S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 37241230,SUMUP SCD S.A.,SUMUP SCD S.A.,37241230000152,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,16/10/2020,RSFN,Não
 37255049,SICOOB CREDIGOIÁS CC,SICOOB CREDIGOIÁS CC,37255049000103,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-37293930,BASS PAGO,BASS PAGO,37293930000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
+37293930,BASS PAGO,BASS PAGO,37293930000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 37319859,NEXT SERVICOS E NEGOCIOS LTDA,NEXT SERVICOS E NEGOCIOS LTDA,37319859000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 37395399,CCLA CENTRO BRASILEIRA LTDA.,CCLA CENTRO BRASILEIRA LTDA.,37395399000167,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 37414009,ZIPDIN SOLUÇÕES DIGITAIS SOCIEDADE DE CRÉDITO DIRETO S/A,ZIPDIN SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/08/2021,RSFN,Não
@@ -849,6 +849,7 @@
 44373041,COOP UNIPRIME CREDICANA,COOP UNIPRIME CREDICANA,44373041000107,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 44469161,COOP SICOOB PRO,COOP SICOOB PRO,44469161000102,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 44478623,ATICCA SCD S.A.,ATICCA SCD S.A.,44478623000140,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,06/02/2023,RSFN,Não
+44663846,FEATBANK IP LTDA,FEATBANK IP LTDA,44663846000187,Instituição de Pagamento,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 44683140,MAGNUM SCD,MAGNUM SCD,44683140000187,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/08/2022,RSFN,Sim
 44704839,ZIMPLER BRASIL IP LTDA.,ZIMPLER BRASIL IP LTDA.,44704839000186,Instituição de Pagamento,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 44705774,SOMAPAY SCD S.A.,SOMAPAY SCD S.A.,44705774000193,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,04/09/2023,RSFN,Não
