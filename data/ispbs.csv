@@ -471,7 +471,7 @@
 15124464,BANCO BESA S.A.,BANCO BESA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/02/2023,RSFN,Não
 15173776,SOCIAL BANK S/A,SOCIAL BANK S/A,15173776000180,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 15357060,Banco Woori Bank do Brasil S.A.,BCO WOORI BANK DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,09/08/2012,RSFN,Sim
-15489568,INTRA DTVM,INTRA DTVM,15489568000195,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Ativo em operação restrita,PIX+STR,Provedor de Conta Transacional,Não,Não,19/06/2023,RSFN,Não
+15489568,INTRA DTVM,INTRA DTVM,15489568000195,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,19/06/2023,RSFN,Não
 15581638,FACTA S.A. CFI,FACTA S.A. CFI,15581638000130,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Instituição Usuária,nan,nan,08/07/2015,RSFN,Não
 16501555,STONE IP S.A.,STONE IP S.A.,16501555000157,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2017,RSFN,Não
 16564240,CECM APOS PENS E IDOSOS - SICOOB COOPERNAPI,CECM APOS PENS E IDOSOS - SICOOB COOPERNAPI,16564240000159,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -640,7 +640,7 @@
 31752308,PHI IP S.A.,PHI IP S.A.,31752308000117,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 31804966,SICOOB COOPERMAIS,SICOOB COOPERMAIS,31804966000105,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 31818873,QESH IP LTDA.,QESH IP LTDA.,31818873000130,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
-31841474,CLUBE AGRO,CLUBE AGRO,31841474000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
+31841474,CLUBE AGRO,CLUBE AGRO,31841474000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 31872495,BCO C6 S.A.,BCO C6 S.A.,31872495000172,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,31/01/2019,RSFN,Não
 31880826,BCO GUANABARA S.A.,BCO GUANABARA S.A.,31880826000116,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 31895683,BCO INDUSTRIAL DO BRASIL S.A.,BCO INDUSTRIAL DO BRASIL S.A.,31895683000116,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
