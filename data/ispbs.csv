@@ -518,7 +518,7 @@
 19981015,LOGCARD BRASIL,LOGCARD BRASIL,19981015000106,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 20018183,STARK BANK S.A. - IP,STARK BANK S.A. - IP,20018183000180,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,25/11/2024,RSFN,Não
 20062766,CECM COL GRUPO EMPR A COSTA,CECM COL GRUPO EMPR A COSTA,20062766000108,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-20110153,PAGHIPER IP LTDA.,PAGHIPER IP LTDA.,20110153000107,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,Não,,,
+20110153,PAGHIPER IP LTDA.,PAGHIPER IP LTDA.,20110153000107,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 20155248,UNIDA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,UNIDA DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/10/2017,RSFN,Não
 20251847,SUDACRED SCD S.A.,SUDACRED SCD S.A.,20251847000156,Sociedade de Crédito Direto,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,08/05/2023,RSFN,Não
 20308187,PROVER PROMOCAO DE VENDAS IP LTDA.,PROVER PROMOCAO DE VENDAS IP LTDA.,20308187000100,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,04/03/2024,RSFN,Não
@@ -671,11 +671,11 @@
 33040601,"MERCANTIL FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",MERCANTIL FINANCEIRA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/08/2023,Internet,Não
 33042151,Banco de la Nacion Argentina,BCO LA NACION ARGENTINA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 33042953,Citibank N.A.,CITIBANK N.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
-33053580,ECOMOVI,ECOMOVI,33053580000134,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+33053580,ECOMOVI INSTITUIÇÃO DE PAGAMENTO LTDA.,ECOMOVI INSTITUIÇÃO DE PAGAMENTO LTDA.,33053580000134,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33132044,BANCO CEDULA S.A.,BCO CEDULA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 33147315,Banco Bradesco BERJ S.A.,BCO BRADESCO BERJ S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/11/2011,RSFN,Sim
 33172537,BCO J.P. MORGAN S.A.,BCO J.P. MORGAN S.A.,33172537000198,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
-33207641,CARTWAVE,CARTWAVE,33207641000170,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+33207641,CARTWAVE IP,CARTWAVE IP,33207641000170,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33264668,BCO XP S.A.,BCO XP S.A.,33264668000103,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,01/11/2019,RSFN,Não
 33330067,A BANK,A BANK,33330067000143,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33370115,FURNAS,FURNAS,33370115000127,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -887,7 +887,7 @@
 49288113,KANASTRA CFI,KANASTRA CFI,49288113000123,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,25/09/2023,RSFN,Não
 49389307,CC COOPLIVRE,CC COOPLIVRE,49389307000115,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 49555647,QUADRA SOCIEDADE DE CRÉDITO DIRETO S.A.,QUADRA SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/11/2023,Internet,Não
-49931906,TRIO IP LTDA.,TRIO IP LTDA.,49931906000119,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,01/08/2024,RSFN,Não
+49931906,TRIO IP LTDA.,TRIO IP LTDA.,49931906000119,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,01/08/2024,RSFN,Não
 49933388,BRCONDOS SCD S.A.,BRCONDOS SCD S.A.,49933388000172,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,08/12/2023,RSFN,Não
 50579044,LEVYCAM - CORRETORA DE CAMBIO E VALORES LTDA.,LEVYCAM CCV LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/06/2015,Internet,Não
 50585090,BANCO BMG CONSIGNADO S.A.,BANCO BMG CONSIGNADO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
@@ -1095,7 +1095,7 @@
 81706616,COOP SICREDI VLR SUSTENT PR/SP,COOP SICREDI VLR SUSTENT PR/SP,81706616000184,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 81723108,CREDICOAMO,CREDICOAMO,81723108000104,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,10/12/2012,RSFN,Sim
 82065285,COOP SICREDI SOMA,COOP SICREDI SOMA,82065285000103,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-82096447,COOP CREDI&GENTE,COOP CREDI&GENTE,82096447000170,Cooperativa de Crédito,Sim,Sim,Sim,Aguardando Início da Etapa de Operação Restrita,PIX+STR,Provedor de Conta Transacional,nan,nan,02/09/2021,RSFN,Não
+82096447,COOP CREDI&GENTE,COOP CREDI&GENTE,82096447000170,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação restrita,PIX+STR,Provedor de Conta Transacional,Não,Não,02/09/2021,RSFN,Não
 82133182,CC DO VALE EUROPEU - SICOOB EURO VALE,CC DO VALE EUROPEU - SICOOB EURO VALE,82133182000133,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 82527557,COOP SICREDI FRONTEIR PR/SC/SP,COOP SICREDI FRONTEIR PR/SC/SP,82527557000140,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 82639451,COOP VIACREDI,COOP VIACREDI,82639451000138,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
