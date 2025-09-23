@@ -16056,6 +16056,24 @@
     "fonte_dados": "STR"
   },
   {
+    "ispb": "50626276",
+    "nome_completo": "KONECT SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "nome_reduzido": "KONECT SCD S/A",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "29/09/2025",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
+  },
+  {
     "ispb": "50735161",
     "nome_completo": "COOP CRESOL MATO GROSSO",
     "nome_reduzido": "COOP CRESOL MATO GROSSO",
