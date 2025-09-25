@@ -3151,8 +3151,8 @@
   },
   {
     "ispb": "03428338",
-    "nome_completo": "SICREDI CREDUNI",
-    "nome_reduzido": "SICREDI CREDUNI",
+    "nome_completo": "COOP SICOOB CREDUNI",
+    "nome_reduzido": "COOP SICOOB CREDUNI",
     "cnpj": "03428338000137",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -15289,15 +15289,15 @@
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
-    "participa_str": "Não",
+    "participa_str": "Sim",
     "status_operacional": "Etapa Homologatória",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
+    "data_inicio_operacao": "01/10/2025",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "",
     "facilitador_saque": "",
-    "fonte_dados": "PIX"
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "44683140",

@@ -174,7 +174,7 @@
 03412878,CC CREDIRAMA,CC CREDIRAMA,03412878000122,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 03419786,CC NOSSA SENHORA DO DESTERRO,CC NOSSA SENHORA DO DESTERRO,03419786000174,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 03427097,CCLA DO SUL CATARINENSE,CCLA DO SUL CATARINENSE,03427097000101,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-03428338,SICREDI CREDUNI,SICREDI CREDUNI,03428338000137,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+03428338,COOP SICOOB CREDUNI,COOP SICOOB CREDUNI,03428338000137,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 03459850,CC SICOOB METROPOLITANO,CC SICOOB METROPOLITANO,03459850000140,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 03461243,CC DO NORTE CATARINENSE,CC DO NORTE CATARINENSE,03461243000115,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 03485130,COOP CRESOL ENCOSTAS DA SERRA GERAL,COOP CRESOL ENCOSTAS DA SERRA GERAL,03485130000150,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -848,7 +848,7 @@
 44373041,COOP UNIPRIME CREDICANA,COOP UNIPRIME CREDICANA,44373041000107,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
 44469161,COOP SICOOB PRO,COOP SICOOB PRO,44469161000102,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 44478623,ATICCA SCD S.A.,ATICCA SCD S.A.,44478623000140,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,06/02/2023,RSFN,Não
-44663846,FEATBANK IP LTDA,FEATBANK IP LTDA,44663846000187,Instituição de Pagamento,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
+44663846,FEATBANK IP LTDA,FEATBANK IP LTDA,44663846000187,Instituição de Pagamento,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,01/10/2025,RSFN,Não
 44683140,MAGNUM SCD,MAGNUM SCD,44683140000187,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/08/2022,RSFN,Sim
 44704839,ZIMPLER BRASIL IP LTDA.,ZIMPLER BRASIL IP LTDA.,44704839000186,Instituição de Pagamento,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
 44705774,SOMAPAY SCD S.A.,SOMAPAY SCD S.A.,44705774000193,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,04/09/2023,RSFN,Não
