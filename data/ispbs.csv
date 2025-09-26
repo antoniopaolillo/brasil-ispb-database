@@ -504,7 +504,6 @@
 18639407,E2E PAY INSTITUICAO DE PAGAMEN,E2E PAY INSTITUICAO DE PAGAMEN,18639407000129,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 18684408,AZIMUT BRASIL DTVM LTDA,AZIMUT BRASIL DTVM LTDA,18684408000195,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,08/01/2024,RSFN,Não
 18966739,CC COPERSUL LTDA,CC COPERSUL LTDA,18966739000118,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-19037276,E-PREPAG,E-PREPAG,19037276000172,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 19307785,BRAZA BANK S.A. BANCO DE CÂMBIO,BRAZA BANK S.A. BCO DE CÂMBIO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/04/2015,RSFN,Não
 19324634,LAMARA SOCIEDADE DE CRÉDITO DIRETO S.A.,LAMARA SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/04/2021,Internet,Não
 19402130,CECM EMPR EST HOSP BH RM ZM,CECM EMPR EST HOSP BH RM ZM,19402130000189,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -601,7 +600,7 @@
 27126513,DOLARAPP,DOLARAPP,27126513000108,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 27214112,AL5 S.A. CFI,AL5 S.A. CFI,27214112000100,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,24/10/2019,RSFN,Não
 27302181,CRED.UFES,CRED.UFES,27302181000167,Cooperativa de Crédito,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,26/04/2021,RSFN,Não
-27351731,"REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",REALIZE CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/09/2020,RSFN,Não
+27351731,"REALIZE SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",REALIZE SCFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/09/2020,RSFN,Não
 27652684,Genial Investimentos Corretora de Valores Mobiliários S.A.,GENIAL INVESTIMENTOS CVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/05/2018,RSFN,Não
 27810157,IPAG PAGAMENTOS DIGITAIS,IPAG PAGAMENTOS DIGITAIS,27810157000139,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 27842177,BPY CCTVM S.A.,BPY CCTVM S.A.,27842177000191,Sociedade Corretora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,26/02/2018,RSFN,Não
@@ -703,7 +702,7 @@
 33886862,"MASTER S/A CORRETORA DE CâMBIO, TíTULOS E VALORES MOBILIáRIOS",MASTER S/A CCTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2021,RSFN,Não
 33923798,BANCO MASTER,BANCO MASTER,33923798000100,Banco Comercial,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 33924028,SICOOB COOPVALE,SICOOB COOPVALE,33924028000174,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-33930368,7TRUST FINANCE & TAX ASSET,7TRUST FINANCE & TAX ASSET,33930368000108,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+33930368,7TRUST FINANCE IP S.A.,7TRUST FINANCE IP S.A.,33930368000108,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33982918,SIMPAY PAGAMENTOS LTDA,SIMPAY PAGAMENTOS LTDA,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
 34006497,ASTROPAY,ASTROPAY,34006497000177,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 34088029,LISTO SCD S.A.,LISTO SCD S.A.,34088029000199,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,15/10/2020,RSFN,Não
@@ -850,7 +849,7 @@
 44478623,ATICCA SCD S.A.,ATICCA SCD S.A.,44478623000140,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,06/02/2023,RSFN,Não
 44663846,FEATBANK IP LTDA,FEATBANK IP LTDA,44663846000187,Instituição de Pagamento,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,01/10/2025,RSFN,Não
 44683140,MAGNUM SCD,MAGNUM SCD,44683140000187,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/08/2022,RSFN,Sim
-44704839,ZIMPLER BRASIL IP LTDA.,ZIMPLER BRASIL IP LTDA.,44704839000186,Instituição de Pagamento,Sim,Sim,Não,Etapa Homologatória,PIX,Provedor de Conta Transacional,nan,nan,,,
+44704839,ZIMPLER BRASIL IP LTDA.,ZIMPLER BRASIL IP LTDA.,44704839000186,Instituição de Pagamento,Sim,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 44705774,SOMAPAY SCD S.A.,SOMAPAY SCD S.A.,44705774000193,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,04/09/2023,RSFN,Não
 44728700,ATF SCD S.A.,ATF SCD S.A.,44728700000172,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,02/12/2022,RSFN,Não
 44782130,ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,ACTUAL DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2024,RSFN,Não
