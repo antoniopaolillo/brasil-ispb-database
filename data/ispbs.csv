@@ -537,7 +537,7 @@
 22181404,EASY PAGO,EASY PAGO,22181404000161,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 22371651,DMCARD,DMCARD,22371651000120,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 22443203,AN SPACE PAY,AN SPACE PAY,22443203000195,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-22575466,SRM BANK,SRM BANK,22575466000158,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação restrita,PIX+STR,Provedor de Conta Transacional,Não,Não,17/07/2023,RSFN,Não
+22575466,SRM BANK,SRM BANK,22575466000158,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,17/07/2023,RSFN,Não
 22610500,VORTX DTVM LTDA.,VORTX DTVM LTDA.,22610500000188,Sociedade Distribuidora de TVM,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2018,RSFN,Não
 22656789,CC CREDISUDESTE LTDA,CC CREDISUDESTE LTDA,22656789000176,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 22724710,CC CREDIVERTENTES,CC CREDIVERTENTES,22724710000105,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -895,7 +895,7 @@
 50871921,MT IP S.A.,MT IP S.A.,50871921000106,Instituição de Pagamento,Sim,Sim,Sim,Aguardando Início da Etapa de Operação Restrita,PIX+STR,Provedor de Conta Transacional,nan,nan,10/04/2025,RSFN,Não
 50946592,SETHI SOCIEDADE DE CRÉDITO DIRETO S.A.,SETHI SCD SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2024,Internet,Não
 51118615,INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD,INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD,51118615000158,Sociedade de Crédito Direto,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,20/06/2025,RSFN,Não
-51118718,NVIO BRASIL SCD S.A.,NVIO BRASIL SCD S.A.,51118718000118,Sociedade de Crédito Direto,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,16/05/2025,RSFN,Não
+51118718,NVIO BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.,NVIO BRASIL SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/05/2025,RSFN,Não
 51212088,G5 SCD SA,G5 SCD SA,51212088000146,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,18/06/2024,RSFN,Não
 51342763,REVOLUT SCD S.A.,REVOLUT SCD S.A.,51342763000151,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,15/05/2024,RSFN,Não
 51414521,ALL IN CRED SCD S.A.,ALL IN CRED SCD S.A.,51414521000126,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/12/2023,RSFN,Não
