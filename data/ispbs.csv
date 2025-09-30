@@ -384,7 +384,7 @@
 09313766,CARUANA SCFI,CARUANA SCFI,09313766000109,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,12/08/2013,RSFN,Não
 09330158,COOP CRESOL TREZE DE MAIO,COOP CRESOL TREZE DE MAIO,09330158000102,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09343038,COOP SICREDI ALTSERTÃO PARAIBANO,COOP SICREDI ALTSERTÃO PARAIBANO,09343038000131,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-09370323,LIBERCARD,LIBERCARD,09370323000141,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
+09370323,LIBERCARD,LIBERCARD,09370323000141,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09403026,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,09403026000155,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09424988,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,09424988000190,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 09437293,BRINKS PAY IP LTDA.,BRINKS PAY IP LTDA.,09437293000143,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -485,7 +485,6 @@
 17079937,PINBANK IP,PINBANK IP,17079937000105,Instituição de Pagamento,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,16/11/2022,RSFN,Não
 17157777,BANCO NACIONAL S.A.,BCO NACIONAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/10/2024,RSFN,Não
 17184037,BCO MERCANTIL DO BRASIL S.A.,BCO MERCANTIL DO BRASIL S.A.,17184037000110,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
-17192451,BCO ITAUCARD S.A.,BCO ITAUCARD S.A.,17192451000170,Banco Múltiplo,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Sim,Não,,,
 17343510,COOP CRESOL RAIZ,COOP CRESOL RAIZ,17343510000164,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 17351180,BCO TRIANGULO S.A.,BCO TRIANGULO S.A.,17351180000159,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Não
 17352220,SENSO CORRETORA DE CAMBIO E VALORES MOBILIARIOS S.A,SENSO CCVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/09/2010,Internet,Não
@@ -849,7 +848,6 @@
 44478623,ATICCA SCD S.A.,ATICCA SCD S.A.,44478623000140,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,06/02/2023,RSFN,Não
 44663846,FEATBANK IP LTDA,FEATBANK IP LTDA,44663846000187,Instituição de Pagamento,Sim,Sim,Sim,Etapa Homologatória,PIX+STR,Provedor de Conta Transacional,nan,nan,01/10/2025,RSFN,Não
 44683140,MAGNUM SCD,MAGNUM SCD,44683140000187,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/08/2022,RSFN,Sim
-44704839,ZIMPLER BRASIL IP LTDA.,ZIMPLER BRASIL IP LTDA.,44704839000186,Instituição de Pagamento,Sim,Sim,Não,Aguardando Início da Etapa de Operação Restrita,PIX,Provedor de Conta Transacional,nan,nan,,,
 44705774,SOMAPAY SCD S.A.,SOMAPAY SCD S.A.,44705774000193,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,04/09/2023,RSFN,Não
 44728700,ATF SCD S.A.,ATF SCD S.A.,44728700000172,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,02/12/2022,RSFN,Não
 44782130,ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,ACTUAL DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2024,RSFN,Não

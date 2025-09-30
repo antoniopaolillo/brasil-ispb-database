@@ -6938,7 +6938,7 @@
     "autorizada_bcb": "Não",
     "participa_pix": "Sim",
     "participa_str": "Não",
-    "status_operacional": "Ativo em operação restrita",
+    "status_operacional": "Ativo em operação plena",
     "data_inicio_operacao": "",
     "acesso_principal": "",
     "participa_compe": "",
@@ -8746,24 +8746,6 @@
     "iniciacao_pagamento": "Sim",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
-  },
-  {
-    "ispb": "17192451",
-    "nome_completo": "BCO ITAUCARD S.A.",
-    "nome_reduzido": "BCO ITAUCARD S.A.",
-    "cnpj": "17192451000170",
-    "tipo_instituicao": "Banco Múltiplo",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "Ativo em operação plena",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Sim",
-    "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
   },
   {
     "ispb": "17343510",
@@ -15298,24 +15280,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
-  },
-  {
-    "ispb": "44704839",
-    "nome_completo": "ZIMPLER BRASIL IP LTDA.",
-    "nome_reduzido": "ZIMPLER BRASIL IP LTDA.",
-    "cnpj": "44704839000186",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "Aguardando Início da Etapa de Operação Restrita",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
   },
   {
     "ispb": "44705774",
