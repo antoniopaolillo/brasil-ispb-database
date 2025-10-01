@@ -15282,6 +15282,24 @@
     "fonte_dados": "PIX+STR"
   },
   {
+    "ispb": "44704839",
+    "nome_completo": "ZIMPLER BRASIL IP LTDA.",
+    "nome_reduzido": "ZIMPLER BRASIL IP LTDA.",
+    "cnpj": "44704839000186",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Ativo em operação restrita",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "44705774",
     "nome_completo": "SOMAPAY SCD S.A.",
     "nome_reduzido": "SOMAPAY SCD S.A.",
@@ -15370,6 +15388,24 @@
     "iniciacao_pagamento": "",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
+  },
+  {
+    "ispb": "45056494",
+    "nome_completo": "MARMARIS CORRETORA DE CÂMBIO LTDA.",
+    "nome_reduzido": "MARMARIS",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "07/10/2025",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
   },
   {
     "ispb": "45246410",
