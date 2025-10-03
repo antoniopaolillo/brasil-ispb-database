@@ -17820,6 +17820,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "65697260",
+    "nome_completo": "REPOM",
+    "nome_reduzido": "REPOM",
+    "cnpj": "65697260000103",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "Ativo em operação restrita",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "66259110",
     "nome_completo": "CC CREDIBAM LTDA.",
     "nome_reduzido": "CC CREDIBAM LTDA.",
