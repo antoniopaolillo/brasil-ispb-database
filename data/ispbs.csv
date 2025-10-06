@@ -701,7 +701,7 @@
 33923798,BANCO MASTER,BANCO MASTER,33923798000100,Banco Comercial,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 33924028,SICOOB COOPVALE,SICOOB COOPVALE,33924028000174,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33930368,7TRUST FINANCE IP S.A.,7TRUST FINANCE IP S.A.,33930368000108,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-33982918,SIMPAY PAGAMENTOS LTDA,SIMPAY PAGAMENTOS LTDA,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação restrita,PIX,Provedor de Conta Transacional,Não,nan,,,
+33982918,SIMPAY PAGAMENTOS LTDA,SIMPAY PAGAMENTOS LTDA,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 34006497,ASTROPAY,ASTROPAY,34006497000177,Instituição de Pagamento,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 34088029,LISTO SCD S.A.,LISTO SCD S.A.,34088029000199,Sociedade de Crédito Direto,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,15/10/2020,RSFN,Não
 34111187,Haitong Banco de Investimento do Brasil S.A.,HAITONG BI DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,31/07/2008,RSFN,Não
@@ -1140,7 +1140,7 @@
 90729369,COOP SICREDI CULTURAS RS/MG,COOP SICREDI CULTURAS RS/MG,90729369000122,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 91159764,COOP SICREDI INTEGRAÇÃO RS/MG,COOP SICREDI INTEGRAÇÃO RS/MG,91159764000180,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 91586982,COOP SICREDI PIONEIRA RS,COOP SICREDI PIONEIRA RS,91586982000109,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-91669747,DM SA CFI,DM SA CFI,91669747000192,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação restrita,PIX+STR,Provedor de Conta Transacional,Não,Não,20/09/2024,RSFN,Não
+91669747,DM SA CFI,DM SA CFI,91669747000192,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Não,Não,20/09/2024,RSFN,Não
 91884981,Banco John Deere S.A.,BANCO JOHN DEERE S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 92555150,COOP SICREDI ALT SERRA RS/SC,COOP SICREDI ALT SERRA RS/SC,92555150000180,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 92702067,BCO DO ESTADO DO RS S.A.,BCO DO ESTADO DO RS S.A.,92702067000196,Banco Múltiplo,Sim,Sim,Sim,Ativo em operação plena,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
