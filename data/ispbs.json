@@ -2611,8 +2611,8 @@
   },
   {
     "ispb": "02910987",
-    "nome_completo": "COOP CRESOL CENTRO SUL RS/MS",
-    "nome_reduzido": "COOP CRESOL CENTRO SUL RS/MS",
+    "nome_completo": "COOP CRESOL CENTRO SUL",
+    "nome_reduzido": "COOP CRESOL CENTRO SUL",
     "cnpj": "02910987000107",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -4793,7 +4793,7 @@
     "nome_reduzido": "COOP CRESOL CENTRO NORTE",
     "cnpj": "05211129000162",
     "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
+    "autorizada_bcb": "Não",
     "participa_pix": "Sim",
     "participa_str": "Não",
     "status_operacional": "Ativo em operação plena",
@@ -11989,7 +11989,7 @@
   },
   {
     "ispb": "33040601",
-    "nome_completo": "MERCANTIL FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "nome_completo": "MERCANTIL FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO.",
     "nome_reduzido": "MERCANTIL FINANCEIRA",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",

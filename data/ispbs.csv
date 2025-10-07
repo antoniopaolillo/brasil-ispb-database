@@ -144,7 +144,7 @@
 02883398,CC VALE ITAJAÍ E ITAPOCÚ,CC VALE ITAJAÍ E ITAPOCÚ,02883398000187,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 02904125,COOP CRESOL JACUTINGA,COOP CRESOL JACUTINGA,02904125000171,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 02904138,COOP CRESOL ÁUREA,COOP CRESOL ÁUREA,02904138000140,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-02910987,COOP CRESOL CENTRO SUL RS/MS,COOP CRESOL CENTRO SUL RS/MS,02910987000107,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+02910987,COOP CRESOL CENTRO SUL,COOP CRESOL CENTRO SUL,02910987000107,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 02923389,COOP SICREDI SERIGY SE/BA,COOP SICREDI SERIGY SE/BA,02923389000172,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 02924977,COOP SICREDI MEDICRED,COOP SICREDI MEDICRED,02924977000120,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 02931668,SICOOB FLUMINENSE,SICOOB FLUMINENSE,02931668000188,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -265,7 +265,7 @@
 05158093,CCLA REG LESTE BACIA RIO DOCE,CCLA REG LESTE BACIA RIO DOCE,05158093000109,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 05192316,"Via Certa Financiadora S.A. - Crédito, Financiamento e Investimentos",VIA CERTA FINANCIADORA S.A. - CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2025,Internet,Não
 05203605,SICOOB AMAZÔNIA,SICOOB AMAZÔNIA,05203605000101,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-05211129,COOP CRESOL CENTRO NORTE,COOP CRESOL CENTRO NORTE,05211129000162,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
+05211129,COOP CRESOL CENTRO NORTE,COOP CRESOL CENTRO NORTE,05211129000162,Cooperativa de Crédito,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 05220243,COOP CRESOL ORIGENS,COOP CRESOL ORIGENS,05220243000159,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 05222094,COOP SICOOB CERRADO,COOP SICOOB CERRADO,05222094000167,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 05231945,COOP CRESOL UNIAO DOS VALES,COOP CRESOL UNIAO DOS VALES,05231945000138,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -665,7 +665,7 @@
 32997490,Creditas Sociedade de Crédito Direto S.A.,CREDITAS SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/07/2019,RSFN,Não
 33021064,COOP SICREDI ARAXINGU,COOP SICREDI ARAXINGU,33021064000128,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
 33022690,COOP SICREDI BIOMAS,COOP SICREDI BIOMAS,33022690000139,Cooperativa de Crédito,Sim,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
-33040601,"MERCANTIL FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",MERCANTIL FINANCEIRA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/08/2023,Internet,Não
+33040601,"MERCANTIL FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO.",MERCANTIL FINANCEIRA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/08/2023,Internet,Não
 33042151,Banco de la Nacion Argentina,BCO LA NACION ARGENTINA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 33042953,Citibank N.A.,CITIBANK N.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 33053580,ECOMOVI INSTITUIÇÃO DE PAGAMENTO LTDA.,ECOMOVI INSTITUIÇÃO DE PAGAMENTO LTDA.,33053580000134,Instituição de Pagamento,Não,Sim,Não,Ativo em operação plena,PIX,Provedor de Conta Transacional,Não,nan,,,
