@@ -16387,15 +16387,15 @@
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
-    "participa_str": "Não",
+    "participa_str": "Sim",
     "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
+    "data_inicio_operacao": "21/10/2025",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
     "facilitador_saque": "",
-    "fonte_dados": "PIX"
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "53841911",

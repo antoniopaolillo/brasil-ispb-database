@@ -909,7 +909,7 @@
 53575491,COOP CRESOL PRIMATO CREDI,COOP CRESOL PRIMATO CREDI,53575491000165,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
 53623781,CC COOPCRED,CC COOPCRED,53623781000137,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53776852,CCR FOR CANA CENTRO EST SP,CCR FOR CANA CENTRO EST SP,53776852000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-53822116,MW IP LTDA.,MW IP LTDA.,53822116000172,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
+53822116,MW IP LTDA.,MW IP LTDA.,53822116000172,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,21/10/2025,RSFN,Não
 53841911,CCI UNINDÚSTRIA,CCI UNINDÚSTRIA,53841911000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53842122,URBANO S.A. SCFI,URBANO S.A. SCFI,53842122000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/12/2024,RSFN,Não
 53908413,KIWIFY IP,KIWIFY IP,53908413000135,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
