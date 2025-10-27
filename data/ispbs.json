@@ -11250,24 +11250,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "30765018",
-    "nome_completo": "GALAX PAY IP S.A.",
-    "nome_reduzido": "GALAX PAY IP S.A.",
-    "cnpj": "30765018000145",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "30944783",
     "nome_completo": "PAGPRIME IP",
     "nome_reduzido": "PAGPRIME IP",
@@ -13333,7 +13315,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
+    "iniciacao_pagamento": "Ativo em operação restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
@@ -16441,15 +16423,15 @@
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
-    "participa_str": "Não",
+    "participa_str": "Sim",
     "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
+    "data_inicio_operacao": "31/10/2025",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Etapa Homologatória",
     "facilitador_saque": "",
-    "fonte_dados": "PIX"
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "53935029",
