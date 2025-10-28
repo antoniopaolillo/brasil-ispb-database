@@ -16375,7 +16375,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
+    "iniciacao_pagamento": "Ativo em operação restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
