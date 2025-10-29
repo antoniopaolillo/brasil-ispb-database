@@ -731,7 +731,6 @@
 35858847,VIATECH IP LTDA.,VIATECH IP LTDA.,35858847000196,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35977097,UP.P SEP S.A.,UP.P SEP S.A.,35977097000171,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/03/2020,RSFN,Não
 35990763,ENOQ BANK,ENOQ BANK,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-36059974,SEQUOIAPAY INSTITUICAO DE PAGA,SEQUOIAPAY INSTITUICAO DE PAGA,36059974000198,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 36113876,OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.,OLIVEIRA TRUST DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/03/2011,RSFN,Não
 36266751,FINVEST DTVM,FINVEST DTVM,36266751000100,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,01/08/2022,RSFN,Não
 36272465,REAG IP,REAG IP,36272465000149,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -1144,7 +1143,7 @@
 92555150,COOP SICREDI ALT SERRA RS/SC,COOP SICREDI ALT SERRA RS/SC,92555150000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 92702067,BCO DO ESTADO DO RS S.A.,BCO DO ESTADO DO RS S.A.,92702067000196,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 92796564,COOP SICREDI ORIGENS RS,COOP SICREDI ORIGENS RS,92796564000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-92825397,COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS ELETRICITÁRIOS E DOS TRABALHADORES DAS EMPRESAS DO SETOR DE ENERGIA - COOPCRECE,COOPCRECE,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2023,RSFN,Não
+92825397,COOPCRECE,COOPCRECE,92825397000179,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,23/06/2023,RSFN,Não
 92856905,ADVANCED CORRETORA DE CÂMBIO LTDA,ADVANCED CC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/10/2011,RSFN,Não
 92874270,BANCO DIGIMAIS S.A.,BCO DIGIMAIS S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 92894922,BANCO ORIGINAL,BANCO ORIGINAL,92894922000108,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
