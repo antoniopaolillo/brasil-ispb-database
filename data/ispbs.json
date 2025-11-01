@@ -11214,6 +11214,24 @@
     "fonte_dados": "STR"
   },
   {
+    "ispb": "30507541",
+    "nome_completo": "BRASIL CASH IP S.A.",
+    "nome_reduzido": "BRASIL CASH IP S.A.",
+    "cnpj": "30507541000171",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "30680829",
     "nome_completo": "NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento",
     "nome_reduzido": "NU FINANCEIRA S.A. CFI",
