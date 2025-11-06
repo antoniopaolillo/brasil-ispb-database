@@ -496,7 +496,7 @@
 17819084,PAGCERTO IP LTDA.,PAGCERTO IP LTDA.,17819084000192,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 17826860,BMS SCD S.A.,BMS SCD S.A.,17826860000181,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/10/2020,RSFN,Não
 18188384,CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE S.A.,CREFAZ SCMEPP SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/06/2019,RSFN,Não
-18189547,CLOUDWALK IP LTDA,CLOUDWALK IP LTDA,18189547000142,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,19/07/2023,RSFN,Não
+18189547,CLOUDWALK IP LTDA,CLOUDWALK IP LTDA,18189547000142,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,19/07/2023,RSFN,Não
 18236120,NU PAGAMENTOS - IP,NU PAGAMENTOS - IP,18236120000158,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,10/10/2017,RSFN,Não
 18282093,OXY COMPANHIA HIPOTECÁRIA,OXY CH,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/10/2025,RSFN,Não
 18394228,CDC SCD S.A.,CDC SCD S.A.,18394228000179,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,15/03/2022,RSFN,Não
@@ -546,7 +546,6 @@
 22896431,PICPAY,PICPAY,22896431000110,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,15/10/2020,RSFN,Não
 23114447,FLAGSHIP IP LTDA,FLAGSHIP IP LTDA,23114447000197,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/10/2023,RSFN,Não
 23149892,PAGBEM,PAGBEM,23149892000192,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-23197081,PGWEB IP LTDA.,PGWEB IP LTDA.,23197081000167,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 23273917,VALLOO PAGAMENTOS,VALLOO PAGAMENTOS,23273917000165,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 23623636,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,23623636000195,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 23862762,WILL FINANCEIRA S.A.CFI,WILL FINANCEIRA S.A.CFI,23862762000100,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/05/2018,RSFN,Não
@@ -913,7 +912,7 @@
 53842122,URBANO S.A. SCFI,URBANO S.A. SCFI,53842122000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/12/2024,RSFN,Não
 53908413,KIWIFY IP,KIWIFY IP,53908413000135,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,31/10/2025,RSFN,Não
 53935029,CCLA SICOOB COOCRELIVRE,CCLA SICOOB COOCRELIVRE,53935029000121,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-54024532,MAX IP,MAX IP,54024532000198,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
+54024532,MAX IP,MAX IP,54024532000198,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,12/11/2025,RSFN,Não
 54037916,CC CREDICITRUS,CC CREDICITRUS,54037916000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 54190525,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,54190525000166,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 54264235,VBS SCD S.A.,VBS SCD S.A.,54264235000110,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
