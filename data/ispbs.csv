@@ -64,7 +64,7 @@
 01604998,CCLA SUL MINAS-SICOOB CREDIVAS,CCLA SUL MINAS-SICOOB CREDIVAS,01604998000104,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01608685,COOP DO ESTADO DO ACRE LTDA.,COOP DO ESTADO DO ACRE LTDA.,01608685000116,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01609345,CC CREDICAMPINA,CC CREDICAMPINA,01609345000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-01635462,CECM DOS MÉDICOS DOS V TAQUARI E RIO PARDO E REG PRO,CECM DOS MÉDICOS DOS V TAQUARI E RIO PARDO E REG PRO,01635462000148,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+01635462,UNICRED PREMIUM CAPITAL,UNICRED PREMIUM CAPITAL,01635462000148,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01637949,CCLA VALE DO PARANAPANEMA,CCLA VALE DO PARANAPANEMA,01637949000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01644264,CCLA SICOOB CREDIMEPI,CCLA SICOOB CREDIMEPI,01644264000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01648418,NSTECH IP S.A.,NSTECH IP S.A.,01648418000172,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -127,11 +127,11 @@
 02507780,IBBA,IBBA,02507780000196,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02528151,CC SICOOB CREDCOOP,CC SICOOB CREDCOOP,02528151000142,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02587492,CCLA URUBICI,CCLA URUBICI,02587492000199,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-02641032,UNICRED PONTO CAPITAL,UNICRED PONTO CAPITAL,02641032000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+02641032,UNICRED PONTO CAPITAL,UNICRED PONTO CAPITAL,02641032000100,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02641969,CCLAA NOVA TRENTO,CCLAA NOVA TRENTO,02641969000177,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02663426,COOP CRESOL NOROESTE,COOP CRESOL NOROESTE,02663426000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02671743,BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,BANVOX DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/06/2024,RSFN,Não
-02682287,"PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS","PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS",,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/07/2023,RSFN,Não
+02682287,"PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS","PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS",02682287000102,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,03/07/2023,RSFN,Não
 02685483,"CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA",CM CAPITAL MARKETS CCTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/01/2017,RSFN,Não
 02766672,COOP CRESOL PLANALTO SUL,COOP CRESOL PLANALTO SUL,02766672000138,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02794761,SICOOB UFVCREDI,SICOOB UFVCREDI,02794761000198,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -906,7 +906,7 @@
 53575491,COOP CRESOL PRIMATO CREDI,COOP CRESOL PRIMATO CREDI,53575491000165,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
 53623781,CC COOPCRED,CC COOPCRED,53623781000137,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53776852,CCR FOR CANA CENTRO EST SP,CCR FOR CANA CENTRO EST SP,53776852000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-53822116,MW IP LTDA.,MW IP LTDA.,53822116000172,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,21/10/2025,RSFN,Não
+53822116,MW IP LTDA.,MW IP LTDA.,53822116000172,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/10/2025,RSFN,Não
 53841911,CCI UNINDÚSTRIA,CCI UNINDÚSTRIA,53841911000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53842122,URBANO S.A. SCFI,URBANO S.A. SCFI,53842122000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/12/2024,RSFN,Não
 53908413,KIWIFY IP,KIWIFY IP,53908413000135,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,31/10/2025,RSFN,Não
@@ -1031,7 +1031,7 @@
 71884498,UNICRED DO ESTADO DE SÃO PAULO,UNICRED DO ESTADO DE SÃO PAULO,71884498000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71962609,PAGARE,PAGARE,71962609000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 72128440,COOP SICREDI RIO RJ,COOP SICREDI RIO RJ,72128440000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-72257793,SICREDI CEARÁ,SICREDI CEARÁ,72257793000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+72257793,COOP SICREDI VEREDAS,COOP SICREDI VEREDAS,72257793000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 73092827,CCM SERV MIN EDUC SÃO PAULO,CCM SERV MIN EDUC SÃO PAULO,73092827000146,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 73113243,COOP SICREDI MORADA DO SOL SP,COOP SICREDI MORADA DO SOL SP,73113243000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 73302408,EXIM CORRETORA DE CAMBIO LTDA,EXIM CC LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/11/2023,Internet,Não
