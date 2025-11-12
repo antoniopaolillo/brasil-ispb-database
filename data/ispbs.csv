@@ -667,7 +667,6 @@
 33040601,"MERCANTIL FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO.",MERCANTIL FINANCEIRA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/08/2023,Internet,Não
 33042151,Banco de la Nacion Argentina,BCO LA NACION ARGENTINA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 33042953,Citibank N.A.,CITIBANK N.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
-33053580,ECOMOVI INSTITUIÇÃO DE PAGAMENTO LTDA.,ECOMOVI INSTITUIÇÃO DE PAGAMENTO LTDA.,33053580000134,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33132044,BANCO CEDULA S.A.,BCO CEDULA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 33147315,Banco Bradesco BERJ S.A.,BCO BRADESCO BERJ S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/11/2011,RSFN,Sim
 33172537,BCO J.P. MORGAN S.A.,BCO J.P. MORGAN S.A.,33172537000198,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
@@ -726,7 +725,7 @@
 35542555,UNLIMIT IP LTDA.,UNLIMIT IP LTDA.,35542555000140,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35551187,"PLANTAE S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",PLANTAE CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2021,RSFN,Não
 35571249,COOP SICREDI EVOLUÇÃO,COOP SICREDI EVOLUÇÃO,35571249000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-35713491,PROTOTYPE IP S.A.,PROTOTYPE IP S.A.,35713491000100,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+35713491,PROTOTYPE IP S.A.,PROTOTYPE IP S.A.,35713491000100,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,nan,,,
 35810871,Z1 IP LTDA.,Z1 IP LTDA.,35810871000155,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/02/2024,RSFN,Não
 35858847,VIATECH IP LTDA.,VIATECH IP LTDA.,35858847000196,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35977097,UP.P SEP S.A.,UP.P SEP S.A.,35977097000171,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/03/2020,RSFN,Não
@@ -774,7 +773,7 @@
 38320462,V3 IP S.A.,V3 IP S.A.,38320462000169,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 38372267,SHOPEE,SHOPEE,38372267000182,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 38406148,CHRISTIAN FAMILY IP,CHRISTIAN FAMILY IP,38406148000101,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-38429045,FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,FÊNIX DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/12/2022,RSFN,Não
+38429045,VIS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,VIS DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/12/2022,RSFN,Não
 38588174,CC CREDICOPE,CC CREDICOPE,38588174000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 38593706,MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A.,MULTICRED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/09/2023,RSFN,Não
 39331592,GRECALE SOLUCOES EM MEIOS DE P,GRECALE SOLUCOES EM MEIOS DE P,39331592000160,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,

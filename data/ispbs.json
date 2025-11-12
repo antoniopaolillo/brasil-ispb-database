@@ -12024,24 +12024,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "33053580",
-    "nome_completo": "ECOMOVI INSTITUIÇÃO DE PAGAMENTO LTDA.",
-    "nome_reduzido": "ECOMOVI INSTITUIÇÃO DE PAGAMENTO LTDA.",
-    "cnpj": "33053580000134",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "33132044",
     "nome_completo": "BANCO CEDULA S.A.",
     "nome_reduzido": "BCO CEDULA S.A.",
@@ -13099,7 +13081,7 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
+    "iniciacao_pagamento": "Sim",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
@@ -13951,8 +13933,8 @@
   },
   {
     "ispb": "38429045",
-    "nome_completo": "FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "nome_reduzido": "FÊNIX DTVM LTDA.",
+    "nome_completo": "VIS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "nome_reduzido": "VIS DTVM LTDA",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
