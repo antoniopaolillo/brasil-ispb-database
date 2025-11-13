@@ -89,7 +89,7 @@
 01864151,CECM SERV E EMPREG PUBL MUN BH BETIM BRUMAD CONTAG IBI NL RN,CECM SERV E EMPREG PUBL MUN BH BETIM BRUMAD CONTAG IBI NL RN,01864151000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01896779,CSU DIGITAL IP S.A.,CSU DIGITAL IP S.A.,01896779000138,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02000895,CECM SERV POD JUD TCE ORG PUBL MUN EST FED RJ,CECM SERV POD JUD TCE ORG PUBL MUN EST FED RJ,02000895000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-02015588,CCLA DO CENTRO SUL RONDONIENSE,CCLA DO CENTRO SUL RONDONIENSE,02015588000182,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+02015588,COOP SICOOB CREDIP,COOP SICOOB CREDIP,02015588000182,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02031139,CCLA MONTES CLAROS,CCLA MONTES CLAROS,02031139000128,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02038232,BANCO SICOOB S.A.,BANCO SICOOB S.A.,02038232000164,Banco Múltiplo Cooperativo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 02057584,CC SICOOB SERTÃO,CC SICOOB SERTÃO,02057584000167,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -156,7 +156,7 @@
 03015152,COOP CRESOL SÃO VALENTIM,COOP CRESOL SÃO VALENTIM,03015152000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03017677,Banco J. Safra S.A.,BCO. J.SAFRA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/08/2004,RSFN,Sim
 03033469,CC DO PLANALTO SUL,CC DO PLANALTO SUL,03033469000115,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-03042597,COOP SICREDI CAMPO GRANDE,COOP SICREDI CAMPO GRANDE,03042597000125,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+03042597,COOP SICREDI CAMPO GRANDE MS/GO,COOP SICREDI CAMPO GRANDE MS/GO,03042597000125,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03046391,UNIPRIME COOPCENTRAL LTDA.,UNIPRIME COOPCENTRAL LTDA.,03046391000173,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,11/01/2011,RSFN,Sim
 03047549,CC CAP UNICIDADES,CC CAP UNICIDADES,03047549000120,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03065046,COOP SICREDI NOROESTE SP,COOP SICREDI NOROESTE SP,03065046000187,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -727,7 +727,6 @@
 35571249,COOP SICREDI EVOLUÇÃO,COOP SICREDI EVOLUÇÃO,35571249000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35713491,PROTOTYPE IP S.A.,PROTOTYPE IP S.A.,35713491000100,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,nan,,,
 35810871,Z1 IP LTDA.,Z1 IP LTDA.,35810871000155,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/02/2024,RSFN,Não
-35858847,VIATECH IP LTDA.,VIATECH IP LTDA.,35858847000196,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35977097,UP.P SEP S.A.,UP.P SEP S.A.,35977097000171,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/03/2020,RSFN,Não
 35990763,ENOQ BANK,ENOQ BANK,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36113876,OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.,OLIVEIRA TRUST DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/03/2011,RSFN,Não
@@ -970,7 +969,7 @@
 62169875,NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS,NU INVESTIMENTOS S.A. - CTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/05/2015,RSFN,Não
 62232889,BCO DAYCOVAL S.A,BCO DAYCOVAL S.A,62232889000190,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 62237649,CAROL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.,CAROL DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/07/2018,Internet,Não
-62285390,SINGULARE CTVM S.A.,SINGULARE CTVM S.A.,62285390000140,Sociedade Corretora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/06/2020,RSFN,Não
+62285390,QI CTVM S.A.,QI CTVM S.A.,62285390000140,Sociedade Corretora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/06/2020,RSFN,Não
 62287735,RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,RENASCENCA DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2010,RSFN,Não
 62331228,DEUTSCHE BANK S.A. - BANCO ALEMAO,DEUTSCHE BANK S.A.BCO ALEMAO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 62421979,BANCO BMG SOLUÇÕES FINANCEIRAS S.A.,BANCO BMG SOLUÇÕES FINANCEIRAS S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
@@ -1090,7 +1089,7 @@
 81706616,COOP SICREDI VLR SUSTENT PR/SP,COOP SICREDI VLR SUSTENT PR/SP,81706616000184,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 81723108,CREDICOAMO,CREDICOAMO,81723108000104,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/12/2012,RSFN,Sim
 82065285,COOP SICREDI SOMA,COOP SICREDI SOMA,82065285000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-82096447,COOP CREDI&GENTE,COOP CREDI&GENTE,82096447000170,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,02/09/2021,RSFN,Não
+82096447,COOP CREDI&GENTE,COOP CREDI&GENTE,82096447000170,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,02/09/2021,RSFN,Não
 82133182,CC DO VALE EUROPEU - SICOOB EURO VALE,CC DO VALE EUROPEU - SICOOB EURO VALE,82133182000133,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 82527557,COOP SICREDI FRONTEIR PR/SC/SP,COOP SICREDI FRONTEIR PR/SC/SP,82527557000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 82639451,COOP VIACREDI,COOP VIACREDI,82639451000138,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,

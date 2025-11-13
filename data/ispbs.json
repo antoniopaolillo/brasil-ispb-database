@@ -1621,8 +1621,8 @@
   },
   {
     "ispb": "02015588",
-    "nome_completo": "CCLA DO CENTRO SUL RONDONIENSE",
-    "nome_reduzido": "CCLA DO CENTRO SUL RONDONIENSE",
+    "nome_completo": "COOP SICOOB CREDIP",
+    "nome_reduzido": "COOP SICOOB CREDIP",
     "cnpj": "02015588000182",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -2827,8 +2827,8 @@
   },
   {
     "ispb": "03042597",
-    "nome_completo": "COOP SICREDI CAMPO GRANDE",
-    "nome_reduzido": "COOP SICREDI CAMPO GRANDE",
+    "nome_completo": "COOP SICREDI CAMPO GRANDE MS/GO",
+    "nome_reduzido": "COOP SICREDI CAMPO GRANDE MS/GO",
     "cnpj": "03042597000125",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -13104,24 +13104,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "35858847",
-    "nome_completo": "VIATECH IP LTDA.",
-    "nome_reduzido": "VIATECH IP LTDA.",
-    "cnpj": "35858847000196",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "35977097",
     "nome_completo": "UP.P SEP S.A.",
     "nome_reduzido": "UP.P SEP S.A.",
@@ -17479,8 +17461,8 @@
   },
   {
     "ispb": "62285390",
-    "nome_completo": "SINGULARE CTVM S.A.",
-    "nome_reduzido": "SINGULARE CTVM S.A.",
+    "nome_completo": "QI CTVM S.A.",
+    "nome_reduzido": "QI CTVM S.A.",
     "cnpj": "62285390000140",
     "tipo_instituicao": "Sociedade Corretora de TVM",
     "autorizada_bcb": "Sim",
@@ -19651,8 +19633,8 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
   {
