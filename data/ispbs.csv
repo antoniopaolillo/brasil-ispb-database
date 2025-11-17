@@ -535,7 +535,6 @@
 21866694,CC CREDINOR,CC CREDINOR,21866694000114,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 21995256,MAG IP LTDA.,MAG IP LTDA.,21995256000156,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,17/10/2023,RSFN,Não
 22181404,EASY PAGO,EASY PAGO,22181404000161,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-22443203,AN SPACE PAY,AN SPACE PAY,22443203000195,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 22575466,SRM BANK,SRM BANK,22575466000158,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,17/07/2023,RSFN,Não
 22610500,VORTX DTVM LTDA.,VORTX DTVM LTDA.,22610500000188,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2018,RSFN,Não
 22656789,CC CREDISUDESTE LTDA,CC CREDISUDESTE LTDA,22656789000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -802,7 +801,6 @@
 40571694,WISE BRASIL IP LTDA.,WISE BRASIL IP LTDA.,40571694000131,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 40654622,TRINUS SCD S.A.,TRINUS SCD S.A.,40654622000158,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,09/09/2021,RSFN,Não
 40710595,NG CASH IP,NG CASH IP,40710595000193,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-40735713,JRM2,JRM2,40735713000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 40768766,LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,LIONS TRUST DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 40820176,PAY BROKERS IP,PAY BROKERS IP,40820176000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 40910463,BIPA INSTITUICAO DE PAGAMENTO,BIPA INSTITUICAO DE PAGAMENTO,40910463000105,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -969,6 +967,7 @@
 62169875,NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS,NU INVESTIMENTOS S.A. - CTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/05/2015,RSFN,Não
 62232889,BCO DAYCOVAL S.A,BCO DAYCOVAL S.A,62232889000190,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 62237649,CAROL DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.,CAROL DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/07/2018,Internet,Não
+62264924,QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS LTDA,QORE,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/11/2025,RSFN,Não
 62285390,QI CTVM S.A.,QI CTVM S.A.,62285390000140,Sociedade Corretora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/06/2020,RSFN,Não
 62287735,WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,WARREN RENA DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2010,RSFN,Não
 62331228,DEUTSCHE BANK S.A. - BANCO ALEMAO,DEUTSCHE BANK S.A.BCO ALEMAO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
