@@ -546,6 +546,7 @@
 23114447,FLAGSHIP IP LTDA,FLAGSHIP IP LTDA,23114447000197,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/10/2023,RSFN,Não
 23149892,PAGBEM,PAGBEM,23149892000192,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 23273917,VALLOO PAGAMENTOS,VALLOO PAGAMENTOS,23273917000165,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+23399607,CERC S.A.,CERC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/12/2025,RSFN,Não
 23623636,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,23623636000195,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 23862762,WILL FINANCEIRA S.A.CFI,WILL FINANCEIRA S.A.CFI,23862762000100,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/05/2018,RSFN,Não
 23949522,CC CREDICARPA,CC CREDICARPA,23949522000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -801,6 +802,7 @@
 40571694,WISE BRASIL IP LTDA.,WISE BRASIL IP LTDA.,40571694000131,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 40654622,TRINUS SCD S.A.,TRINUS SCD S.A.,40654622000158,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,09/09/2021,RSFN,Não
 40710595,NG CASH IP,NG CASH IP,40710595000193,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+40735713,JRM2,JRM2,40735713000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
 40768766,LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,LIONS TRUST DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 40820176,PAY BROKERS IP,PAY BROKERS IP,40820176000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 40910463,BIPA INSTITUICAO DE PAGAMENTO,BIPA INSTITUICAO DE PAGAMENTO,40910463000105,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
