@@ -693,10 +693,10 @@
 33737818,"COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DE MATO GROSSO DO SUL, GOIÁS, DISTRITO FEDERAL E TOCANTINS - CENTRAL SICREDI BRASIL CENTRAL","CCC POUP INV DE MS, GO, DF E TO",,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/03/2024,RSFN,Não
 33775974,"ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES",ATIVA S.A. INVESTIMENTOS CCTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2017,RSFN,Não
 33862244,BGC LIQUIDEZ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,BGC LIQUIDEZ DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2014,RSFN,Não
-33884941,BANCO MASTER MÚLTIPLO S.A.,BANCO MASTER MÚLTIPLO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/09/2024,RSFN,Não
+33884941,BANCO MASTER MÚLTIPLO S.A.,BANCO MASTER MÚLTIPLO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/09/2024,Internet,Não
 33885724,Banco Itaú Consignado S.A.,BANCO ITAÚ CONSIGNADO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 33886862,"MASTER S/A CORRETORA DE CâMBIO, TíTULOS E VALORES MOBILIáRIOS",MASTER S/A CCTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2021,RSFN,Não
-33923798,BANCO MASTER,BANCO MASTER,33923798000100,Banco Comercial,Não,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
+33923798,BANCO MASTER,BANCO MASTER,33923798000100,Banco Comercial,Não,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,Internet,Sim
 33924028,SICOOB COOPVALE,SICOOB COOPVALE,33924028000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33930368,7TRUST FINANCE IP S.A.,7TRUST FINANCE IP S.A.,33930368000108,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33982918,SIMPAY PAGAMENTOS LTDA,SIMPAY PAGAMENTOS LTDA,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -831,7 +831,7 @@
 43180355,PEFISA S.A. - C.F.I.,PEFISA S.A. - C.F.I.,43180355000112,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/11/2017,RSFN,Não
 43394419,GOOGLE PAY BRASIL IP LTDA.,GOOGLE PAY BRASIL IP LTDA.,43394419000188,Instituição de Pagamento,Sim,Sim,Não,,PIX,Iniciador,Sim,nan,,,
 43599047,SUPERLÓGICA SCD S.A.,SUPERLÓGICA SCD S.A.,43599047000126,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,29/08/2022,RSFN,Não
-43978697,KIKAI SCD S.A.,KIKAI SCD S.A.,43978697000182,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,15/04/2025,RSFN,Não
+43978697,KIKAI SCD S.A.,KIKAI SCD S.A.,43978697000182,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,15/04/2025,RSFN,Não
 44019481,PEAK SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.,PEAK SEP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/01/2023,RSFN,Não
 44064068,OPPENS SOCIEDADE DE EMPRESTIMO ENTRE PESSOAS S.A,OPPENS SEP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/06/2025,Internet,Não
 44077014,BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,BR-CAPITAL DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/06/2021,RSFN,Não
@@ -932,7 +932,7 @@
 58022195,CECM EMPR EMP ZILLO LORENZETTI,CECM EMPR EMP ZILLO LORENZETTI,58022195000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 58160789,BCO SAFRA S.A.,BCO SAFRA S.A.,58160789000128,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 58367961,BIT SCD S.A.,BIT SCD S.A.,58367961000119,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,22/07/2025,RSFN,Não
-58497702,BANCO LETSBANK S.A.,BANCO LETSBANK S.A.,58497702000102,Banco Múltiplo,Não,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
+58497702,BANCO LETSBANK S.A.,BANCO LETSBANK S.A.,58497702000102,Banco Múltiplo,Não,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,Internet,Não
 58616418,BCO FIBRA S.A.,BCO FIBRA S.A.,58616418000108,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 59109165,Banco Volkswagen S.A.,BCO VOLKSWAGEN S.A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,17/08/2020,RSFN,Não
 59118133,BCO LUSO BRASILEIRO S.A.,BCO LUSO BRASILEIRO S.A.,59118133000100,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
