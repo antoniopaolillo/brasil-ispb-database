@@ -67,7 +67,7 @@
 01635462,UNICRED PREMIUM CAPITAL,UNICRED PREMIUM CAPITAL,01635462000148,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01637949,CCLA VALE DO PARANAPANEMA,CCLA VALE DO PARANAPANEMA,01637949000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01644264,CCLA SICOOB CREDIMEPI,CCLA SICOOB CREDIMEPI,01644264000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-01648418,NSTECH IP S.A.,NSTECH IP S.A.,01648418000172,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+01648418,NSTECH IP S.A.,NSTECH IP S.A.,01648418000172,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01657678,CCLA SEBASTIAO PARAISO,CCLA SEBASTIAO PARAISO,01657678000104,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01658426,COOP COOPERFORTE LTDA.,COOP COOPERFORTE LTDA.,01658426000108,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/09/2020,RSFN,Não
 01667352,CCLA SICOOB CREDMISSÃO LTDA.,CCLA SICOOB CREDMISSÃO LTDA.,01667352000168,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -197,7 +197,7 @@
 03751794,Terra Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda.,TERRA INVESTIMENTOS DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/10/2018,RSFN,Não
 03793242,COOP SICREDI SUL SC,COOP SICREDI SUL SC,03793242000178,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03816413,PAGUEVELOZ IP LTDA.,PAGUEVELOZ IP LTDA.,03816413000137,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-03817702,VOLUS IP,VOLUS IP,03817702000150,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+03817702,VOLUS IP LTDA.,VOLUS IP LTDA.,03817702000150,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03844699,CECM DOS TRAB.PORT. DA G.VITOR,CECM DOS TRAB.PORT. DA G.VITOR,03844699000164,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,08/03/2022,RSFN,Não
 03862898,CCLA EMPREG DOS CORREIOS - SICOOB COOPERCORREIOS,CCLA EMPREG DOS CORREIOS - SICOOB COOPERCORREIOS,03862898000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03881423,SOCINAL S.A. CFI,SOCINAL S.A. CFI,03881423000156,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,27/07/2021,RSFN,Não
@@ -918,7 +918,7 @@
 55230916,Intesa Sanpaolo Brasil S.A. - Banco Múltiplo,INTESA SANPAOLO BRASIL S.A. BM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/05/2015,RSFN,Não
 55428859,FREEX CORRETORA DE CAMBIO S.A.,FREEX CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/09/2024,Internet,Não
 55823094,DELTA GLOBAL SCD S.A.,DELTA GLOBAL SCD S.A.,55823094000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,17/04/2025,RSFN,Não
-56106523,VUE IP S.A.,VUE IP S.A.,56106523000171,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,28/07/2025,RSFN,Não
+56106523,VUE IP S.A.,VUE IP S.A.,56106523000171,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,28/07/2025,RSFN,Não
 56198117,SQUID SCD S.A.,SQUID SCD S.A.,56198117000186,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,27/06/2025,RSFN,Não
 56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,

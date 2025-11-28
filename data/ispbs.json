@@ -1229,7 +1229,7 @@
     "nome_reduzido": "NSTECH IP S.A.",
     "cnpj": "01648418000172",
     "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
+    "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
     "participa_str": "Não",
     "status_operacional": "",
@@ -3565,8 +3565,8 @@
   },
   {
     "ispb": "03817702",
-    "nome_completo": "VOLUS IP",
-    "nome_reduzido": "VOLUS IP",
+    "nome_completo": "VOLUS IP LTDA.",
+    "nome_reduzido": "VOLUS IP LTDA.",
     "cnpj": "03817702000150",
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Não",
@@ -16555,7 +16555,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Etapa Homologatória",
+    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
