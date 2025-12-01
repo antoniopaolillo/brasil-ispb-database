@@ -393,7 +393,7 @@
 09512539,CC DA FOZ DO RIO ITAJAÍ AÇU,CC DA FOZ DO RIO ITAJAÍ AÇU,09512539000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09512542,Codepe Corretora de Valores e Câmbio S.A.,CODEPE CVC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,09/11/2012,Internet,Não
 09516419,PICPAY BANK - BANCO MÚLTIPLO S.A,PICPAY BANK - BANCO MÚLTIPLO S.A,09516419000175,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/07/2008,RSFN,Não
-09526594,BANCO MASTER DE INVESTIMENTO S.A.,MASTER BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/03/2023,RSFN,Não
+09526594,BANCO MASTER DE INVESTIMENTO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,MASTER BI S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/03/2023,RSFN,Não
 09552111,COOP JUST GOIAS E CELG,COOP JUST GOIAS E CELG,09552111000185,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09576849,CCLA CERES E RIALMA LTDA,CCLA CERES E RIALMA LTDA,09576849000182,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09579249,"CECM EMP AMERICANA, LIMEIRA E","CECM EMP AMERICANA, LIMEIRA E",09579249000178,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -690,10 +690,10 @@
 33737818,"COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DE MATO GROSSO DO SUL, GOIÁS, DISTRITO FEDERAL E TOCANTINS - CENTRAL SICREDI BRASIL CENTRAL","CCC POUP INV DE MS, GO, DF E TO",,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/03/2024,RSFN,Não
 33775974,"ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES",ATIVA S.A. INVESTIMENTOS CCTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2017,RSFN,Não
 33862244,BGC LIQUIDEZ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,BGC LIQUIDEZ DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2014,RSFN,Não
-33884941,BANCO MASTER MÚLTIPLO S.A.,BANCO MASTER MÚLTIPLO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/09/2024,RSFN,Não
+33884941,BANCO MASTER MÚLTIPLO S.A. - SOB RAET,BANCO MASTER MÚLTIPLO - SOB RAET,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/09/2024,RSFN,Não
 33885724,Banco Itaú Consignado S.A.,BANCO ITAÚ CONSIGNADO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-33886862,"MASTER S/A CORRETORA DE CâMBIO, TíTULOS E VALORES MOBILIáRIOS",MASTER S/A CCTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2021,RSFN,Não
-33923798,BANCO MASTER S/A,BANCO MASTER,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
+33886862,"MASTER S/A CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS - EM LIQUIDAÇÃO EXTRAJUDICIAL",MASTER S/A CCTVM - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2021,RSFN,Não
+33923798,BANCO MASTER S/A - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO MASTER - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 33924028,SICOOB COOPVALE,SICOOB COOPVALE,33924028000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33930368,7TRUST FINANCE IP S.A.,7TRUST FINANCE IP S.A.,33930368000108,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33982918,SIMPAY PAGAMENTOS LTDA,SIMPAY PAGAMENTOS LTDA,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -885,7 +885,7 @@
 50735161,COOP CRESOL MATO GROSSO,COOP CRESOL MATO GROSSO,50735161000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 50871921,MT IP S.A.,MT IP S.A.,50871921000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,10/04/2025,RSFN,Não
 50946592,SETHI SOCIEDADE DE CRÉDITO DIRETO S.A.,SETHI SCD SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2024,Internet,Não
-51118615,INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD,INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD,51118615000158,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,20/06/2025,RSFN,Não
+51118615,INTEGRAÇÃO DE CRÉDITO E COBRANÇA SOCIEDADE DE CRÉDITO DIRETO S.A.,INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/06/2025,RSFN,Não
 51118718,NVIO BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.,NVIO BRASIL SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/05/2025,RSFN,Não
 51212088,G5 SCD SA,G5 SCD SA,51212088000146,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/06/2024,RSFN,Não
 51342763,REVOLUT SCD S.A.,REVOLUT SCD S.A.,51342763000151,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/05/2024,RSFN,Não
@@ -929,7 +929,7 @@
 58022195,CECM EMPR EMP ZILLO LORENZETTI,CECM EMPR EMP ZILLO LORENZETTI,58022195000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 58160789,BCO SAFRA S.A.,BCO SAFRA S.A.,58160789000128,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 58367961,BIT SCD S.A.,BIT SCD S.A.,58367961000119,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,22/07/2025,RSFN,Não
-58497702,BANCO LETSBANK S.A.,BANCO LETSBANK S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
+58497702,BANCO LETSBANK S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO LETSBANK S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 58616418,BCO FIBRA S.A.,BCO FIBRA S.A.,58616418000108,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 59109165,Banco Volkswagen S.A.,BCO VOLKSWAGEN S.A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,17/08/2020,RSFN,Não
 59118133,BCO LUSO BRASILEIRO S.A.,BCO LUSO BRASILEIRO S.A.,59118133000100,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
