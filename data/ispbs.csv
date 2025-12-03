@@ -522,7 +522,7 @@
 20443996,"BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",BECKER FINANCEIRA SA - CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/08/2025,RSFN,Não
 20520298,BS2 PAYMENTS IP S.A.,BS2 PAYMENTS IP S.A.,20520298000178,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 20757199,PAY4FUN IP S.A.,PAY4FUN IP S.A.,20757199000104,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2023,RSFN,Não
-20833992,CC MECUNP,CC MECUNP,20833992000145,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,22/09/2025,RSFN,Não
+20833992,CC MECUNP,CC MECUNP,20833992000145,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,22/09/2025,RSFN,Não
 20855875,NEON PAGAMENTOS S.A. IP,NEON PAGAMENTOS S.A. IP,20855875000182,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,12/01/2023,RSFN,Não
 21018182,EBANX IP LTDA.,EBANX IP LTDA.,21018182000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,09/07/2020,RSFN,Não
 21041840,PPRO BRASIL,PPRO BRASIL,21041840000172,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
