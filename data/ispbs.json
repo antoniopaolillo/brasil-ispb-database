@@ -8172,6 +8172,24 @@
     "fonte_dados": "PIX+STR"
   },
   {
+    "ispb": "13776742",
+    "nome_completo": "RENDIMENTOPAY IP S.A",
+    "nome_reduzido": "RENDIMENTOPAY IP S.A",
+    "cnpj": "13776742000155",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "13884775",
     "nome_completo": "MAGALUPAY",
     "nome_reduzido": "MAGALUPAY",
