@@ -426,7 +426,7 @@
 10868663,ACG IP S.A.,ACG IP S.A.,10868663000186,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 11165756,GLOBAL SCM LTDA,GLOBAL SCM LTDA,11165756000107,Sociedade de Crédito ao Microempreendedor,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,13/10/2020,RSFN,Não
 11275560,RECARGAPAY IP LTDA.,RECARGAPAY IP LTDA.,11275560000175,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-11285104,"NEON FINANCEIRA - CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",NEON FINANCEIRA - CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/05/2021,RSFN,Não
+11285104,"NEON FINANCEIRA - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A",NEON FINANCEIRA - SCFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/05/2021,RSFN,Não
 11351086,MERCADO BITCOIN IP LTDA,MERCADO BITCOIN IP LTDA,11351086000113,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/04/2024,RSFN,Não
 11414839,EAGLE INSTITUICAO DE PAGAMENTO LTDA.,EAGLE IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,30/09/2024,RSFN,Não
 11476673,BANCO RANDON S.A.,BANCO RANDON S.A.,11476673000139,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/08/2020,RSFN,Não
@@ -543,7 +543,6 @@
 22760839,CC NOSSOCREDITO,CC NOSSOCREDITO,22760839000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 22896431,PICPAY,PICPAY,22896431000110,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,15/10/2020,RSFN,Não
 23114447,FLAGSHIP IP LTDA,FLAGSHIP IP LTDA,23114447000197,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/10/2023,RSFN,Não
-23149892,PAGBEM,PAGBEM,23149892000192,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 23273917,VALLOO PAGAMENTOS,VALLOO PAGAMENTOS,23273917000165,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 23399607,CERC S.A.,CERC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/12/2025,RSFN,Não
 23623636,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,23623636000195,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -554,7 +553,7 @@
 24313102,99PAY IP S.A.,99PAY IP S.A.,24313102000125,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/08/2025,RSFN,Não
 24431221,COOP CRESOL TRANSAMAZÔNICA,COOP CRESOL TRANSAMAZÔNICA,24431221000182,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24610065,CC SICOOB IPÊ,CC SICOOB IPÊ,24610065000117,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-24654881,COOP SICREDI UNIÃO MS/TO,COOP SICREDI UNIÃO MS/TO,24654881000122,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+24654881,COOP SICREDI UNIÃO MS/TO E OESTE DA BA,COOP SICREDI UNIÃO MS/TO E OESTE DA BA,24654881000122,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24722685,BRX BANK IP LTDA.,BRX BANK IP LTDA.,24722685000148,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24795049,CCLA SUDOESTE GOIANO,CCLA SUDOESTE GOIANO,24795049000146,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24799033,CCLA VALE DO PARANAÍBA,CCLA VALE DO PARANAÍBA,24799033000101,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -583,7 +582,7 @@
 26191078,COOP SICREDI SUL DO MARANHÃO,COOP SICREDI SUL DO MARANHÃO,26191078000124,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 26264220,ZERO IP,ZERO IP,26264220000116,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,11/11/2024,RSFN,Não
 26408161,COOP SICREDI CENTRO-SUL MS/BA,COOP SICREDI CENTRO-SUL MS/BA,26408161000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-26408187,COOP SICREDI PANTANAL,COOP SICREDI PANTANAL,26408187000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+26408187,COOP SICREDI PANTANAL,COOP SICREDI PANTANAL,26408187000150,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 26526166,CCLA SUL MARANHENSE - SICOOB SUL MARANHENSE,CCLA SUL MARANHENSE - SICOOB SUL MARANHENSE,26526166000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 26529420,COOP SICREDI OURO VERDE MT,COOP SICREDI OURO VERDE MT,26529420000153,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 26549311,COOP SICREDI INTEGRAÇÃO MT/AP/PA,COOP SICREDI INTEGRAÇÃO MT/AP/PA,26549311000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
