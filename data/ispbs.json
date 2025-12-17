@@ -9343,21 +9343,21 @@
   },
   {
     "ispb": "20251847",
-    "nome_completo": "SUDACRED SCD S.A.",
+    "nome_completo": "SUDACRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "nome_reduzido": "SUDACRED SCD S.A.",
-    "cnpj": "20251847000156",
-    "tipo_instituicao": "Sociedade de Crédito Direto",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
+    "participa_pix": "Não",
     "participa_str": "Sim",
-    "status_operacional": "",
+    "status_operacional": "Ativo",
     "data_inicio_operacao": "08/05/2023",
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Etapa Homologatória",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX+STR"
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
   },
   {
     "ispb": "20308187",
@@ -12834,24 +12834,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "35257964",
-    "nome_completo": "CICLLOS PAY",
-    "nome_reduzido": "CICLLOS PAY",
-    "cnpj": "35257964000102",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "35340796",
     "nome_completo": "INCO SEP S.A.",
     "nome_reduzido": "INCO SEP S.A.",
@@ -15781,7 +15763,7 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Etapa Homologatória",
+    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
@@ -16843,7 +16825,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
+    "iniciacao_pagamento": "Ativo em operação restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
