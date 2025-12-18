@@ -12762,24 +12762,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "34837066",
-    "nome_completo": "BANKROW IP S.A.",
-    "nome_reduzido": "BANKROW IP S.A.",
-    "cnpj": "34837066000152",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "34878543",
     "nome_completo": "CLARO PAY S.A. IP",
     "nome_reduzido": "CLARO PAY S.A. IP",
