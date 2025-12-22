@@ -12042,24 +12042,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "33330067",
-    "nome_completo": "A BANK",
-    "nome_reduzido": "A BANK",
-    "cnpj": "33330067000143",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "33370115",
     "nome_completo": "FURNAS",
     "nome_reduzido": "FURNAS",
