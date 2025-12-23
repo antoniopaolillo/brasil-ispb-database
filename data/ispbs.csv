@@ -706,7 +706,7 @@
 34471744,PAGME IP LTDA,PAGME IP LTDA,34471744000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/10/2024,RSFN,Não
 34678263,KREDIT IP S/A,KREDIT IP S/A,34678263000176,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 34747388,ISSUER IP LTDA.,ISSUER IP LTDA.,34747388000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/03/2024,RSFN,Não
-34829992,REAG TRUST DTVM,REAG TRUST DTVM,34829992000186,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,06/03/2023,RSFN,Não
+34829992,CBSF DTVM,CBSF DTVM,34829992000186,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,06/03/2023,RSFN,Não
 34878543,CLARO PAY S.A. IP,CLARO PAY S.A. IP,34878543000128,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35136120,BITSO IP LTDA,BITSO IP LTDA,35136120000103,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 35210410,ONEKEY PAYMENTS IP S.A.,ONEKEY PAYMENTS IP S.A.,35210410000141,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/09/2024,RSFN,Não
@@ -721,7 +721,7 @@
 35713491,PROTOTYPE IP S.A.,PROTOTYPE IP S.A.,35713491000100,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,nan,,,
 35810871,Z1 IP LTDA.,Z1 IP LTDA.,35810871000155,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/02/2024,RSFN,Não
 35977097,UP.P SEP S.A.,UP.P SEP S.A.,35977097000171,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/03/2020,RSFN,Não
-35990763,ENOQ BANK,ENOQ BANK,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+35990763,ENOQ PAY,ENOQ PAY,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36113876,OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.,OLIVEIRA TRUST DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/03/2011,RSFN,Não
 36266751,FINVEST DTVM,FINVEST DTVM,36266751000100,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,01/08/2022,RSFN,Não
 36272465,REAG IP,REAG IP,36272465000149,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -890,7 +890,7 @@
 51834986,MH SCD S.A.,MH SCD S.A.,51834986000136,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Sim,,,
 52440987,SANTS SCD S.A.,SANTS SCD S.A.,52440987000169,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/06/2024,RSFN,Não
 52586293,Z-ON SCD S.A.,Z-ON SCD S.A.,52586293000134,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/10/2024,RSFN,Não
-52833288,LB PAY IP LTDA,LB PAY IP LTDA,52833288000189,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,26/09/2025,Internet,Não
+52833288,LB PAY INSTITUIÇÃO DE PAGAMENTO LTDA,LB PAY IP LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/09/2025,Internet,Não
 53236808,CCLA DE ARARAQUARA E REGIÃO,CCLA DE ARARAQUARA E REGIÃO,53236808000139,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53505601,"STONE SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",STONE CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,18/03/2025,RSFN,Não
 53518684,BCO HSBC S.A.,BCO HSBC S.A.,53518684000184,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/02/2018,RSFN,Não
@@ -900,7 +900,7 @@
 53822116,MW IP LTDA.,MW IP LTDA.,53822116000172,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/10/2025,RSFN,Não
 53841911,CCI UNINDÚSTRIA,CCI UNINDÚSTRIA,53841911000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53842122,URBANO S.A. SCFI,URBANO S.A. SCFI,53842122000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/12/2024,RSFN,Não
-53908413,KIWIFY IP,KIWIFY IP,53908413000135,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,31/10/2025,RSFN,Não
+53908413,KIWIFY IP,KIWIFY IP,53908413000135,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,31/10/2025,RSFN,Não
 53935029,CCLA SICOOB COOCRELIVRE,CCLA SICOOB COOCRELIVRE,53935029000121,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 54024532,MAX IP,MAX IP,54024532000198,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,12/11/2025,RSFN,Não
 54037916,CC CREDICITRUS,CC CREDICITRUS,54037916000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -914,7 +914,7 @@
 55230916,Intesa Sanpaolo Brasil S.A. - Banco Múltiplo,INTESA SANPAOLO BRASIL S.A. BM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/05/2015,RSFN,Não
 55428859,FREEX CORRETORA DE CAMBIO S.A.,FREEX CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/09/2024,Internet,Não
 55823094,DELTA GLOBAL SCD S.A.,DELTA GLOBAL SCD S.A.,55823094000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,17/04/2025,RSFN,Não
-56106523,VUE IP S.A.,VUE IP S.A.,56106523000171,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,28/07/2025,RSFN,Não
+56106523,VUE IP S.A.,VUE IP S.A.,56106523000171,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,28/07/2025,RSFN,Não
 56198117,SQUID SCD S.A.,SQUID SCD S.A.,56198117000186,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,27/06/2025,RSFN,Não
 56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -1100,7 +1100,7 @@
 86829827,CCLA DO VALE,CCLA DO VALE,86829827000128,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87067757,COOP SICREDI CENTRO SERRA,COOP SICREDI CENTRO SERRA,87067757000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87437687,"COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE",CCCPOUPINV SUL E SUDESTE - CENTRAL SUL/SUDESTE,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/02/2024,RSFN,Não
-87510475,COOP SICREDI ROTA DAS TERRAS RS/MG,COOP SICREDI ROTA DAS TERRAS RS/MG,87510475000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+87510475,COOP SICREDI ROTA DAS TERRAS,COOP SICREDI ROTA DAS TERRAS,87510475000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87733077,COOP SICREDI ESSÊNCIA,COOP SICREDI ESSÊNCIA,87733077000159,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87733770,COOP. CRED. POUP. INVEST. CONEXÃO,COOP. CRED. POUP. INVEST. CONEXÃO,87733770000121,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87779625,COOPERATIVA DE CRÉDITO COOPERAÇÃO - SICREDI COOPERAÇÃO,COOPERATIVA DE CRÉDITO COOPERAÇÃO - SICREDI COOPERAÇÃO,87779625000181,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -1108,7 +1108,7 @@
 87780284,COOP SICREDI VL JAGUA ZN MATA,COOP SICREDI VL JAGUA ZN MATA,87780284000164,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87781530,SICREDI INTEGRAÇÃO DE ESTADOS RS/SC/MG,SICREDI INTEGRAÇÃO DE ESTADOS RS/SC/MG,87781530000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87784088,COOP SICREDI SUL MINAS RS/MG,COOP SICREDI SUL MINAS RS/MG,87784088000168,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-87795639,COOP SICREDI ALIANÇA RS/SC,COOP SICREDI ALIANÇA RS/SC,87795639000199,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+87795639,COOP SICREDI ALIANÇA,COOP SICREDI ALIANÇA,87795639000199,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87853206,COOP SICREDI OURO BRANCO RS/MG,COOP SICREDI OURO BRANCO RS/MG,87853206000142,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87900411,COOP SICREDI SEMENTES DO SUL,COOP SICREDI SEMENTES DO SUL,87900411000111,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 87900601,COOP SICREDI BOTUCARAÍ RS/MG,COOP SICREDI BOTUCARAÍ RS/MG,87900601000139,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -1124,7 +1124,7 @@
 89960090,RB INVESTIMENTOS DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LIMITADA,RB INVESTIMENTOS DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/07/2018,RSFN,Não
 89990501,COOP SICREDI IBIRAIARAS RS/MG,COOP SICREDI IBIRAIARAS RS/MG,89990501000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 90400888,BCO SANTANDER (BRASIL) S.A.,BCO SANTANDER (BRASIL) S.A.,90400888000142,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
-90497256,COOP SICREDI INTERESTADOS RS/ES,COOP SICREDI INTERESTADOS RS/ES,90497256000149,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+90497256,COOP SICREDI INTERESTADOS,COOP SICREDI INTERESTADOS,90497256000149,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 90608712,COOP SICREDI SERRANA RS,COOP SICREDI SERRANA RS,90608712000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 90729369,COOP SICREDI CULTURAS RS/MG,COOP SICREDI CULTURAS RS/MG,90729369000122,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 91159764,COOP SICREDI INTEGRAÇÃO RS/MG,COOP SICREDI INTEGRAÇÃO RS/MG,91159764000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
