@@ -130,7 +130,7 @@
 02641969,CCLAA NOVA TRENTO,CCLAA NOVA TRENTO,02641969000177,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02663426,COOP CRESOL NOROESTE,COOP CRESOL NOROESTE,02663426000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02671743,BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,BANVOX DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/06/2024,RSFN,Não
-02682287,"PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS","PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS",02682287000102,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,03/07/2023,RSFN,Não
+02682287,PAN FINAN,PAN FINAN,02682287000102,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,03/07/2023,RSFN,Não
 02685483,"CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA",CM CAPITAL MARKETS CCTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/01/2017,RSFN,Não
 02766672,COOP CRESOL PLANALTO SUL,COOP CRESOL PLANALTO SUL,02766672000138,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02794761,SICOOB UFVCREDI,SICOOB UFVCREDI,02794761000198,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -826,7 +826,6 @@
 43599047,SUPERLÓGICA SCD S.A.,SUPERLÓGICA SCD S.A.,43599047000126,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,29/08/2022,RSFN,Não
 43978697,KIKAI SCD S.A.,KIKAI SCD S.A.,43978697000182,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/04/2025,RSFN,Não
 44019481,PEAK SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.,PEAK SEP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/01/2023,RSFN,Não
-44064068,OPPENS SOCIEDADE DE EMPRESTIMO ENTRE PESSOAS S.A,OPPENS SEP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/06/2025,Internet,Não
 44077014,BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,BR-CAPITAL DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/06/2021,RSFN,Não
 44189447,Banco de La Provincia de Buenos Aires,BCO LA PROVINCIA B AIRES BCE,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 44292580,HR DIGITAL SCD,HR DIGITAL SCD,44292580000103,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/02/2023,RSFN,Não
@@ -914,7 +913,7 @@
 55230916,Intesa Sanpaolo Brasil S.A. - Banco Múltiplo,INTESA SANPAOLO BRASIL S.A. BM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/05/2015,RSFN,Não
 55428859,FREEX CORRETORA DE CAMBIO S.A.,FREEX CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/09/2024,Internet,Não
 55823094,DELTA GLOBAL SCD S.A.,DELTA GLOBAL SCD S.A.,55823094000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,17/04/2025,RSFN,Não
-56106523,VUE IP S.A.,VUE IP S.A.,56106523000171,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,28/07/2025,RSFN,Não
+56106523,VUE INSTITUIÇÃO DE PAGAMENTO S.A.,VUE IP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2025,RSFN,Não
 56198117,SQUID SCD S.A.,SQUID SCD S.A.,56198117000186,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,27/06/2025,RSFN,Não
 56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
