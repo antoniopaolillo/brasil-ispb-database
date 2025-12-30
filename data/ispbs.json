@@ -15750,6 +15750,24 @@
     "fonte_dados": "PIX+STR"
   },
   {
+    "ispb": "50032584",
+    "nome_completo": "LOAN BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "nome_reduzido": "LOAN BRASIL SCD S.A.",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "06/01/2026",
+    "acesso_principal": "Internet",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
+  },
+  {
     "ispb": "50579044",
     "nome_completo": "LEVYCAM - CORRETORA DE CAMBIO E VALORES LTDA.",
     "nome_reduzido": "LEVYCAM CCV LTDA",
@@ -16249,8 +16267,8 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
   {
@@ -17101,8 +17119,8 @@
   },
   {
     "ispb": "61384004",
-    "nome_completo": "AVENUE SECURITIES DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "nome_reduzido": "AVENUE SECURITIES DTVM LTDA.",
+    "nome_completo": "AVENUE SECURITIES BANCO DE INVESTIMENTO S.A.",
+    "nome_reduzido": "AVENUE SECURITIES BI S.A.",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",

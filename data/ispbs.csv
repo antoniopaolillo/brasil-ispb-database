@@ -874,6 +874,7 @@
 49686505,WASU IP LTDA.,WASU IP LTDA.,49686505000140,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
 49931906,TRIO IP LTDA.,TRIO IP LTDA.,49931906000119,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,01/08/2024,RSFN,Não
 49933388,BRCONDOS SCD S.A.,BRCONDOS SCD S.A.,49933388000172,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/12/2023,RSFN,Não
+50032584,LOAN BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.,LOAN BRASIL SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/01/2026,Internet,Não
 50579044,LEVYCAM - CORRETORA DE CAMBIO E VALORES LTDA.,LEVYCAM CCV LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/06/2015,Internet,Não
 50585090,BANCO BMG CONSIGNADO S.A.,BANCO BMG CONSIGNADO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 50626276,KONECT SOCIEDADE DE CRÉDITO DIRETO S/A,KONECT SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,29/09/2025,RSFN,Não
@@ -901,7 +902,7 @@
 53842122,URBANO S.A. SCFI,URBANO S.A. SCFI,53842122000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/12/2024,RSFN,Não
 53908413,KIWIFY IP,KIWIFY IP,53908413000135,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,31/10/2025,RSFN,Não
 53935029,CCLA SICOOB COOCRELIVRE,CCLA SICOOB COOCRELIVRE,53935029000121,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-54024532,MAX IP,MAX IP,54024532000198,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,12/11/2025,RSFN,Não
+54024532,MAX IP,MAX IP,54024532000198,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,12/11/2025,RSFN,Não
 54037916,CC CREDICITRUS,CC CREDICITRUS,54037916000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 54190525,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,SICOOB CRESSEM - CECM SERV MUN REG METR VALE PARAIBA E LITOR,54190525000166,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 54264235,VBS SCD S.A.,VBS SCD S.A.,54264235000110,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -949,7 +950,7 @@
 61182408,Banco Investcred Unibanco S.A.,BANCO INVESTCRED UNIBANCO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 61186680,BCO BMG S.A.,BCO BMG S.A.,61186680000174,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 61348538,BANCO C6 CONSIGNADO S.A.,BCO C6 CONSIG,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-61384004,AVENUE SECURITIES DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,AVENUE SECURITIES DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,18/08/2022,RSFN,Não
+61384004,AVENUE SECURITIES BANCO DE INVESTIMENTO S.A.,AVENUE SECURITIES BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,18/08/2022,RSFN,Não
 61533584,BANCO SOCIETE GENERALE BRASIL S.A.,BCO SOCIETE GENERALE BRASIL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 61723847,NEON CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,NEON CTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/11/2011,RSFN,Não
 61747085,TULLETT PREBON BRASIL CORRETORA DE VALORES E CÂMBIO LTDA,TULLETT PREBON BRASIL CVC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/07/2013,RSFN,Não
