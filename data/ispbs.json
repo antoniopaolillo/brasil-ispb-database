@@ -9445,8 +9445,8 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
   {
@@ -9790,24 +9790,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
-  },
-  {
-    "ispb": "23273917",
-    "nome_completo": "VALLOO PAGAMENTOS",
-    "nome_reduzido": "VALLOO PAGAMENTOS",
-    "cnpj": "23273917000165",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
   },
   {
     "ispb": "23399607",
@@ -15337,21 +15319,21 @@
   },
   {
     "ispb": "46505612",
-    "nome_completo": "MONERY INSTITUICAO DE PAGAMENTO S.A.",
+    "nome_completo": "MONERY IP S.A.",
     "nome_reduzido": "MONERY IP S.A.",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
+    "cnpj": "46505612000137",
+    "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
+    "participa_pix": "Sim",
     "participa_str": "Sim",
-    "status_operacional": "Ativo",
+    "status_operacional": "",
     "data_inicio_operacao": "03/02/2025",
     "acesso_principal": "Internet",
     "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Ativo em operação restrita",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "46518205",
