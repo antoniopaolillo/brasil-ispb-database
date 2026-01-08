@@ -11970,24 +11970,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "33440218",
-    "nome_completo": "CEOPAG IP",
-    "nome_reduzido": "CEOPAG IP",
-    "cnpj": "33440218000116",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "33449007",
     "nome_completo": "EMPRESA DE BENEFÍCIOS IP LTDA.",
     "nome_reduzido": "EMPRESA DE BENEFÍCIOS IP LTDA.",
