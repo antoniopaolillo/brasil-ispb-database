@@ -605,7 +605,7 @@
 28811341,STONEX BANCO DE CÂMBIO S.A.,STONEX BANCO DE CÂMBIO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/07/2023,RSFN,Não
 29011780,CIP S.A,CIP SA C3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,30/01/2012,RSFN,Não
 29030467,Scotiabank Brasil S.A. Banco Múltiplo,Scotiabank Brasil,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-29162769,TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,TORO CTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,29/11/2019,RSFN,Não
+29162769,SANTANDER CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,SANTANDER CTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,29/11/2019,RSFN,Não
 29408213,WORK 8 INSTITUIÇÃO DE PAGAMENT,WORK 8 INSTITUIÇÃO DE PAGAMENT,29408213000139,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 29477089,ONLY UP,ONLY UP,29477089000163,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 29759316,SERVNET IP LTDA.,SERVNET IP LTDA.,29759316000143,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -632,7 +632,7 @@
 31985422,LYRA COLLECT,LYRA COLLECT,31985422000197,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32024691,DOTZPAY IP,DOTZPAY IP,32024691000150,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32062580,BANCO UBS (BRASIL) S.A.,BCO UBS BRASIL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
-32074986,BEETELLER,BEETELLER,32074986000130,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,11/09/2023,RSFN,Não
+32074986,BEETELLER IP LTDA.,BEETELLER IP LTDA.,32074986000130,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,11/09/2023,RSFN,Não
 32192325,UZZIPAY IP S.A.,UZZIPAY IP S.A.,32192325000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,13/09/2023,RSFN,Não
 32246162,AIBR IP LTDA.,AIBR IP LTDA.,32246162000109,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32343119,MÊNTORE IP S.A.,MÊNTORE IP S.A.,32343119000153,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -664,6 +664,7 @@
 33370115,FURNAS,FURNAS,33370115000127,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33416108,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,33416108000119,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33423888,VILLELA IP S.A.,VILLELA IP S.A.,33423888000124,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+33440218,CEOPAG IP,CEOPAG IP,33440218000116,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
 33449007,EMPRESA DE BENEFÍCIOS IP LTDA.,EMPRESA DE BENEFÍCIOS IP LTDA.,33449007000144,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 33466988,Banco Caixa Geral - Brasil S.A.,BCO CAIXA GERAL BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,31/03/2009,RSFN,Não
 33479023,BCO CITIBANK S.A.,BCO CITIBANK S.A.,33479023000180,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
@@ -728,7 +729,6 @@
 37076205,SICOOB JUDICIÁRIO,SICOOB JUDICIÁRIO,37076205000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37079720,COOP SICOOB CREDIJUSTRA,COOP SICOOB CREDIJUSTRA,37079720000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37168145,APROMS NET IP LTDA.,APROMS NET IP LTDA.,37168145000106,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-37205447,E2 IP LTDA.,E2 IP LTDA.,37205447000107,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37229413,"SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO EFÍ S.A.",SCFI EFÍ S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 37241230,SUMUP SCD S.A.,SUMUP SCD S.A.,37241230000152,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,16/10/2020,RSFN,Não
 37255049,SICOOB CREDIGOIÁS CC,SICOOB CREDIGOIÁS CC,37255049000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
