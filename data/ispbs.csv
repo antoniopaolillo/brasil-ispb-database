@@ -724,7 +724,7 @@
 36690516,PAY IP S.A.,PAY IP S.A.,36690516000152,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/04/2025,RSFN,Não
 36741675,CORPX BANK IP S.A.,CORPX BANK IP S.A.,36741675000139,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36864992,MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,MAF DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/07/2022,RSFN,Não
-36900256,CCM MED EMP MT,CCM MED EMP MT,36900256000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+36900256,UNICRED RAÍZES,UNICRED RAÍZES,36900256000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36947229,COBUCCIO S.A. SCFI,COBUCCIO S.A. SCFI,36947229000185,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Liquidante Especial,Não,nan,03/12/2020,RSFN,Não
 37076205,SICOOB JUDICIÁRIO,SICOOB JUDICIÁRIO,37076205000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37079720,COOP SICOOB CREDIJUSTRA,COOP SICOOB CREDIJUSTRA,37079720000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -787,7 +787,7 @@
 40571694,WISE BRASIL IP LTDA.,WISE BRASIL IP LTDA.,40571694000131,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 40654622,TRINUS SCD S.A.,TRINUS SCD S.A.,40654622000158,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,09/09/2021,RSFN,Não
 40710595,NG CASH IP,NG CASH IP,40710595000193,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-40735713,JRM2,JRM2,40735713000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
+40735713,JRM2,JRM2,40735713000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 40768766,LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,LIONS TRUST DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 40820176,PAY BROKERS IP,PAY BROKERS IP,40820176000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 40910463,BIPA INSTITUICAO DE PAGAMENTO,BIPA INSTITUICAO DE PAGAMENTO,40910463000105,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -863,7 +863,7 @@
 49288113,KANASTRA CFI,KANASTRA CFI,49288113000123,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/09/2023,RSFN,Não
 49389307,CC COOPLIVRE,CC COOPLIVRE,49389307000115,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 49555647,QUADRA SOCIEDADE DE CRÉDITO DIRETO S.A.,QUADRA SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/11/2023,Internet,Não
-49686505,WASU IP LTDA.,WASU IP LTDA.,49686505000140,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
+49686505,WASU IP LTDA.,WASU IP LTDA.,49686505000140,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 49931906,TRIO IP LTDA.,TRIO IP LTDA.,49931906000119,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,01/08/2024,RSFN,Não
 49933388,BRCONDOS SCD S.A.,BRCONDOS SCD S.A.,49933388000172,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/12/2023,RSFN,Não
 50032584,LOAN BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.,LOAN BRASIL SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/01/2026,Internet,Não

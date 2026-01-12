@@ -13051,8 +13051,8 @@
   },
   {
     "ispb": "36900256",
-    "nome_completo": "CCM MED EMP MT",
-    "nome_reduzido": "CCM MED EMP MT",
+    "nome_completo": "UNICRED RAÍZES",
+    "nome_reduzido": "UNICRED RAÍZES",
     "cnpj": "36900256000100",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -14197,7 +14197,7 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
+    "iniciacao_pagamento": "Não",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
@@ -15565,8 +15565,8 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX"
   },
   {
