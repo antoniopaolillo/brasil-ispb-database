@@ -699,7 +699,7 @@
 34471744,PAGME IP LTDA,PAGME IP LTDA,34471744000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/10/2024,RSFN,Não
 34678263,KREDIT IP S/A,KREDIT IP S/A,34678263000176,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 34747388,ISSUER IP LTDA.,ISSUER IP LTDA.,34747388000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/03/2024,RSFN,Não
-34829992,CBSF DTVM,CBSF DTVM,34829992000186,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,06/03/2023,RSFN,Não
+34829992,CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,CBSF DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/03/2023,RSFN,Não
 34878543,CLARO PAY S.A. IP,CLARO PAY S.A. IP,34878543000128,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35136120,BITSO IP LTDA,BITSO IP LTDA,35136120000103,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 35210410,ONEKEY PAYMENTS IP S.A.,ONEKEY PAYMENTS IP S.A.,35210410000141,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/09/2024,RSFN,Não
@@ -769,6 +769,7 @@
 39664698,CREDSYSTEM SCD S.A.,CREDSYSTEM SCD S.A.,39664698000185,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/04/2021,RSFN,Não
 39669186,HEMERA DTVM LTDA.,HEMERA DTVM LTDA.,39669186000101,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,17/08/2021,RSFN,Não
 39676772,CREDIFIT SCD S.A.,CREDIFIT SCD S.A.,39676772000183,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/09/2021,RSFN,Não
+39696395,CACTVS IP S.A.,CACTVS IP S.A.,39696395000144,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 39715262,MASTERBARTER,MASTERBARTER,39715262000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
 39738065,FFCRED SCD S.A.,FFCRED SCD S.A.,39738065000174,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/11/2022,RSFN,Não
 39908427,STARK SCD S.A.,STARK SCD S.A.,39908427000128,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Liquidante Especial,Não,nan,01/10/2021,RSFN,Não
