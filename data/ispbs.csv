@@ -516,7 +516,7 @@
 20062766,CECM COL GRUPO EMPR A COSTA,CECM COL GRUPO EMPR A COSTA,20062766000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 20110153,PAGHIPER IP LTDA.,PAGHIPER IP LTDA.,20110153000107,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 20155248,UNIDA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,UNIDA DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/10/2017,RSFN,Não
-20251847,SUDACRED SOCIEDADE DE CRÉDITO DIRETO S.A.,SUDACRED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/05/2023,RSFN,Não
+20251847,SUDACRED SCD S.A.,SUDACRED SCD S.A.,20251847000156,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,08/05/2023,RSFN,Não
 20308187,PROVER PROMOCAO DE VENDAS IP LTDA.,PROVER PROMOCAO DE VENDAS IP LTDA.,20308187000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,04/03/2024,RSFN,Não
 20443996,"BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",BECKER FINANCEIRA SA - CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/08/2025,RSFN,Não
 20520298,BS2 PAYMENTS IP S.A.,BS2 PAYMENTS IP S.A.,20520298000178,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -844,7 +844,7 @@
 45854066,WNT CAPITAL DTVM,WNT CAPITAL DTVM,45854066000187,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,01/03/2023,RSFN,Não
 45860531,IDEA MAKER IP LTDA,IDEA MAKER IP LTDA,45860531000192,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 46026562,MONETARIE SCD,MONETARIE SCD,46026562000105,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,20/01/2023,RSFN,Não
-46505612,MONERY IP S.A.,MONERY IP S.A.,46505612000137,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,03/02/2025,Internet,Não
+46505612,MONERY INSTITUICAO DE PAGAMENTO S.A.,MONERY IP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/02/2025,Internet,Não
 46518205,"JPMorgan Chase Bank, National Association",JPMORGAN CHASE BANK,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 46642294,COOP SICOOB COOPEREMB,COOP SICOOB COOPEREMB,46642294000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 47074323,SICOOB CREDICONSUMO CC,SICOOB CREDICONSUMO CC,47074323000193,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -917,7 +917,7 @@
 57839805,Banco Tricury S.A.,BCO TRICURY S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/08/2013,RSFN,Sim
 58022195,CECM EMPR EMP ZILLO LORENZETTI,CECM EMPR EMP ZILLO LORENZETTI,58022195000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 58160789,BCO SAFRA S.A.,BCO SAFRA S.A.,58160789000128,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
-58367961,BIT SCD S.A.,BIT SCD S.A.,58367961000119,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,22/07/2025,RSFN,Não
+58367961,BIT SCD S.A.,BIT SCD S.A.,58367961000119,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,22/07/2025,RSFN,Não
 58497702,BANCO LETSBANK S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO LETSBANK S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 58616418,BCO FIBRA S.A.,BCO FIBRA S.A.,58616418000108,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 59109165,Banco Volkswagen S.A.,BCO VOLKSWAGEN S.A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,17/08/2020,RSFN,Não
