@@ -699,7 +699,7 @@
 34471744,PAGME IP LTDA,PAGME IP LTDA,34471744000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/10/2024,RSFN,Não
 34678263,KREDIT IP S/A,KREDIT IP S/A,34678263000176,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 34747388,ISSUER IP LTDA.,ISSUER IP LTDA.,34747388000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/03/2024,RSFN,Não
-34829992,CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,CBSF DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/03/2023,RSFN,Não
+34829992,CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.- EM LIQUIDAÇÃO EXTRAJUDICIAL,CBSF DTVM -EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/03/2023,RSFN,Não
 34878543,CLARO PAY S.A. IP,CLARO PAY S.A. IP,34878543000128,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35136120,BITSO IP LTDA,BITSO IP LTDA,35136120000103,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 35210410,ONEKEY PAYMENTS IP S.A.,ONEKEY PAYMENTS IP S.A.,35210410000141,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/09/2024,RSFN,Não
@@ -1127,7 +1127,7 @@
 92702067,BCO DO ESTADO DO RS S.A.,BCO DO ESTADO DO RS S.A.,92702067000196,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 92796564,COOP SICREDI ORIGENS RS,COOP SICREDI ORIGENS RS,92796564000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 92825397,COOPCRECE,COOPCRECE,92825397000179,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,23/06/2023,RSFN,Não
-92856905,ADVANCED CORRETORA DE CÂMBIO LTDA,ADVANCED CC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/10/2011,RSFN,Não
+92856905,ADVANCED CORRETORA DE CÂMBIO LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL,ADVANCED CC LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/10/2011,RSFN,Não
 92874270,BANCO DIGIMAIS S.A.,BCO DIGIMAIS S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 92894922,BANCO ORIGINAL,BANCO ORIGINAL,92894922000108,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 92934215,BANRISUL PAGAMENTOS IP,BANRISUL PAGAMENTOS IP,92934215000106,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,

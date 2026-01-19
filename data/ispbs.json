@@ -12601,8 +12601,8 @@
   },
   {
     "ispb": "34829992",
-    "nome_completo": "CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-    "nome_reduzido": "CBSF DTVM",
+    "nome_completo": "CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.- EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "nome_reduzido": "CBSF DTVM -EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
@@ -20305,8 +20305,8 @@
   },
   {
     "ispb": "92856905",
-    "nome_completo": "ADVANCED CORRETORA DE CÂMBIO LTDA",
-    "nome_reduzido": "ADVANCED CC LTDA",
+    "nome_completo": "ADVANCED CORRETORA DE CÂMBIO LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "nome_reduzido": "ADVANCED CC LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
