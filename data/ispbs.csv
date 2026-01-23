@@ -440,7 +440,6 @@
 12392983,"MIRAE ASSET (BRASIL) CORRETORA DE CÂMBIO, TÍTULOS  E VALORES MOBILIÁRIOS LTDA.",MIRAE ASSET (BRASIL) CCTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/09/2021,RSFN,Não
 12473687,CONTA PRONTA IP,CONTA PRONTA IP,12473687000161,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,31/10/2023,RSFN,Não
 12481100,BIZ IP LTDA.,BIZ IP LTDA.,12481100000166,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,28/07/2025,RSFN,Não
-12573115,NEL3 PAY IP LTDA.,NEL3 PAY IP LTDA.,12573115000154,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 12815827,ROADCARD IP S.A.,ROADCARD IP S.A.,12815827000132,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 13009717,BCO DO EST. DE SE S.A.,BCO DO EST. DE SE S.A.,13009717000146,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Sim
 13059145,EBURY BCO DE CÂMBIO S.A.,EBURY BCO DE CÂMBIO S.A.,13059145000100,Banco de Câmbio,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/05/2016,RSFN,Não
@@ -625,7 +624,7 @@
 31680151,SWAP IP S.A.,SWAP IP S.A.,31680151000161,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 31749596,IDEAL CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,IDEAL CTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/01/2021,RSFN,Não
 31804966,SICOOB COOPERMAIS,SICOOB COOPERMAIS,31804966000105,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-31841474,CLUBE AGRO,CLUBE AGRO,31841474000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+31841474,ADOPAY INSTITUICAO DE PAGAMENT,ADOPAY INSTITUICAO DE PAGAMENT,31841474000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 31872495,BCO C6 S.A.,BCO C6 S.A.,31872495000172,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,31/01/2019,RSFN,Não
 31880826,BCO GUANABARA S.A.,BCO GUANABARA S.A.,31880826000116,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 31895683,BCO INDUSTRIAL DO BRASIL S.A.,BCO INDUSTRIAL DO BRASIL S.A.,31895683000116,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
@@ -890,6 +889,7 @@
 53518684,BCO HSBC S.A.,BCO HSBC S.A.,53518684000184,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/02/2018,RSFN,Não
 53575491,COOP CRESOL PRIMATO CREDI,COOP CRESOL PRIMATO CREDI,53575491000165,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
 53623781,CC COOPCRED,CC COOPCRED,53623781000137,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+53720128,CONTA SIMPLES SCD S.A.,CONTA SIMPLES SCD S.A.,53720128000196,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 53776852,CCR FOR CANA CENTRO EST SP,CCR FOR CANA CENTRO EST SP,53776852000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53822116,MW IP LTDA.,MW IP LTDA.,53822116000172,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/10/2025,RSFN,Não
 53841911,CCI UNINDÚSTRIA,CCI UNINDÚSTRIA,53841911000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
