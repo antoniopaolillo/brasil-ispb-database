@@ -212,7 +212,7 @@
 04174720,CC SICOOB COOPEMAR,CC SICOOB COOPEMAR,04174720000124,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04181542,CCLA DE PITANGUI E REGIAO LTDA,CCLA DE PITANGUI E REGIAO LTDA,04181542000169,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04184779,Banco Bradescard S.A.,BANCO BRADESCARD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
-04237413,COOP SICREDI VALE SÃO FRANCISCO,COOP SICREDI VALE SÃO FRANCISCO,04237413000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+04237413,COOP SICREDI VALE DO SÃO FRANCISCO PE,COOP SICREDI VALE DO SÃO FRANCISCO PE,04237413000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04243780,CENTRAL SICOOB UNI DE CC,CENTRAL SICOOB UNI DE CC,04243780000151,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04247370,CC DE EMPRESÁRIOS,CC DE EMPRESÁRIOS,04247370000189,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04257795,Nova Futura Corretora de Títulos e Valores Mobiliários Ltda.,NOVA FUTURA CTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/06/2017,RSFN,Não
@@ -245,7 +245,7 @@
 04814563,BCO AFINZ S.A. - BM,BCO AFINZ S.A. - BM,04814563000174,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,03/12/2018,RSFN,Não
 04831810,COOP CRESERV CREDISIS,COOP CRESERV CREDISIS,04831810000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 04833655,CECM SICOOB METALCRED,CECM SICOOB METALCRED,04833655000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-04838403,BLU PAY,BLU PAY,04838403000165,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+04838403,AVIV INSTITUICAO DE PAGAMENTO,AVIV INSTITUICAO DE PAGAMENTO,04838403000165,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04849745,HBI SCD,HBI SCD,04849745000180,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/01/2024,RSFN,Não
 04853988,COOP SICREDI BANDEIRANTES,COOP SICREDI BANDEIRANTES,04853988000192,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04862600,"PORTOSEG S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",PORTOSEG S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/07/2025,RSFN,Não
@@ -542,7 +542,7 @@
 23114447,FLAGSHIP IP LTDA,FLAGSHIP IP LTDA,23114447000197,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/10/2023,RSFN,Não
 23399607,CERC S.A.,CERC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/12/2025,RSFN,Não
 23623636,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,CCLA NORTE DE MATO GROSSO - SICOOB NORTE MT,23623636000195,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-23862762,"WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO - EM LIQUIDAÇÃO EXTRAJUDICIAL",WILL FINANCEIRA S.A.CFI - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/05/2018,RSFN,Não
+23862762,WILL FINANCEIRA S.A.CFI - EM LIQUIDAÇÃO EXTRAJUDICIAL,WILL FINANCEIRA S.A.CFI - EM LIQUIDAÇÃO EXTRAJUDICIAL,23862762000100,"Sociedade de Crédito, Financiamento e Investimento",Não,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,10/05/2018,RSFN,Não
 23949522,CC CREDICARPA,CC CREDICARPA,23949522000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24048910,CC CREDINTER,CC CREDINTER,24048910000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24074692,GUITTA CORRETORA DE CAMBIO LTDA.,GUITTA CC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/05/2015,Internet,Não
@@ -686,6 +686,7 @@
 33923798,BANCO MASTER S/A - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO MASTER - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 33924028,SICOOB COOPVALE,SICOOB COOPVALE,33924028000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33930368,7TRUST FINANCE IP S.A.,7TRUST FINANCE IP S.A.,33930368000108,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+33959738,MOVA SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.,MOVA SEP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/02/2026,RSFN,Não
 33982918,SIMPAY PAGAMENTOS LTDA,SIMPAY PAGAMENTOS LTDA,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 34006497,ASTROPAY,ASTROPAY,34006497000177,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 34088029,LISTO SCD S.A.,LISTO SCD S.A.,34088029000199,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/10/2020,RSFN,Não
@@ -831,7 +832,7 @@
 44728700,ATF SCD S.A.,ATF SCD S.A.,44728700000172,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,02/12/2022,RSFN,Não
 44782130,ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,ACTUAL DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2024,RSFN,Não
 44815065,PAY2ALL IP LTDA.,PAY2ALL IP LTDA.,44815065000160,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-44921281,NIXFIN SCD,NIXFIN SCD,44921281000190,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
+44921281,NIXFIN SCD,NIXFIN SCD,44921281000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,02/02/2026,RSFN,Não
 45056494,JM CORRETORA DE CÂMBIO LTDA.,JM CORRETORA DE CÂMBIO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/10/2025,RSFN,Não
 45246410,BANCO GENIAL,BANCO GENIAL,45246410000155,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,19/11/2012,RSFN,Sim
 45283173,BBVA BRASIL BANCO DE INVESTIMENTO S.A.,BBVA BRASIL BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2025,RSFN,Não
