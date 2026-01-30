@@ -722,7 +722,7 @@
 36583700,"QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",QISTA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2022,RSFN,Não
 36586946,BONUSPAGO SCD S.A.,BONUSPAGO SCD S.A.,36586946000129,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/10/2020,RSFN,Não
 36690516,PAY IP S.A.,PAY IP S.A.,36690516000152,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/04/2025,RSFN,Não
-36741675,CORPX BANK IP S.A.,CORPX BANK IP S.A.,36741675000139,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+36741675,CORPX IP,CORPX IP,36741675000139,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36864992,MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,MAF DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/07/2022,RSFN,Não
 36900256,UNICRED RAÍZES,UNICRED RAÍZES,36900256000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36947229,COBUCCIO S.A. SCFI,COBUCCIO S.A. SCFI,36947229000185,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Liquidante Especial,Não,nan,03/12/2020,RSFN,Não
@@ -810,7 +810,7 @@
 42272526,BNY Mellon Banco S.A.,BNY MELLON BCO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,19/11/2012,RSFN,Não
 42873828,CC AGROCREDI LTDA,CC AGROCREDI LTDA,42873828000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42880617,CC SICOOB CREDITIROS,CC SICOOB CREDITIROS,42880617000199,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-42887133,CCLA REG SUDESTE MG,CCLA REG SUDESTE MG,42887133000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+42887133,CC CREDISUCESSO LTDA. - SICOOB CREDISUCESSO,CC CREDISUCESSO LTDA. - SICOOB CREDISUCESSO,42887133000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42898825,CECM MEDICOS E PROFISSIONAIS AREA SAUDE DO BRASIL,CECM MEDICOS E PROFISSIONAIS AREA SAUDE DO BRASIL,42898825000115,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42934794,CC CREDIPIMENTA,CC CREDIPIMENTA,42934794000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42963742,BANSUR JM SOCIEDADE DE CRÉDITO DIRETO S/A,BANSUR JM SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/09/2025,RSFN,Não
