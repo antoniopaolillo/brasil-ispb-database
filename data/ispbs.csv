@@ -312,7 +312,7 @@
 07026923,CCLA SICOOB ARENITO PARANÁ / SÃO PAULO,CCLA SICOOB ARENITO PARANÁ / SÃO PAULO,07026923000161,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07070495,COOP SICREDI EMPREENDEDORES,COOP SICREDI EMPREENDEDORES,07070495000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07097064,COOP SICOOB CONFIANÇA,COOP SICOOB CONFIANÇA,07097064000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-07115294,BOKU NETWORK BRASIL IP,BOKU NETWORK BRASIL IP,07115294000146,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
+07115294,BOKU NETWORK BRASIL IP,BOKU NETWORK BRASIL IP,07115294000146,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 07122321,CC INTEGRADO - SICOOB INTEGRADO,CC INTEGRADO - SICOOB INTEGRADO,07122321000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07136847,HYPER WALLET IP LTDA,HYPER WALLET IP LTDA,07136847000147,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07138049,PICPAY INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,PICPAY INVEST,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,09/03/2022,RSFN,Não
@@ -550,7 +550,7 @@
 24431221,COOP CRESOL TRANSAMAZÔNICA,COOP CRESOL TRANSAMAZÔNICA,24431221000182,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24610065,CC SICOOB IPÊ,CC SICOOB IPÊ,24610065000117,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24654881,COOP SICREDI UNIÃO MS/TO E OESTE DA BA,COOP SICREDI UNIÃO MS/TO E OESTE DA BA,24654881000122,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-24722685,BRX BANK IP LTDA.,BRX BANK IP LTDA.,24722685000148,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+24722685,BRX,BRX,24722685000148,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24795049,CCLA SUDOESTE GOIANO,CCLA SUDOESTE GOIANO,24795049000146,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24799033,CCLA VALE DO PARANAÍBA,CCLA VALE DO PARANAÍBA,24799033000101,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24830879,CCLA VALE DO ARAGUAIA,CCLA VALE DO ARAGUAIA,24830879000167,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -597,7 +597,6 @@
 28127603,BCO BANESTES S.A.,BCO BANESTES S.A.,28127603000178,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Sim
 28195667,BCO ABC BRASIL S.A.,BCO ABC BRASIL S.A.,28195667000106,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 28220872,VALEPAY BRASIL IP,VALEPAY BRASIL IP,28220872000184,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-28595756,BANKRY,BANKRY,28595756000140,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 28650236,GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,GALAPAGOS DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2018,RSFN,Não
 28683892,PAYMEE BRASIL IP S.A.,PAYMEE BRASIL IP S.A.,28683892000191,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 28719664,Sistema do Balcão B3,Balcão B3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
