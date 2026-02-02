@@ -7884,6 +7884,24 @@
     "fonte_dados": "PIX+STR"
   },
   {
+    "ispb": "12102128",
+    "nome_completo": "SAFETYPAY BRASIL INSTITUICAO DE PAGAMENTO LTDA",
+    "nome_reduzido": "SAFETYPAY BRASIL IP LTDA",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "06/02/2026",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
+  },
+  {
     "ispb": "12392983",
     "nome_completo": "MIRAE ASSET (BRASIL) CORRETORA DE CÂMBIO, TÍTULOS  E VALORES MOBILIÁRIOS LTDA.",
     "nome_reduzido": "MIRAE ASSET (BRASIL) CCTVM LTDA.",
