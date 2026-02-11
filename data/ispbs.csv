@@ -403,7 +403,6 @@
 10262276,CCLA DO ESTADO DE SÃO PAULO - SICOOB PAULISTA,CCLA DO ESTADO DE SÃO PAULO - SICOOB PAULISTA,10262276000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10264663,BancoSeguro S.A.,BANCOSEGURO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2008,RSFN,Não
 10311218,COOP EVOLUA,COOP EVOLUA,10311218000110,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-10314753,STRADA PAY IP LTDA.,STRADA PAY IP LTDA.,10314753000125,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 10319386,CCLA DO CENTRO SUL DE MS,CCLA DO CENTRO SUL DE MS,10319386000152,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10348181,COOP SICREDI VALE LITORAL SC,COOP SICREDI VALE LITORAL SC,10348181000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Sim,,,
 10371492,Banco Yamaha Motor do Brasil S.A.,BCO YAMAHA MOTOR S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2022,RSFN,Não
@@ -925,7 +924,7 @@
 59118133,BCO LUSO BRASILEIRO S.A.,BCO LUSO BRASILEIRO S.A.,59118133000100,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 59274605,BANCO GM S.A.,BCO GM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/07/2020,RSFN,Não
 59285411,BANCO PAN,BANCO PAN,59285411000113,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
-59396084,BFC SCD S.A.,BFC SCD S.A.,59396084000177,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,30/09/2025,RSFN,Não
+59396084,BFC SCD S.A.,BFC SCD S.A.,59396084000177,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/09/2025,RSFN,Não
 59588111,BCO VOTORANTIM S.A.,BCO VOTORANTIM S.A.,59588111000103,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Não
 59869560,CC NOSSO - SICOOB NOSSO,CC NOSSO - SICOOB NOSSO,59869560000120,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 60394079,Banco ItauBank S.A.,BCO ITAUBANK S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
