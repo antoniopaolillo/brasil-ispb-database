@@ -7272,6 +7272,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "10314753",
+    "nome_completo": "STRADA PAY IP LTDA.",
+    "nome_reduzido": "STRADA PAY IP LTDA.",
+    "cnpj": "10314753000125",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "10319386",
     "nome_completo": "CCLA DO CENTRO SUL DE MS",
     "nome_reduzido": "CCLA DO CENTRO SUL DE MS",
@@ -10819,8 +10837,8 @@
   },
   {
     "ispb": "28811341",
-    "nome_completo": "STONEX BANCO DE CÂMBIO S.A.",
-    "nome_reduzido": "STONEX BANCO DE CÂMBIO S.A.",
+    "nome_completo": "BANCO STONEX S.A.",
+    "nome_reduzido": "BCO STONEX S.A.",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
@@ -13831,15 +13849,15 @@
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
-    "participa_str": "Não",
+    "participa_str": "Sim",
     "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
+    "data_inicio_operacao": "23/02/2026",
+    "acesso_principal": "Internet",
+    "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Etapa Homologatória",
     "facilitador_saque": "",
-    "fonte_dados": "PIX"
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "39715262",
@@ -16357,7 +16375,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
+    "iniciacao_pagamento": "Ativo em operação restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
@@ -20302,24 +20320,6 @@
     "iniciacao_pagamento": "Etapa Homologatória",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
-  },
-  {
-    "ispb": "92856905",
-    "nome_completo": "ADVANCED CORRETORA DE CÂMBIO LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
-    "nome_reduzido": "ADVANCED CC LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "03/10/2011",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
   },
   {
     "ispb": "92874270",
