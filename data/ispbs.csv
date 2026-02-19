@@ -102,7 +102,7 @@
 02197569,CCLA CREDSAOPAULO,CCLA CREDSAOPAULO,02197569000114,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02217068,"CC CONTADORES, ADMINISTRADORES, ECONOMISTAS E CORRET SEGUROS","CC CONTADORES, ADMINISTRADORES, ECONOMISTAS E CORRET SEGUROS",02217068000152,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02232383,CCLA CIRCUITO CAMPOS VERTENTES,CCLA CIRCUITO CAMPOS VERTENTES,02232383000159,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-02254376,CCLA DE DORES DO INDAIA,CCLA DE DORES DO INDAIA,02254376000158,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+02254376,CCLA SICOOB COOPCREDI,CCLA SICOOB COOPCREDI,02254376000158,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02275781,CCM SERV FEDERAIS NA PARAÍBA - SICOOB COOPERCRET,CCM SERV FEDERAIS NA PARAÍBA - SICOOB COOPERCRET,02275781000152,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02276653,TRINUS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,TRINUS CAPITAL DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/07/2020,RSFN,Não
 02282165,CC SICOOB CREDICONQUISTA,CC SICOOB CREDICONQUISTA,02282165000129,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -621,7 +621,7 @@
 31166683,MOUNT PAY,MOUNT PAY,31166683000185,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 31531997,CONPAY IP S.A.,CONPAY IP S.A.,31531997000130,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 31597552,BANCO CLASSICO S.A.,BCO CLASSICO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
-31680151,SWAP IP S.A.,SWAP IP S.A.,31680151000161,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
+31680151,SWAP IP S.A.,SWAP IP S.A.,31680151000161,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,19/02/2026,RSFN,Não
 31749596,IDEAL CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,IDEAL CTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/01/2021,RSFN,Não
 31804966,SICOOB COOPERMAIS,SICOOB COOPERMAIS,31804966000105,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 31841474,ADOPAY INSTITUICAO DE PAGAMENT,ADOPAY INSTITUICAO DE PAGAMENT,31841474000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -938,7 +938,7 @@
 60850229,OMNI BANCO S.A.,OMNI BANCO S.A.,60850229000147,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 60889128,BCO SOFISA S.A.,BCO SOFISA S.A.,60889128000180,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 60934221,Câmara de Câmbio B3,Câmbio B3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-61024352,BM PLENO S.A.,BM PLENO S.A.,61024352000171,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
+61024352,BANCO PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,BM PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 61033106,BCO CREFISA S.A.,BCO CREFISA S.A.,61033106000186,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/11/2005,RSFN,Sim
 61088183,Banco Mizuho do Brasil S.A.,BCO MIZUHO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 61182408,Banco Investcred Unibanco S.A.,BANCO INVESTCRED UNIBANCO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
