@@ -380,7 +380,6 @@
 09313766,CARUANA SCFI,CARUANA SCFI,09313766000109,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,12/08/2013,RSFN,Não
 09330158,COOP CRESOL TREZE DE MAIO,COOP CRESOL TREZE DE MAIO,09330158000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09343038,COOP SICREDI ALTSERTÃO PARAIBANO,COOP SICREDI ALTSERTÃO PARAIBANO,09343038000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-09370323,LIBERCARD,LIBERCARD,09370323000141,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09403026,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,09403026000155,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09424988,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,09424988000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09437293,BRINKS PAY IP LTDA.,BRINKS PAY IP LTDA.,09437293000143,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -908,7 +907,7 @@
 55230916,Intesa Sanpaolo Brasil S.A. - Banco Múltiplo,INTESA SANPAOLO BRASIL S.A. BM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/05/2015,RSFN,Não
 55428859,FREEX CORRETORA DE CAMBIO S.A.,FREEX CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/09/2024,Internet,Não
 55823094,DELTA GLOBAL SCD S.A.,DELTA GLOBAL SCD S.A.,55823094000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,17/04/2025,RSFN,Não
-56106523,VUE IP S.A.,VUE IP S.A.,56106523000171,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,28/07/2025,RSFN,Não
+56106523,VUE INSTITUIÇÃO DE PAGAMENTO S.A.,VUE IP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2025,RSFN,Não
 56198117,SQUID SCD S.A.,SQUID SCD S.A.,56198117000186,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,27/06/2025,RSFN,Não
 56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
