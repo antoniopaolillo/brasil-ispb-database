@@ -415,7 +415,6 @@
 10664513,BCO AGIBANK S.A.,BCO AGIBANK S.A.,10664513000150,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/04/2012,RSFN,Não
 10690848,Banco da China Brasil S.A.,BCO DA CHINA BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/07/2009,RSFN,Sim
 10736214,COOP SICREDI PLAN CENTRAL,COOP SICREDI PLAN CENTRAL,10736214000184,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-10773370,SERVELOJA,SERVELOJA,10773370000115,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10789035,FACILITA IP S.A.,FACILITA IP S.A.,10789035000105,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 10808037,CC EMPRESÁRIOS DE MANAUS,CC EMPRESÁRIOS DE MANAUS,10808037000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10853017,Get Money Corretora de Câmbio S.A.,GET MONEY CC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/07/2014,Internet,Não
@@ -614,7 +613,7 @@
 30507541,BRASIL CASH IP S.A.,BRASIL CASH IP S.A.,30507541000171,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 30680829,"NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento",NU FINANCEIRA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/01/2021,RSFN,Não
 30723871,BANQI,BANQI,30723871000102,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/05/2025,RSFN,Não
-30944783,PAGPRIME IP,PAGPRIME IP,30944783000122,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/10/2023,RSFN,Não
+30944783,PAGPRIME IP,PAGPRIME IP,30944783000122,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,23/10/2023,RSFN,Não
 30949267,CECME CHOCOLATES GAROTO LTDA,CECME CHOCOLATES GAROTO LTDA,30949267000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 30980539,OKTO IP,OKTO IP,30980539000115,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,nan,24/04/2023,RSFN,Não
 31166683,MOUNT PAY,MOUNT PAY,31166683000185,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,

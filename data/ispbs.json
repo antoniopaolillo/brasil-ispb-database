@@ -7488,24 +7488,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "10773370",
-    "nome_completo": "SERVELOJA",
-    "nome_reduzido": "SERVELOJA",
-    "cnpj": "10773370000115",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "10789035",
     "nome_completo": "FACILITA IP S.A.",
     "nome_reduzido": "FACILITA IP S.A.",
@@ -11083,7 +11065,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
+    "iniciacao_pagamento": "Sim",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
