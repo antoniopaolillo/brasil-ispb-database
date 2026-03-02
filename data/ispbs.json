@@ -18673,15 +18673,15 @@
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
-    "participa_str": "Sim",
+    "participa_str": "Não",
     "status_operacional": "",
-    "data_inicio_operacao": "18/01/2011",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Sim",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
-    "fonte_dados": "PIX+STR"
+    "fonte_dados": "PIX"
   },
   {
     "ispb": "78414067",
