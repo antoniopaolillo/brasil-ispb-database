@@ -936,24 +936,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "01235921",
-    "nome_completo": "COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS MUNICIPAIS DA GRANDE VITÓRIA/ES",
-    "nome_reduzido": "SICRES",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "25/04/2024",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "01259518",
     "nome_completo": "SICOOB UNIMAIS CENTRO LESTE PAULISTA",
     "nome_reduzido": "SICOOB UNIMAIS CENTRO LESTE PAULISTA",
@@ -9085,7 +9067,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
+    "iniciacao_pagamento": "Sim",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
@@ -18671,7 +18653,7 @@
     "nome_reduzido": "CREDIALIANÇA CCR",
     "cnpj": "78157146000132",
     "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
+    "autorizada_bcb": "Não",
     "participa_pix": "Sim",
     "participa_str": "Não",
     "status_operacional": "",

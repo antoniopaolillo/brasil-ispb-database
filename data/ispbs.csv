@@ -51,7 +51,6 @@
 01181521,BCO COOPERATIVO SICREDI S.A.,BCO COOPERATIVO SICREDI S.A.,01181521000155,Banco Múltiplo Cooperativo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 01187961,CC DISTRITO FEDERAL E ENTORNO,CC DISTRITO FEDERAL E ENTORNO,01187961000110,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01205736,COOP DE CRÉDITO SICOOB COSTA DO DESCOBRIMENTO LTDA.,COOP DE CRÉDITO SICOOB COSTA DO DESCOBRIMENTO LTDA.,01205736000169,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-01235921,COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS MUNICIPAIS DA GRANDE VITÓRIA/ES,SICRES,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/04/2024,RSFN,Não
 01259518,SICOOB UNIMAIS CENTRO LESTE PAULISTA,SICOOB UNIMAIS CENTRO LESTE PAULISTA,01259518000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01286361,UNIPRIME PIONEIRA CC,UNIPRIME PIONEIRA CC,01286361000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01330387,COOP DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL,COOP DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL,01330387000107,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,27/05/2020,RSFN,Não
@@ -503,7 +502,7 @@
 19324634,LAMARA SOCIEDADE DE CRÉDITO DIRETO S.A.,LAMARA SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/04/2021,Internet,Não
 19402130,CECM EMPR EST HOSP BH RM ZM,CECM EMPR EST HOSP BH RM ZM,19402130000189,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 19449602,CC CREDCOOPER LTDA,CC CREDCOOPER LTDA,19449602000159,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-19468242,IFOOD PAGO IP,IFOOD PAGO IP,19468242000132,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/03/2024,RSFN,Não
+19468242,IFOOD PAGO IP,IFOOD PAGO IP,19468242000132,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,21/03/2024,RSFN,Não
 19495266,CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS LTDA.,CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS LTDA.,19495266000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 19540550,ASAAS IP S.A.,ASAAS IP S.A.,19540550000121,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,29/10/2021,RSFN,Não
 19869338,CCLA VALE DO AÇO,CCLA VALE DO AÇO,19869338000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -1036,7 +1035,7 @@
 76461557,CCR COOPAVEL,CCR COOPAVEL,76461557000191,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,05/11/2018,RSFN,Sim
 76543115,Banco Sistema S.A.,BANCO SISTEMA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/07/2015,RSFN,Não
 77984870,COOP SICREDI PLANALT DAS ÁGUAS,COOP SICREDI PLANALT DAS ÁGUAS,77984870000177,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-78157146,CREDIALIANÇA CCR,CREDIALIANÇA CCR,78157146000132,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
+78157146,CREDIALIANÇA CCR,CREDIALIANÇA CCR,78157146000132,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 78414067,COOP SICREDI VANGUARDA PR/SP/RJ,COOP SICREDI VANGUARDA PR/SP/RJ,78414067000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 78483310,CCLA ITAPIRANGA,CCLA ITAPIRANGA,78483310000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 78626983,BCO VR S.A.,BCO VR S.A.,78626983000163,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
