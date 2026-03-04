@@ -194,7 +194,7 @@
 03750034,COOP SICREDI AJURIS,COOP SICREDI AJURIS,03750034000191,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03751794,Terra Investimentos Distribuidora de Títulos e Valores Mobiliários Ltda.,TERRA INVESTIMENTOS DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/10/2018,RSFN,Não
 03793242,COOP SICREDI SUL SC,COOP SICREDI SUL SC,03793242000178,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-03816413,PAGUEVELOZ IP LTDA.,PAGUEVELOZ IP LTDA.,03816413000137,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
+03816413,PAGUEVELOZ IP LTDA.,PAGUEVELOZ IP LTDA.,03816413000137,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/03/2026,RSFN,Não
 03817702,VOLUS IP LTDA.,VOLUS IP LTDA.,03817702000150,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03844699,CECM DOS TRAB.PORT. DA G.VITOR,CECM DOS TRAB.PORT. DA G.VITOR,03844699000164,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,08/03/2022,RSFN,Não
 03862898,CCLA EMPREG DOS CORREIOS - SICOOB COOPERCORREIOS,CCLA EMPREG DOS CORREIOS - SICOOB COOPERCORREIOS,03862898000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -464,7 +464,7 @@
 15124464,BANCO BESA S.A.,BANCO BESA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/02/2023,RSFN,Não
 15173776,SOCIAL BANK S/A,SOCIAL BANK S/A,15173776000180,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 15357060,Banco Woori Bank do Brasil S.A.,BCO WOORI BANK DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,09/08/2012,RSFN,Sim
-15489568,INTRA DTVM,INTRA DTVM,15489568000195,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,19/06/2023,RSFN,Não
+15489568,INTRA INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,INTRA DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,19/06/2023,RSFN,Não
 15581638,Facta Financeira S.A. - Crédito Financiamento e Investimento,FACTA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/07/2015,RSFN,Não
 16501555,STONE IP S.A.,STONE IP S.A.,16501555000157,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2017,RSFN,Não
 16564240,CECM APOS PENS E IDOSOS - SICOOB COOPERNAPI,CECM APOS PENS E IDOSOS - SICOOB COOPERNAPI,16564240000159,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -1035,7 +1035,6 @@
 76461557,CCR COOPAVEL,CCR COOPAVEL,76461557000191,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,05/11/2018,RSFN,Sim
 76543115,Banco Sistema S.A.,BANCO SISTEMA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/07/2015,RSFN,Não
 77984870,COOP SICREDI PLANALT DAS ÁGUAS,COOP SICREDI PLANALT DAS ÁGUAS,77984870000177,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-78157146,CREDIALIANÇA CCR,CREDIALIANÇA CCR,78157146000132,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 78414067,COOP SICREDI VANGUARDA PR/SP/RJ,COOP SICREDI VANGUARDA PR/SP/RJ,78414067000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 78483310,CCLA ITAPIRANGA,CCLA ITAPIRANGA,78483310000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 78626983,BCO VR S.A.,BCO VR S.A.,78626983000163,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
