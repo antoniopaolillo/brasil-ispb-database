@@ -326,7 +326,7 @@
 07318874,COOP  SICOOB MÉDIO OESTE,COOP  SICOOB MÉDIO OESTE,07318874000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07320890,COOP CRESOL VALE,COOP CRESOL VALE,07320890000168,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07322044,6PAY IP,6PAY IP,07322044000187,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-07398335,AUTHPAY INSTITUICAO DE PAGAMENTOS LTDA,AUTHPAY INSTITUICAO DE PAGAMENTOS LTDA,07398335000159,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+07398335,AUTHPAY INSTITUICAO DE PAGAMENTO LTDA,AUTHPAY INSTITUICAO DE PAGAMENTO LTDA,07398335000159,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07412987,COOP CRESOL ALIANÇA,COOP CRESOL ALIANÇA,07412987000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07450604,BANK OF CHINA (BRASIL) BANCO MÚLTIPLO S/A,BOC BRASIL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 07465539,COOP CRESOL ALTO VALE,COOP CRESOL ALTO VALE,07465539000165,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -659,7 +659,7 @@
 33370115,FURNAS,FURNAS,33370115000127,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33416108,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,33416108000119,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33423888,VILLELA IP S.A.,VILLELA IP S.A.,33423888000124,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-33440218,CEOPAG IP,CEOPAG IP,33440218000116,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
+33440218,CEOPAG IP,CEOPAG IP,33440218000116,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33449007,EMPRESA DE BENEFÍCIOS IP LTDA.,EMPRESA DE BENEFÍCIOS IP LTDA.,33449007000144,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 33466988,Banco Caixa Geral - Brasil S.A.,BCO CAIXA GERAL BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,31/03/2009,RSFN,Não
 33479023,BCO CITIBANK S.A.,BCO CITIBANK S.A.,33479023000180,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
@@ -759,7 +759,6 @@
 39343350,CC LAR CREDI,CC LAR CREDI,39343350000196,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/07/2021,RSFN,Sim
 39416705,OCTA SCD S.A.,OCTA SCD S.A.,39416705000120,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/11/2021,RSFN,Não
 39519944,OPEA SCD,OPEA SCD,39519944000105,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/02/2023,RSFN,Não
-39576810,MUITO IP LTDA.,MUITO IP LTDA.,39576810000126,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 39587424,UY3 SCD S/A,UY3 SCD S/A,39587424000130,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,26/10/2021,RSFN,Não
 39664698,CREDSYSTEM SCD S.A.,CREDSYSTEM SCD S.A.,39664698000185,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/04/2021,RSFN,Não
 39669186,HEMERA DTVM LTDA.,HEMERA DTVM LTDA.,39669186000101,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,17/08/2021,RSFN,Não

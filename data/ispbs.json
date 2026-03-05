@@ -5887,8 +5887,8 @@
   },
   {
     "ispb": "07398335",
-    "nome_completo": "AUTHPAY INSTITUICAO DE PAGAMENTOS LTDA",
-    "nome_reduzido": "AUTHPAY INSTITUICAO DE PAGAMENTOS LTDA",
+    "nome_completo": "AUTHPAY INSTITUICAO DE PAGAMENTO LTDA",
+    "nome_reduzido": "AUTHPAY INSTITUICAO DE PAGAMENTO LTDA",
     "cnpj": "07398335000159",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -11893,7 +11893,7 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
+    "iniciacao_pagamento": "Não",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
@@ -13678,24 +13678,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
-  },
-  {
-    "ispb": "39576810",
-    "nome_completo": "MUITO IP LTDA.",
-    "nome_reduzido": "MUITO IP LTDA.",
-    "cnpj": "39576810000126",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
   },
   {
     "ispb": "39587424",
