@@ -123,7 +123,6 @@
 02475222,COOPSERVIDOR ES,COOPSERVIDOR ES,02475222000196,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 02480577,CCLA E DOS ADV,CCLA E DOS ADV,02480577000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02493000,SICOOB LESTE,SICOOB LESTE,02493000000104,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-02507780,IBBA,IBBA,02507780000196,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02528151,CC SICOOB CREDCOOP,CC SICOOB CREDCOOP,02528151000142,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02587492,CCLA URUBICI,CCLA URUBICI,02587492000199,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02641969,CCLAA NOVA TRENTO,CCLAA NOVA TRENTO,02641969000177,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -325,7 +324,6 @@
 07268499,COOP CRESOL INTEGRACAO,COOP CRESOL INTEGRACAO,07268499000161,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07318874,COOP  SICOOB MÉDIO OESTE,COOP  SICOOB MÉDIO OESTE,07318874000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07320890,COOP CRESOL VALE,COOP CRESOL VALE,07320890000168,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-07322044,6PAY IP,6PAY IP,07322044000187,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07398335,AUTHPAY INSTITUICAO DE PAGAMENTO LTDA,AUTHPAY INSTITUICAO DE PAGAMENTO LTDA,07398335000159,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07412987,COOP CRESOL ALIANÇA,COOP CRESOL ALIANÇA,07412987000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07450604,BANK OF CHINA (BRASIL) BANCO MÚLTIPLO S/A,BOC BRASIL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
@@ -605,7 +603,6 @@
 29408213,WORK 8 INSTITUIÇÃO DE PAGAMENT,WORK 8 INSTITUIÇÃO DE PAGAMENT,29408213000139,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 29477089,ONLY UP,ONLY UP,29477089000163,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 29759316,SERVNET IP LTDA.,SERVNET IP LTDA.,29759316000143,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-30015936,AURIX PAY IP,AURIX PAY IP,30015936000157,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 30153943,MONEY CLOUD IP S.A.,MONEY CLOUD IP S.A.,30153943000115,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 30306294,BANCO BTG PACTUAL S.A.,BANCO BTG PACTUAL S.A.,30306294000145,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 30498377,CSD CENTRAL DE SERVICOS DE REGISTRO E DEPOSITO AOS MERCADOS FINANCEIRO E DE CAPITAIS S.A.,CSDBR,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/02/2025,RSFN,Não
@@ -752,7 +749,6 @@
 38297374,NUVENDE,NUVENDE,38297374000193,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 38320462,V3 IP S.A.,V3 IP S.A.,38320462000169,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 38372267,SHOPEE,SHOPEE,38372267000182,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-38406148,CHRISTIAN FAMILY IP,CHRISTIAN FAMILY IP,38406148000101,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 38429045,VIS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,VIS DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/12/2022,RSFN,Não
 38588174,CC CREDICOPE,CC CREDICOPE,38588174000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 38593706,MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A.,MULTICRED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/09/2023,RSFN,Não
