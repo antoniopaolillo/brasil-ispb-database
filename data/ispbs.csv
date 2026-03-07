@@ -128,7 +128,7 @@
 02641969,CCLAA NOVA TRENTO,CCLAA NOVA TRENTO,02641969000177,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02663426,COOP CRESOL NOROESTE,COOP CRESOL NOROESTE,02663426000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02671743,BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,BANVOX DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/06/2024,RSFN,Não
-02682287,PAN FINAN,PAN FINAN,02682287000102,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,03/07/2023,RSFN,Não
+02682287,PAN FINAN,PAN FINAN,02682287000102,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,03/07/2023,RSFN,Não
 02685483,"CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA",CM CAPITAL MARKETS CCTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/01/2017,RSFN,Não
 02766672,COOP CRESOL PLANALTO SUL,COOP CRESOL PLANALTO SUL,02766672000138,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02794761,SICOOB UFVCREDI,SICOOB UFVCREDI,02794761000198,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -230,7 +230,7 @@
 04484490,COOP SICREDI ALTA NOROESTE SP,COOP SICREDI ALTA NOROESTE SP,04484490000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04490531,COOP CRESOL GOIAS,COOP CRESOL GOIAS,04490531000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04525997,COOP SICREDI EDUCAÇÃO RS,COOP SICREDI EDUCAÇÃO RS,04525997000154,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-04529074,CC SICOOB CREDICAPITAL,CC SICOOB CREDICAPITAL,04529074000170,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+04529074,COOP SICOOB CREDICAPITAL,COOP SICOOB CREDICAPITAL,04529074000170,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04565791,COOP CRESOL ARATIBA,COOP CRESOL ARATIBA,04565791000158,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04572960,CECM MILITARES ESTADUAIS DE SC,CECM MILITARES ESTADUAIS DE SC,04572960000187,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04608925,CREDJUST - CCM INTEGRANTES DA,CREDJUST - CCM INTEGRANTES DA,04608925000170,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -823,7 +823,7 @@
 44728700,ATF SCD S.A.,ATF SCD S.A.,44728700000172,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,02/12/2022,RSFN,Não
 44782130,ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,ACTUAL DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2024,RSFN,Não
 44815065,PAY2ALL IP LTDA.,PAY2ALL IP LTDA.,44815065000160,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-44921281,NIXFIN SCD,NIXFIN SCD,44921281000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,02/02/2026,RSFN,Não
+44921281,NIXFIN SCD,NIXFIN SCD,44921281000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,02/02/2026,RSFN,Não
 45056494,JM CORRETORA DE CÂMBIO LTDA.,JM CORRETORA DE CÂMBIO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/10/2025,RSFN,Não
 45246410,BANCO GENIAL,BANCO GENIAL,45246410000155,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,19/11/2012,RSFN,Sim
 45283173,BBVA BRASIL BANCO DE INVESTIMENTO S.A.,BBVA BRASIL BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2025,RSFN,Não

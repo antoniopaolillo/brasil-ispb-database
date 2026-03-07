@@ -2335,7 +2335,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Etapa Homologatória",
+    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
@@ -4159,8 +4159,8 @@
   },
   {
     "ispb": "04529074",
-    "nome_completo": "CC SICOOB CREDICAPITAL",
-    "nome_reduzido": "CC SICOOB CREDICAPITAL",
+    "nome_completo": "COOP SICOOB CREDICAPITAL",
+    "nome_reduzido": "COOP SICOOB CREDICAPITAL",
     "cnpj": "04529074000170",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -14845,7 +14845,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
+    "iniciacao_pagamento": "Ativo em operação restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
