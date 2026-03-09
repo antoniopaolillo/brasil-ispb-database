@@ -128,7 +128,7 @@
 02641969,CCLAA NOVA TRENTO,CCLAA NOVA TRENTO,02641969000177,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02663426,COOP CRESOL NOROESTE,COOP CRESOL NOROESTE,02663426000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02671743,BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,BANVOX DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/06/2024,RSFN,Não
-02682287,PAN FINAN,PAN FINAN,02682287000102,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,03/07/2023,RSFN,Não
+02682287,"PAN FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS",PAN FINAN,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/07/2023,RSFN,Não
 02685483,"CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA",CM CAPITAL MARKETS CCTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/01/2017,RSFN,Não
 02766672,COOP CRESOL PLANALTO SUL,COOP CRESOL PLANALTO SUL,02766672000138,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02794761,SICOOB UFVCREDI,SICOOB UFVCREDI,02794761000198,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -357,6 +357,7 @@
 08240446,CCR DE IBIAM,CCR DE IBIAM,08240446000103,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,10/07/2020,RSFN,Não
 08253539,COOP SULCREDI AMPLEA,COOP SULCREDI AMPLEA,08253539000164,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,24/04/2018,RSFN,Não
 08357240,BCO CSF S.A.,BCO CSF S.A.,08357240000150,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/05/2020,RSFN,Não
+08422119,BULLLA IP S.A.,BULLLA IP S.A.,08422119000164,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 08482873,CCR DO AGRESTE ALAGOANO,CCR DO AGRESTE ALAGOANO,08482873000190,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/03/2025,RSFN,Não
 08488377,COOP CRESOL MISSÕES FRONTEIRA RS,COOP CRESOL MISSÕES FRONTEIRA RS,08488377000143,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 08560508,COOP CRESOL TRIUNFO,COOP CRESOL TRIUNFO,08560508000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -446,7 +447,6 @@
 13486793,BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.,BRL TRUST DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/11/2016,RSFN,Não
 13673855,OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A,OSLO CAPITAL DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/09/2019,RSFN,Não
 13720915,BCO WESTERN UNION,BCO WESTERN UNION,13720915000113,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/10/2011,RSFN,Não
-13776742,RENDIMENTOPAY IP S.A,RENDIMENTOPAY IP S.A,13776742000155,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 13884775,MAGALUPAY,MAGALUPAY,13884775000119,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,13/08/2020,RSFN,Não
 13935893,CELCOIN IP S.A.,CELCOIN IP S.A.,13935893000109,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,23/01/2023,RSFN,Não
 13966572,CAPPTA IP S.A.,CAPPTA IP S.A.,13966572000171,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
