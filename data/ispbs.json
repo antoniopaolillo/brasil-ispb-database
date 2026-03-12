@@ -7957,8 +7957,8 @@
   },
   {
     "ispb": "13203354",
-    "nome_completo": "FITBANK IP",
-    "nome_reduzido": "FITBANK IP",
+    "nome_completo": "FITS IP",
+    "nome_reduzido": "FITS IP",
     "cnpj": "13203354000185",
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
@@ -15247,8 +15247,8 @@
   },
   {
     "ispb": "48632754",
-    "nome_completo": "VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A",
-    "nome_reduzido": "VIA CAPITAL SCD S/A",
+    "nome_completo": "CELCOIN SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "nome_reduzido": "CELCOIN SCD",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
@@ -15781,8 +15781,8 @@
     "acesso_principal": "Internet",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
   {

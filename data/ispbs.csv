@@ -441,7 +441,7 @@
 13009717,BCO DO EST. DE SE S.A.,BCO DO EST. DE SE S.A.,13009717000146,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Sim
 13059145,EBURY BCO DE CÂMBIO S.A.,EBURY BCO DE CÂMBIO S.A.,13059145000100,Banco de Câmbio,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/05/2016,RSFN,Não
 13140088,ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO,ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO,13140088000199,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,16/08/2019,RSFN,Não
-13203354,FITBANK IP,FITBANK IP,13203354000185,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/06/2021,RSFN,Não
+13203354,FITS IP,FITS IP,13203354000185,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/06/2021,RSFN,Não
 13220493,BR Partners Banco de Investimento S.A.,BR PARTNERS BI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/01/2013,RSFN,Não
 13370835,DOCK IP S.A.,DOCK IP S.A.,13370835000185,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,26/09/2018,RSFN,Não
 13486793,BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.,BRL TRUST DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/11/2016,RSFN,Não
@@ -846,7 +846,7 @@
 48176336,PAGOL SCD,PAGOL SCD,48176336000136,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 48552108,LIQUIDO INSTITUICAO DE PAGAMENTO LTDA,LIQUIDO IP LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/03/2025,RSFN,Não
 48584954,DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.,DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.,48584954000115,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,13/06/2024,RSFN,Não
-48632754,VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A,VIA CAPITAL SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/02/2025,RSFN,Não
+48632754,CELCOIN SOCIEDADE DE CRÉDITO DIRETO S.A.,CELCOIN SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/02/2025,RSFN,Não
 48703388,ASA SCFI S.A.,ASA SCFI S.A.,48703388000113,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,11/03/2024,RSFN,Não
 48707451,PERCAPITAL SOCIEDADE DE CRÉDITO DIRETO S.A.,PERCAPITAL SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/09/2023,RSFN,Não
 48756121,A55 SCD S.A.,A55 SCD S.A.,48756121000194,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/02/2025,RSFN,Não
@@ -875,7 +875,7 @@
 52076716,AWX BRASIL  INSTITUICAO DE PAGAMENTO LTDA,AWX BRASIL IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/01/2026,RSFN,Não
 52440987,SANTS SCD S.A.,SANTS SCD S.A.,52440987000169,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/06/2024,RSFN,Não
 52586293,Z-ON SCD S.A.,Z-ON SCD S.A.,52586293000134,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/10/2024,RSFN,Não
-52833288,LB PAY IP LTDA,LB PAY IP LTDA,52833288000189,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,26/09/2025,Internet,Não
+52833288,LB PAY IP LTDA,LB PAY IP LTDA,52833288000189,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,26/09/2025,Internet,Não
 53236808,CCLA DE ARARAQUARA E REGIÃO,CCLA DE ARARAQUARA E REGIÃO,53236808000139,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53505601,"STONE SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",STONE CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,18/03/2025,RSFN,Não
 53518684,BCO HSBC S.A.,BCO HSBC S.A.,53518684000184,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/02/2018,RSFN,Não
