@@ -12775,7 +12775,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Etapa Homologatória",
+    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
@@ -15877,8 +15877,8 @@
   },
   {
     "ispb": "53776852",
-    "nome_completo": "CCR FOR CANA CENTRO EST SP",
-    "nome_reduzido": "CCR FOR CANA CENTRO EST SP",
+    "nome_completo": "COOP CREDICENTRO",
+    "nome_reduzido": "COOP CREDICENTRO",
     "cnpj": "53776852000131",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -16375,7 +16375,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
+    "iniciacao_pagamento": "Ativo em operação restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
