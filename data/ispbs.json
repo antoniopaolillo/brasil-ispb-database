@@ -10915,15 +10915,15 @@
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
-    "participa_str": "Não",
+    "participa_str": "Sim",
     "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
+    "data_inicio_operacao": "25/03/2026",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "30680829",
@@ -12115,8 +12115,8 @@
   },
   {
     "ispb": "33884941",
-    "nome_completo": "BANCO MASTER MÚLTIPLO S.A. - SOB RAET",
-    "nome_reduzido": "BANCO MASTER MÚLTIPLO - SOB RAET",
+    "nome_completo": "BANCO MASTER MÚLTIPLO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "nome_reduzido": "BANCO MASTER MÚLTIPLO - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
@@ -18127,8 +18127,8 @@
   },
   {
     "ispb": "71962609",
-    "nome_completo": "PAGARE",
-    "nome_reduzido": "PAGARE",
+    "nome_completo": "MASLUL INSTITUICAO DE PAGAMENT",
+    "nome_reduzido": "MASLUL INSTITUICAO DE PAGAMENT",
     "cnpj": "71962609000190",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
