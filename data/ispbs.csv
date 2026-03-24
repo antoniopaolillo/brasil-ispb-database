@@ -699,7 +699,7 @@
 35479592,"DUFRIO FINANCEIRA, CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S.A.",DUFRIO CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/01/2025,RSFN,Não
 35523352,BEES IP LTDA.,BEES IP LTDA.,35523352000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/09/2025,Internet,Não
 35534511,A27 IP S/A,A27 IP S/A,35534511000178,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-35535240,SAQ,SAQ,35535240000175,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+35535240,SAQ IP LTDA.,SAQ IP LTDA.,35535240000175,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35542555,UNLIMIT IP LTDA.,UNLIMIT IP LTDA.,35542555000140,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35551187,"PLANTAE S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",PLANTAE CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2021,RSFN,Não
 35571249,COOP SICREDI EVOLUÇÃO,COOP SICREDI EVOLUÇÃO,35571249000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -928,7 +928,7 @@
 60850229,OMNI BANCO S.A.,OMNI BANCO S.A.,60850229000147,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 60889128,BCO SOFISA S.A.,BCO SOFISA S.A.,60889128000180,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 60934221,Câmara de Câmbio B3,Câmbio B3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-61024352,BANCO PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,BM PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
+61024352,BANCO PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,BM PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,Internet,Não
 61033106,BCO CREFISA S.A.,BCO CREFISA S.A.,61033106000186,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/11/2005,RSFN,Sim
 61088183,Banco Mizuho do Brasil S.A.,BCO MIZUHO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 61182408,Banco Investcred Unibanco S.A.,BANCO INVESTCRED UNIBANCO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
