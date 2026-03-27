@@ -16254,6 +16254,24 @@
     "fonte_dados": "STR"
   },
   {
+    "ispb": "57030391",
+    "nome_completo": "NDD IP LTDA.",
+    "nome_reduzido": "NDD IP LTDA.",
+    "cnpj": "57030391000104",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "57487987",
     "nome_completo": "VIVO PAY SCD S.A.",
     "nome_reduzido": "VIVO PAY SCD S.A.",
