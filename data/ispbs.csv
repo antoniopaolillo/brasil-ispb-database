@@ -835,7 +835,7 @@
 45854066,WNT CAPITAL DTVM,WNT CAPITAL DTVM,45854066000187,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,01/03/2023,RSFN,Não
 45860531,IDEA MAKER IP LTDA,IDEA MAKER IP LTDA,45860531000192,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 46026562,MONETARIE SCD,MONETARIE SCD,46026562000105,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,20/01/2023,RSFN,Não
-46505612,MONERY INSTITUICAO DE PAGAMENTO S.A.,MONERY IP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/02/2025,Internet,Não
+46505612,MONERY IP S.A.,MONERY IP S.A.,46505612000137,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,03/02/2025,Internet,Não
 46518205,"JPMorgan Chase Bank, National Association",JPMORGAN CHASE BANK,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 46642294,COOP SICOOB COOPEREMB,COOP SICOOB COOPEREMB,46642294000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 47074323,SICOOB CREDICONSUMO CC,SICOOB CREDICONSUMO CC,47074323000193,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -1118,7 +1118,7 @@
 92555150,COOP SICREDI ALT SERRA RS/SC,COOP SICREDI ALT SERRA RS/SC,92555150000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 92702067,BCO DO ESTADO DO RS S.A.,BCO DO ESTADO DO RS S.A.,92702067000196,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 92796564,COOP SICREDI ORIGENS RS,COOP SICREDI ORIGENS RS,92796564000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-92825397,COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS ELETRICITÁRIOS E DOS TRABALHADORES DAS EMPRESAS DO SETOR DE ENERGIA - COOPCRECE,COOPCRECE,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2023,RSFN,Não
+92825397,COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS ELETRICITÁRIOS E DOS TRABALHADORES DAS EMPRESAS DO SETOR DE ENERGIA - COOPCRECE,COOPCRECE,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2023,Internet,Não
 92874270,BANCO DIGIMAIS S.A.,BCO DIGIMAIS S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 92894922,BANCO ORIGINAL,BANCO ORIGINAL,92894922000108,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 92934215,BANRISUL PAGAMENTOS IP,BANRISUL PAGAMENTOS IP,92934215000106,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
