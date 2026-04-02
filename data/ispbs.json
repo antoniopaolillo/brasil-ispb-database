@@ -8244,6 +8244,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "14821124",
+    "nome_completo": "TARGET BANK",
+    "nome_reduzido": "TARGET BANK",
+    "cnpj": "14821124000142",
+    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
+    "autorizada_bcb": "Não",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "14913919",
     "nome_completo": "CC MERCADO IMOBILIÁRIO - SICOOB IMOB.VC",
     "nome_reduzido": "CC MERCADO IMOBILIÁRIO - SICOOB IMOB.VC",
@@ -14845,8 +14863,8 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
   {
@@ -18479,7 +18497,7 @@
     "status_operacional": "Ativo",
     "data_inicio_operacao": "22/04/2002",
     "acesso_principal": "RSFN",
-    "participa_compe": "Sim",
+    "participa_compe": "Não",
     "modalidade_pix": "",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",

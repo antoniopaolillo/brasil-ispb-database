@@ -457,6 +457,7 @@
 14568725,COOPCENTRAL DE ECON. E CRÉDITO SICOOB UNIMAIS RIO LTDA.,COOPCENTRAL DE ECON. E CRÉDITO SICOOB UNIMAIS RIO LTDA.,14568725000195,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 14615234,MAPBANK,MAPBANK,14615234000158,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 14796606,ADYEN DO BRASIL IP LTDA.,ADYEN DO BRASIL IP LTDA.,14796606000190,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
+14821124,TARGET BANK,TARGET BANK,14821124000142,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 14913919,CC MERCADO IMOBILIÁRIO - SICOOB IMOB.VC,CC MERCADO IMOBILIÁRIO - SICOOB IMOB.VC,14913919000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 15111975,IUGU IP S.A.,IUGU IP S.A.,15111975000164,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,06/05/2021,RSFN,Não
 15114366,Banco Bocom BBM S.A.,BCO BOCOM BBM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
@@ -823,7 +824,7 @@
 44728700,ATF SCD S.A.,ATF SCD S.A.,44728700000172,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,02/12/2022,RSFN,Não
 44782130,ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,ACTUAL DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2024,RSFN,Não
 44815065,PAY2ALL IP LTDA.,PAY2ALL IP LTDA.,44815065000160,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-44921281,NIXFIN SCD,NIXFIN SCD,44921281000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,02/02/2026,RSFN,Não
+44921281,NIXFIN SCD,NIXFIN SCD,44921281000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,02/02/2026,RSFN,Não
 45056494,JM CORRETORA DE CÂMBIO LTDA.,JM CORRETORA DE CÂMBIO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/10/2025,RSFN,Não
 45246410,BANCO GENIAL,BANCO GENIAL,45246410000155,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,19/11/2012,RSFN,Sim
 45283173,BBVA BRASIL BANCO DE INVESTIMENTO S.A.,BBVA BRASIL BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2025,RSFN,Não
@@ -1025,7 +1026,7 @@
 74114042,CC UNICRED UNIÃO LTDA - UNICRED UNIÃO,CC UNICRED UNIÃO LTDA - UNICRED UNIÃO,74114042000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 74248949,CCM SERV MUN S JOAO BOA VISTA,CCM SERV MUN S JOAO BOA VISTA,74248949000141,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 74828799,NOVO BCO CONTINENTAL S.A. - BM,NOVO BCO CONTINENTAL S.A. - BM,74828799000145,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
-75647891,BANCO CRÉDIT AGRICOLE BRASIL S.A.,BCO CRÉDIT AGRICOLE BR S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
+75647891,BANCO CRÉDIT AGRICOLE BRASIL S.A.,BCO CRÉDIT AGRICOLE BR S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 76059997,COOP SICREDI PROGRESSO PR/SP,COOP SICREDI PROGRESSO PR/SP,76059997000117,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 76461557,CCR COOPAVEL,CCR COOPAVEL,76461557000191,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,05/11/2018,RSFN,Sim
 76543115,Banco Sistema S.A.,BANCO SISTEMA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/07/2015,RSFN,Não
