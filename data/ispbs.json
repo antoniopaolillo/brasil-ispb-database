@@ -15804,24 +15804,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "53236808",
-    "nome_completo": "CCLA DE ARARAQUARA E REGIÃO",
-    "nome_reduzido": "CCLA DE ARARAQUARA E REGIÃO",
-    "cnpj": "53236808000139",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "53505601",
     "nome_completo": "STONE SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
     "nome_reduzido": "STONE CFI S.A.",
