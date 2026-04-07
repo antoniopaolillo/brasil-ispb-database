@@ -310,7 +310,6 @@
 07026923,CCLA SICOOB ARENITO PARANÁ / SÃO PAULO,CCLA SICOOB ARENITO PARANÁ / SÃO PAULO,07026923000161,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07070495,COOP SICREDI EMPREENDEDORES,COOP SICREDI EMPREENDEDORES,07070495000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07097064,COOP SICOOB CONFIANÇA,COOP SICOOB CONFIANÇA,07097064000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-07115294,BOKU NETWORK BRASIL IP,BOKU NETWORK BRASIL IP,07115294000146,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 07122321,CC INTEGRADO - SICOOB INTEGRADO,CC INTEGRADO - SICOOB INTEGRADO,07122321000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07136847,HYPER WALLET IP LTDA,HYPER WALLET IP LTDA,07136847000147,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07138049,PICPAY INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,PICPAY INVEST,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,09/03/2022,RSFN,Não
@@ -901,7 +900,7 @@
 55428859,FREEX SOCIEDADE CORRETORA DE CÂMBIO S.A.,FREEX SCC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/09/2024,Internet,Não
 55823094,DELTA GLOBAL SCD S.A.,DELTA GLOBAL SCD S.A.,55823094000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,17/04/2025,RSFN,Não
 56106523,VUE INSTITUIÇÃO DE PAGAMENTO S.A.,VUE IP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2025,RSFN,Não
-56198117,SQUID SCD S.A.,SQUID SCD S.A.,56198117000186,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,27/06/2025,RSFN,Não
+56198117,SQUID SOCIEDADE DE CRÉDITO DIRETO S.A.,SQUID SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/06/2025,RSFN,Não
 56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
 57030391,NDD IP LTDA.,NDD IP LTDA.,57030391000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
