@@ -764,7 +764,7 @@
 39715262,MASTERBARTER,MASTERBARTER,39715262000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 39738065,FFCRED SCD S.A.,FFCRED SCD S.A.,39738065000174,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/11/2022,RSFN,Não
 39908427,STARK SCD S.A.,STARK SCD S.A.,39908427000128,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Liquidante Especial,Não,nan,01/10/2021,RSFN,Não
-39929224,DIZCONTA,DIZCONTA,39929224000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+39929224,MINHA KONTA,MINHA KONTA,39929224000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 40083667,CAPITAL CONSIG SCD S.A.,CAPITAL CONSIG SCD S.A.,40083667000110,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/12/2021,RSFN,Não
 40112555,GIRO - SOCIEDADE DE CRÉDITO DIRETO S/A,GIRO - SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/10/2024,Internet,Não
 40276692,PROTEGE CASH,PROTEGE CASH,40276692000110,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/09/2023,RSFN,Não
@@ -908,6 +908,7 @@
 57563728,CECME EMPR EMP GR ECON RHODIA,CECME EMPR EMP GR ECON RHODIA,57563728000149,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 57824223,WX IP LTDA.,WX IP LTDA.,57824223000190,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/10/2025,Internet,Não
 57839805,Banco Tricury S.A.,BCO TRICURY S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/08/2013,RSFN,Sim
+58006471,BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,BARU DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/04/2026,Internet,Não
 58022195,CECM EMPR EMP ZILLO LORENZETTI,CECM EMPR EMP ZILLO LORENZETTI,58022195000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 58160789,BCO SAFRA S.A.,BCO SAFRA S.A.,58160789000128,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 58367961,BIT SCD S.A.,BIT SCD S.A.,58367961000119,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,22/07/2025,RSFN,Não
