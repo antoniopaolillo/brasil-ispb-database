@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-04-12T13:01:18.955163",
+  "last_update": "2026-04-13T13:25:58.672775",
   "total_institutions": 1133,
   "sources": [
-    "PIX",
     "STR",
+    "PIX",
     "PIX+STR"
   ],
   "update_script_version": "2.0",
