@@ -9805,7 +9805,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
+    "iniciacao_pagamento": "Sim",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
@@ -16213,8 +16213,8 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
   {
@@ -16285,7 +16285,7 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Etapa Homologatória",
+    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
@@ -16429,8 +16429,8 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
   {
