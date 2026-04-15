@@ -710,7 +710,7 @@
 35977097,UP.P SEP S.A.,UP.P SEP S.A.,35977097000171,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/03/2020,RSFN,Não
 35990763,ENOQ PAY,ENOQ PAY,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36113876,OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.,OLIVEIRA TRUST DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/03/2011,RSFN,Não
-36266751,FINVEST DTVM,FINVEST DTVM,36266751000100,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,01/08/2022,RSFN,Não
+36266751,FINVEST DTVM,FINVEST DTVM,36266751000100,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/08/2022,RSFN,Não
 36272465,REAG IP,REAG IP,36272465000149,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 36321990,"AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",AGORACRED S/A SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/08/2024,RSFN,Não
 36583700,"QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",QISTA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2022,RSFN,Não
