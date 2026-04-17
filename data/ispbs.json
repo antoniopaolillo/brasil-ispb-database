@@ -5041,8 +5041,8 @@
   },
   {
     "ispb": "05491616",
-    "nome_completo": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS",
-    "nome_reduzido": "COOP CREDITAG",
+    "nome_completo": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "nome_reduzido": "COOP CREDITAG - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
@@ -16270,24 +16270,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "STR"
-  },
-  {
-    "ispb": "57030391",
-    "nome_completo": "NDD IP LTDA.",
-    "nome_reduzido": "NDD IP LTDA.",
-    "cnpj": "57030391000104",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
   },
   {
     "ispb": "57487987",

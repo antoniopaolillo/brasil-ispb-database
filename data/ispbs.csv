@@ -279,7 +279,7 @@
 05463212,COOPCENTRAL AILOS,COOPCENTRAL AILOS,05463212000129,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,17/05/2010,RSFN,Sim
 05463934,CC CREDLIDER,CC CREDLIDER,05463934000183,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 05477038,CC NO PIAUÍ - SICOOB PIAUÍ,CC NO PIAUÍ - SICOOB PIAUÍ,05477038000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-05491616,"COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS",COOP CREDITAG,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/02/2021,RSFN,Não
+05491616,"COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS - EM LIQUIDAÇÃO EXTRAJUDICIAL",COOP CREDITAG - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/02/2021,RSFN,Não
 05494591,COOP CRESOL NASCENTE,COOP CRESOL NASCENTE,05494591000114,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 05545390,COOP SICREDI LENÇÓIS,COOP SICREDI LENÇÓIS,05545390000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 05582619,CC SICOOB OURO VERDE,CC SICOOB OURO VERDE,05582619000175,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -903,7 +903,6 @@
 56106523,VUE INSTITUIÇÃO DE PAGAMENTO S.A.,VUE IP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2025,RSFN,Não
 56198117,SQUID SCD S.A.,SQUID SCD S.A.,56198117000186,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,27/06/2025,RSFN,Não
 56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
-57030391,NDD IP LTDA.,NDD IP LTDA.,57030391000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 57563728,CECME EMPR EMP GR ECON RHODIA,CECME EMPR EMP GR ECON RHODIA,57563728000149,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 57824223,WX IP LTDA.,WX IP LTDA.,57824223000190,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/10/2025,Internet,Não
