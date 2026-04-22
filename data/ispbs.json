@@ -7218,24 +7218,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "10314753",
-    "nome_completo": "STRADA PAY IP LTDA.",
-    "nome_reduzido": "STRADA PAY IP LTDA.",
-    "cnpj": "10314753000125",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "10319386",
     "nome_completo": "CCLA DO CENTRO SUL DE MS",
     "nome_reduzido": "CCLA DO CENTRO SUL DE MS",
