@@ -400,6 +400,7 @@
 10262276,CCLA DO ESTADO DE SÃO PAULO - SICOOB PAULISTA,CCLA DO ESTADO DE SÃO PAULO - SICOOB PAULISTA,10262276000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10264663,BancoSeguro S.A.,BANCOSEGURO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2008,RSFN,Não
 10311218,COOP EVOLUA,COOP EVOLUA,10311218000110,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+10314753,STRADA PAY IP LTDA.,STRADA PAY IP LTDA.,10314753000125,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
 10319386,CCLA DO CENTRO SUL DE MS,CCLA DO CENTRO SUL DE MS,10319386000152,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10348181,COOP SICREDI VALE LITORAL SC,COOP SICREDI VALE LITORAL SC,10348181000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Sim,,,
 10371492,Banco Yamaha Motor do Brasil S.A.,BCO YAMAHA MOTOR S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2022,RSFN,Não
@@ -832,7 +833,7 @@
 45716916,FIDEM SOCIEDADE DE CRÉDITO DIRETO S/A,FIDEM SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2025,RSFN,Não
 45745537,EAGLE SOCIEDADE DE CRÉDITO DIRETO S.A.,EAGLE SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/04/2023,RSFN,Não
 45756448,MICROCASH SCMEPP LTDA.,MICROCASH SCMEPP LTDA.,45756448000178,Sociedade de Crédito ao Microempreendedor,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,06/03/2023,RSFN,Não
-45854066,WNT CAPITAL DTVM,WNT CAPITAL DTVM,45854066000187,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,01/03/2023,RSFN,Não
+45854066,WNT CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,WNT CAPITAL DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/03/2023,RSFN,Não
 45860531,IDEA MAKER IP LTDA,IDEA MAKER IP LTDA,45860531000192,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 46026562,MONETARIE SCD,MONETARIE SCD,46026562000105,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,20/01/2023,RSFN,Não
 46505612,MONERY IP S.A.,MONERY IP S.A.,46505612000137,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,03/02/2025,Internet,Não
