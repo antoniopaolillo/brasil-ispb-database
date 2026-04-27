@@ -7453,8 +7453,8 @@
   },
   {
     "ispb": "10789035",
-    "nome_completo": "FACILITA IP S.A.",
-    "nome_reduzido": "FACILITA IP S.A.",
+    "nome_completo": "ATTRUS IP S/A",
+    "nome_reduzido": "ATTRUS IP S/A",
     "cnpj": "10789035000105",
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
@@ -15037,15 +15037,15 @@
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
-    "participa_str": "Não",
+    "participa_str": "Sim",
     "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
+    "data_inicio_operacao": "04/05/2026",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "46026562",
@@ -16249,8 +16249,8 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
   {
