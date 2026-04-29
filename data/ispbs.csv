@@ -575,7 +575,7 @@
 26264220,ZERO IP,ZERO IP,26264220000116,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,11/11/2024,RSFN,Não
 26408161,COOP SICREDI CENTRO-SUL MS/BA,COOP SICREDI CENTRO-SUL MS/BA,26408161000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 26526166,CCLA SUL MARANHENSE - SICOOB SUL MARANHENSE,CCLA SUL MARANHENSE - SICOOB SUL MARANHENSE,26526166000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-26529420,COOP SICREDI OURO VERDE MT,COOP SICREDI OURO VERDE MT,26529420000153,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+26529420,COOP SICREDI OURO VERDE MT/PA,COOP SICREDI OURO VERDE MT/PA,26529420000153,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 26549311,COOP SICREDI INTEGRAÇÃO MT/AP/PA,COOP SICREDI INTEGRAÇÃO MT/AP/PA,26549311000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 26555235,COOP SICREDI CELEIRO DO MT,COOP SICREDI CELEIRO DO MT,26555235000133,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 26563270,CREDISIS PRIMACREDI CC,CREDISIS PRIMACREDI CC,26563270000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -817,7 +817,7 @@
 44373041,COOP UNIPRIME CREDICANA,COOP UNIPRIME CREDICANA,44373041000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 44469161,COOP SICOOB PRO,COOP SICOOB PRO,44469161000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 44478623,ATICCA SCD S.A.,ATICCA SCD S.A.,44478623000140,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,06/02/2023,RSFN,Não
-44663846,FEATBANK INSTITUICAO DE PAGAMENTO LTDA,FEATBANK IP LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/10/2025,RSFN,Não
+44663846,FESTOR INSTITUIÇÃO DE PAGAMENTO LTDA.,FESTOR IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/10/2025,RSFN,Não
 44683140,MAGNUM SCD,MAGNUM SCD,44683140000187,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/08/2022,RSFN,Sim
 44704839,ZIMPLER BRASIL IP LTDA.,ZIMPLER BRASIL IP LTDA.,44704839000186,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 44705774,SOMAPAY SCD S.A.,SOMAPAY SCD S.A.,44705774000193,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/09/2023,RSFN,Não
@@ -1072,7 +1072,7 @@
 82527557,COOP SICREDI FRONTEIR PR/SC/SP,COOP SICREDI FRONTEIR PR/SC/SP,82527557000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 82639451,COOP VIACREDI,COOP VIACREDI,82639451000138,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 82842386,INFOPAGO,INFOPAGO,82842386000143,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-83315408,COOP SICREDI NORTE,COOP SICREDI NORTE,83315408000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+83315408,COOP SICREDI NORTE,COOP SICREDI NORTE,83315408000180,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 83836114,CCLA DO ESTADO DO PARÁ - SICOOB COOESA,CCLA DO ESTADO DO PARÁ - SICOOB COOESA,83836114000101,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 84156470,CC INTEGRANTES MIN PUBL E PODER JUDIC AP E CE E CCLA PA,CC INTEGRANTES MIN PUBL E PODER JUDIC AP E CE E CCLA PA,84156470000139,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 84974278,COOP SICREDI IGUAÇU PR/SC E REGIÃO METROP. DE CAMPINAS/SP,COOP SICREDI IGUAÇU PR/SC E REGIÃO METROP. DE CAMPINAS/SP,84974278000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
