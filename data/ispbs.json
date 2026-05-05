@@ -4393,8 +4393,8 @@
   },
   {
     "ispb": "04838403",
-    "nome_completo": "BLU PAY",
-    "nome_reduzido": "BLU PAY",
+    "nome_completo": "AVIV INSTITUICAO DE PAGAMENTO",
+    "nome_reduzido": "AVIV INSTITUICAO DE PAGAMENTO",
     "cnpj": "04838403000165",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -5611,8 +5611,8 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX"
   },
   {
@@ -5635,8 +5635,8 @@
   },
   {
     "ispb": "07136847",
-    "nome_completo": "PONTO INFO",
-    "nome_reduzido": "PONTO INFO",
+    "nome_completo": "HYPER WALLET IP LTDA",
+    "nome_reduzido": "HYPER WALLET IP LTDA",
     "cnpj": "07136847000147",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -8551,8 +8551,8 @@
   },
   {
     "ispb": "17028875",
-    "nome_completo": "MY FIRST",
-    "nome_reduzido": "MY FIRST",
+    "nome_completo": "MAGEN IP",
+    "nome_reduzido": "MAGEN IP",
     "cnpj": "17028875000102",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -8911,8 +8911,8 @@
   },
   {
     "ispb": "18639407",
-    "nome_completo": "E2E PAY",
-    "nome_reduzido": "E2E PAY",
+    "nome_completo": "E2E PAY INSTITUICAO DE PAGAMEN",
+    "nome_reduzido": "E2E PAY INSTITUICAO DE PAGAMEN",
     "cnpj": "18639407000129",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -10495,8 +10495,8 @@
   },
   {
     "ispb": "27126513",
-    "nome_completo": "DOLARAPP",
-    "nome_reduzido": "DOLARAPP",
+    "nome_completo": "ARQ",
+    "nome_reduzido": "ARQ",
     "cnpj": "27126513000108",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -10675,8 +10675,8 @@
   },
   {
     "ispb": "28220872",
-    "nome_completo": "VALEPAY",
-    "nome_reduzido": "VALEPAY",
+    "nome_completo": "VALEPAY BRASIL IP",
+    "nome_reduzido": "VALEPAY BRASIL IP",
     "cnpj": "28220872000184",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -12727,8 +12727,8 @@
   },
   {
     "ispb": "35990763",
-    "nome_completo": "ENOQ BANK",
-    "nome_reduzido": "ENOQ BANK",
+    "nome_completo": "ENOQ PAY",
+    "nome_reduzido": "ENOQ PAY",
     "cnpj": "35990763000101",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -13069,8 +13069,8 @@
   },
   {
     "ispb": "37319859",
-    "nome_completo": "NEXT",
-    "nome_reduzido": "NEXT",
+    "nome_completo": "STATER PAY INSTITUICAO DE PAGA",
+    "nome_reduzido": "STATER PAY INSTITUICAO DE PAGA",
     "cnpj": "37319859000178",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -15678,6 +15678,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "52067630",
+    "nome_completo": "BANCO TRATON BRASIL S.A.",
+    "nome_reduzido": "BANCO TRATON BRASIL S.A.",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "11/05/2026",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
+  },
+  {
     "ispb": "52076716",
     "nome_completo": "AWX BRASIL  INSTITUICAO DE PAGAMENTO LTDA",
     "nome_reduzido": "AWX BRASIL IP LTDA.",
@@ -16270,6 +16288,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
+  },
+  {
+    "ispb": "57654096",
+    "nome_completo": "APUSDIGITAL INSTITUICAO DE PAGAMENTO LTDA",
+    "nome_reduzido": "APUSDIGITAL IP LTDA.",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "11/05/2026",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
   },
   {
     "ispb": "57824223",
