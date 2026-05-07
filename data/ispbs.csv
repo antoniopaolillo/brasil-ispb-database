@@ -51,7 +51,7 @@
 01181521,BCO COOPERATIVO SICREDI S.A.,BCO COOPERATIVO SICREDI S.A.,01181521000155,Banco Múltiplo Cooperativo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 01187961,CC DISTRITO FEDERAL E ENTORNO,CC DISTRITO FEDERAL E ENTORNO,01187961000110,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01205736,COOP DE CRÉDITO SICOOB COSTA DO DESCOBRIMENTO LTDA.,COOP DE CRÉDITO SICOOB COSTA DO DESCOBRIMENTO LTDA.,01205736000169,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-01259518,SICOOB UNIMAIS CENTRO LESTE PAULISTA,SICOOB UNIMAIS CENTRO LESTE PAULISTA,01259518000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+01259518,COOP SICOOB UNIMAIS CLP,COOP SICOOB UNIMAIS CLP,01259518000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01286361,UNIPRIME PIONEIRA CC,UNIPRIME PIONEIRA CC,01286361000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01330387,COOP DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL,COOP DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL,01330387000107,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,27/05/2020,Internet,Não
 01374196,CC SÃO FRANCISCO DE SALES LTDA.,CC SÃO FRANCISCO DE SALES LTDA.,01374196000147,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -737,7 +737,7 @@
 37678915,FIDD DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,FIDD DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,17/06/2024,RSFN,Não
 37679449,"MERCADO CRÉDITO SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",MERCADO CRÉDITO SCFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,30/01/2023,RSFN,Não
 37715993,ACCREDITO SCD S.A.,ACCREDITO SCD S.A.,37715993000198,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,27/11/2020,RSFN,Não
-37753531,PAGSMILE IP LTDA.,PAGSMILE IP LTDA.,37753531000165,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+37753531,PAGSMILE IP LTDA.,PAGSMILE IP LTDA.,37753531000165,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,13/05/2026,RSFN,Não
 37763847,GERU SCD S.A.,GERU SCD S.A.,37763847000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 37839059,OWEM PAY,OWEM PAY,37839059000188,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37880206,CORA SCFI,CORA SCFI,37880206000163,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,29/09/2020,RSFN,Não
@@ -828,7 +828,7 @@
 45331622,BNK DIGITAL SCD S.A.,BNK DIGITAL SCD S.A.,45331622000130,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/06/2023,RSFN,Não
 45548763,MAPS IP LTDA.,MAPS IP LTDA.,45548763000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,03/06/2024,RSFN,Não
 45716916,FIDEM SOCIEDADE DE CRÉDITO DIRETO S/A,FIDEM SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2025,RSFN,Não
-45745537,EAGLE SOCIEDADE DE CRÉDITO DIRETO S.A.,EAGLE SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/04/2023,RSFN,Não
+45745537,FUTURO SOCIEDADE DE CRÉDITO DIRETO S.A.,FUTURO SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/04/2023,RSFN,Não
 45756448,MICROCASH SCMEPP LTDA.,MICROCASH SCMEPP LTDA.,45756448000178,Sociedade de Crédito ao Microempreendedor,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,06/03/2023,RSFN,Não
 45854066,WNT CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,WNT CAPITAL DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/03/2023,RSFN,Não
 45860531,IDEA MAKER IP LTDA,IDEA MAKER IP LTDA,45860531000192,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/05/2026,RSFN,Não

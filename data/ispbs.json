@@ -937,8 +937,8 @@
   },
   {
     "ispb": "01259518",
-    "nome_completo": "SICOOB UNIMAIS CENTRO LESTE PAULISTA",
-    "nome_reduzido": "SICOOB UNIMAIS CENTRO LESTE PAULISTA",
+    "nome_completo": "COOP SICOOB UNIMAIS CLP",
+    "nome_reduzido": "COOP SICOOB UNIMAIS CLP",
     "cnpj": "01259518000107",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -13291,15 +13291,15 @@
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
-    "participa_str": "Não",
+    "participa_str": "Sim",
     "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
+    "data_inicio_operacao": "13/05/2026",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "",
-    "fonte_dados": "PIX"
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "37763847",
@@ -14923,8 +14923,8 @@
   },
   {
     "ispb": "45745537",
-    "nome_completo": "EAGLE SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "nome_reduzido": "EAGLE SCD S.A.",
+    "nome_completo": "FUTURO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "nome_reduzido": "FUTURO SCD",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
