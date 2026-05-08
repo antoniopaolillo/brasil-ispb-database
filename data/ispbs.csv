@@ -413,7 +413,7 @@
 10664513,BCO AGIBANK S.A.,BCO AGIBANK S.A.,10664513000150,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/04/2012,RSFN,Não
 10690848,Banco da China Brasil S.A.,BCO DA CHINA BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/07/2009,RSFN,Sim
 10736214,COOP SICREDI PLAN CENTRAL,COOP SICREDI PLAN CENTRAL,10736214000184,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-10789035,ATTRUS IP S/A,ATTRUS IP S/A,10789035000105,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
+10789035,ATTRUS IP S/A,ATTRUS IP S/A,10789035000105,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/05/2026,RSFN,Não
 10808037,CC EMPRESÁRIOS DE MANAUS,CC EMPRESÁRIOS DE MANAUS,10808037000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10853017,Get Money Corretora de Câmbio S.A.,GET MONEY CC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/07/2014,Internet,Não
 10866788,Banco Bandepe S.A.,BCO BANDEPE S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
