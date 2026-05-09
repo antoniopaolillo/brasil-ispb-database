@@ -12853,8 +12853,8 @@
   },
   {
     "ispb": "36741675",
-    "nome_completo": "CORPX IP",
-    "nome_reduzido": "CORPX IP",
+    "nome_completo": "CORPAG IP",
+    "nome_reduzido": "CORPAG IP",
     "cnpj": "36741675000139",
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Não",
@@ -20323,8 +20323,8 @@
   },
   {
     "ispb": "97259253",
-    "nome_completo": "CECM MÉDICOS PLANALTO MÉDIO RS - CREDISIS/CREDIPLAN",
-    "nome_reduzido": "CECM MÉDICOS PLANALTO MÉDIO RS - CREDISIS/CREDIPLAN",
+    "nome_completo": "CREDISIS CREDIPLAN - COOP DE CRÉD DE LIVRE ADMISSÃO DO PLANA",
+    "nome_reduzido": "CREDISIS CREDIPLAN - COOP DE CRÉD DE LIVRE ADMISSÃO DO PLANA",
     "cnpj": "97259253000116",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
