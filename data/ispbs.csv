@@ -279,7 +279,7 @@
 05463212,COOPCENTRAL AILOS,COOPCENTRAL AILOS,05463212000129,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,17/05/2010,RSFN,Sim
 05463934,CC CREDLIDER,CC CREDLIDER,05463934000183,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 05477038,CC NO PIAUÍ - SICOOB PIAUÍ,CC NO PIAUÍ - SICOOB PIAUÍ,05477038000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-05491616,"COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS - EM LIQUIDAÇÃO EXTRAJUDICIAL",COOP CREDITAG - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/02/2021,RSFN,Não
+05491616,"COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS - EM LIQUIDAÇÃO EXTRAJUDICIAL",COOP CREDITAG - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/02/2021,Internet,Não
 05494591,COOP CRESOL NASCENTE,COOP CRESOL NASCENTE,05494591000114,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 05545390,COOP SICREDI LENÇÓIS,COOP SICREDI LENÇÓIS,05545390000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 05582619,CC SICOOB OURO VERDE,CC SICOOB OURO VERDE,05582619000175,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -419,7 +419,7 @@
 10866788,Banco Bandepe S.A.,BCO BANDEPE S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 10868663,ACG IP S.A.,ACG IP S.A.,10868663000186,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 11165756,GLOBAL SCM LTDA,GLOBAL SCM LTDA,11165756000107,Sociedade de Crédito ao Microempreendedor,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,13/10/2020,RSFN,Não
-11275560,RECARGAPAY IP LTDA.,RECARGAPAY IP LTDA.,11275560000175,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
+11275560,RECARGAPAY IP LTDA.,RECARGAPAY IP LTDA.,11275560000175,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
 11285104,"NEON FINANCEIRA - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A",NEON FINANCEIRA - SCFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/05/2021,RSFN,Não
 11351086,MERCADO BITCOIN IP LTDA,MERCADO BITCOIN IP LTDA,11351086000113,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/04/2024,RSFN,Não
 11414839,EAGLE INSTITUICAO DE PAGAMENTO LTDA.,EAGLE IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,30/09/2024,RSFN,Não
