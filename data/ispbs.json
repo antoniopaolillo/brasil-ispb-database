@@ -10976,7 +10976,7 @@
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Sim",
-    "facilitador_saque": "Não",
+    "facilitador_saque": "Sim",
     "fonte_dados": "PIX+STR"
   },
   {
