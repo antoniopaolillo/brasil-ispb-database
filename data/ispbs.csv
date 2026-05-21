@@ -447,7 +447,6 @@
 13486793,BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.,BRL TRUST DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/11/2016,RSFN,Não
 13673855,OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A,OSLO CAPITAL DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/09/2019,RSFN,Não
 13720915,BCO WESTERN UNION,BCO WESTERN UNION,13720915000113,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/10/2011,RSFN,Não
-13776742,RENDIMENTOPAY IP S.A,RENDIMENTOPAY IP S.A,13776742000155,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 13884775,MAGALUPAY,MAGALUPAY,13884775000119,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,13/08/2020,RSFN,Não
 13935893,CELCOIN IP S.A.,CELCOIN IP S.A.,13935893000109,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,23/01/2023,RSFN,Não
 13966572,CAPPTA IP S.A.,CAPPTA IP S.A.,13966572000171,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -811,6 +810,7 @@
 44077014,BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,BR-CAPITAL DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/06/2021,RSFN,Não
 44189447,Banco de La Provincia de Buenos Aires,BCO LA PROVINCIA B AIRES BCE,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 44292580,HR DIGITAL SCD,HR DIGITAL SCD,44292580000103,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/02/2023,RSFN,Não
+44323831,ATUAL SOCIEDADE CORRETORA DE CÂMBIO LTDA,ATUAL CC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/05/2026,Internet,Não
 44373041,COOP UNIPRIME CREDICANA,COOP UNIPRIME CREDICANA,44373041000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 44469161,COOP SICOOB PRO,COOP SICOOB PRO,44469161000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 44478623,ATICCA SCD S.A.,ATICCA SCD S.A.,44478623000140,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,06/02/2023,RSFN,Não
@@ -929,6 +929,7 @@
 60850229,OMNI BANCO S.A.,OMNI BANCO S.A.,60850229000147,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 60889128,BCO SOFISA S.A.,BCO SOFISA S.A.,60889128000180,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 60934221,Câmara de Câmbio B3,Câmbio B3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
+61021673,"MAGALUPAY - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",MAGALUPAY SCFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/05/2026,Internet,Não
 61024352,BANCO PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,BM PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,Internet,Não
 61033106,BCO CREFISA S.A.,BCO CREFISA S.A.,61033106000186,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/11/2005,RSFN,Sim
 61088183,Banco Mizuho do Brasil S.A.,BCO MIZUHO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
