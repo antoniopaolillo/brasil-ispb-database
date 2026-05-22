@@ -447,6 +447,7 @@
 13486793,BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.,BRL TRUST DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/11/2016,RSFN,Não
 13673855,OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A,OSLO CAPITAL DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/09/2019,RSFN,Não
 13720915,BCO WESTERN UNION,BCO WESTERN UNION,13720915000113,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/10/2011,RSFN,Não
+13776742,RENDIMENTOPAY IP S.A,RENDIMENTOPAY IP S.A,13776742000155,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
 13884775,MAGALUPAY,MAGALUPAY,13884775000119,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,13/08/2020,RSFN,Não
 13935893,CELCOIN IP S.A.,CELCOIN IP S.A.,13935893000109,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,23/01/2023,RSFN,Não
 13966572,CAPPTA IP S.A.,CAPPTA IP S.A.,13966572000171,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -454,7 +455,7 @@
 14388334,PARANA BCO S.A.,PARANA BCO S.A.,14388334000199,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 14511781,BARI COMPANHIA HIPOTECÁRIA,BARI CIA HIPOTECÁRIA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/12/2017,Internet,Não
 14568725,COOPCENTRAL DE ECON. E CRÉDITO SICOOB UNIMAIS RIO LTDA.,COOPCENTRAL DE ECON. E CRÉDITO SICOOB UNIMAIS RIO LTDA.,14568725000195,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-14615234,MAPBANK,MAPBANK,14615234000158,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+14615234,TERPAN IP LTDA,TERPAN IP LTDA,14615234000158,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 14796606,ADYEN DO BRASIL IP LTDA.,ADYEN DO BRASIL IP LTDA.,14796606000190,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
 14821124,TARGET BANK,TARGET BANK,14821124000142,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 14913919,CC MERCADO IMOBILIÁRIO - SICOOB IMOB.VC,CC MERCADO IMOBILIÁRIO - SICOOB IMOB.VC,14913919000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -581,7 +582,7 @@
 26960328,CCLA DO TOCANTINS,CCLA DO TOCANTINS,26960328000143,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 27084098,TRANSFEERA IP S.A.,TRANSFEERA IP S.A.,27084098000169,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/05/2024,RSFN,Não
 27098060,BANCO DIGIO,BANCO DIGIO,27098060000145,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/11/2019,RSFN,Não
-27126513,ARQ,ARQ,27126513000108,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+27126513,ATLAS BRASIL IP LTDA.,ATLAS BRASIL IP LTDA.,27126513000108,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 27214112,AL5 S.A. SCFI,AL5 S.A. SCFI,27214112000100,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,24/10/2019,RSFN,Não
 27302181,CRED.UFES,CRED.UFES,27302181000167,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,26/04/2021,RSFN,Não
 27351731,"REALIZE SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",REALIZE SCFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/09/2020,RSFN,Não
