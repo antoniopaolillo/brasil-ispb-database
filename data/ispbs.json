@@ -19332,24 +19332,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "83315408",
-    "nome_completo": "COOP SICREDI NORTE",
-    "nome_reduzido": "COOP SICREDI NORTE",
-    "cnpj": "83315408000180",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "83836114",
     "nome_completo": "CCLA DO ESTADO DO PARÁ - SICOOB COOESA",
     "nome_reduzido": "CCLA DO ESTADO DO PARÁ - SICOOB COOESA",
