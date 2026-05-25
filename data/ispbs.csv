@@ -357,7 +357,6 @@
 08240446,CCR DE IBIAM,CCR DE IBIAM,08240446000103,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,10/07/2020,RSFN,Não
 08253539,COOP SULCREDI AMPLEA,COOP SULCREDI AMPLEA,08253539000164,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,24/04/2018,RSFN,Não
 08357240,BCO CSF S.A.,BCO CSF S.A.,08357240000150,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/05/2020,RSFN,Não
-08422119,BULLLA IP S.A.,BULLLA IP S.A.,08422119000164,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 08482873,CCR DO AGRESTE ALAGOANO,CCR DO AGRESTE ALAGOANO,08482873000190,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/03/2025,RSFN,Não
 08488377,COOP CRESOL MISSÕES FRONTEIRA RS,COOP CRESOL MISSÕES FRONTEIRA RS,08488377000143,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 08560508,COOP CRESOL TRIUNFO,COOP CRESOL TRIUNFO,08560508000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -713,7 +712,6 @@
 36583700,"QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",QISTA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2022,RSFN,Não
 36586946,BONUSPAGO SCD S.A.,BONUSPAGO SCD S.A.,36586946000129,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/10/2020,RSFN,Não
 36690516,PAY IP S.A.,PAY IP S.A.,36690516000152,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/04/2025,RSFN,Não
-36741675,CORPAG IP,CORPAG IP,36741675000139,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36864992,MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,MAF DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/07/2022,RSFN,Não
 36900256,UNICRED RAÍZES,UNICRED RAÍZES,36900256000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36947229,COBUCCIO S.A. SCFI,COBUCCIO S.A. SCFI,36947229000185,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Liquidante Especial,Não,nan,03/12/2020,RSFN,Não
@@ -730,7 +728,7 @@
 37442605,COOP SICREDI GRANDES RIOS,COOP SICREDI GRANDES RIOS,37442605000142,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37470405,SMART SOLUTIONS GROUP IP LTDA,SMART SOLUTIONS GROUP IP LTDA,37470405000101,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/10/2024,RSFN,Não
 37511258,INOVANTI IP S.A.,INOVANTI IP S.A.,37511258000162,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-37526080,LEND SOCIEDADE DE CRÉDITO DIRETO S.A.,LEND SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/03/2021,RSFN,Não
+37526080,LEND SCD S.A.,LEND SCD S.A.,37526080000123,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,25/03/2021,RSFN,Não
 37554441,COOP SICOOB UNI SUL MS,COOP SICOOB UNI SUL MS,37554441000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37555231,DM SOCIEDADE DE CRÉDITO DIRETO S.A.,DM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/10/2021,RSFN,Não
 37631058,CCLA DE PALMEIRAS E REGIÃO,CCLA DE PALMEIRAS E REGIÃO,37631058000143,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
