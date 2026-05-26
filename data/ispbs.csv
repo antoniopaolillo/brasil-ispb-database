@@ -357,6 +357,7 @@
 08240446,CCR DE IBIAM,CCR DE IBIAM,08240446000103,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,10/07/2020,RSFN,Não
 08253539,COOP SULCREDI AMPLEA,COOP SULCREDI AMPLEA,08253539000164,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,24/04/2018,RSFN,Não
 08357240,BCO CSF S.A.,BCO CSF S.A.,08357240000150,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/05/2020,RSFN,Não
+08422119,BULLLA IP S.A.,BULLLA IP S.A.,08422119000164,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 08482873,CCR DO AGRESTE ALAGOANO,CCR DO AGRESTE ALAGOANO,08482873000190,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/03/2025,RSFN,Não
 08488377,COOP CRESOL MISSÕES FRONTEIRA RS,COOP CRESOL MISSÕES FRONTEIRA RS,08488377000143,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 08560508,COOP CRESOL TRIUNFO,COOP CRESOL TRIUNFO,08560508000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -896,7 +897,7 @@
 55230916,Intesa Sanpaolo Brasil S.A. - Banco Múltiplo,INTESA SANPAOLO BRASIL S.A. BM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/05/2015,RSFN,Não
 55428859,FREEX SOCIEDADE CORRETORA DE CÂMBIO S.A.,FREEX SCC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/09/2024,Internet,Não
 55823094,DELTA GLOBAL SCD S.A.,DELTA GLOBAL SCD S.A.,55823094000190,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,17/04/2025,RSFN,Não
-56106523,VUE INSTITUIÇÃO DE PAGAMENTO S.A.,VUE IP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2025,RSFN,Não
+56106523,VUE IP S.A.,VUE IP S.A.,56106523000171,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,28/07/2025,RSFN,Não
 56198117,SQUID SCD S.A.,SQUID SCD S.A.,56198117000186,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,27/06/2025,RSFN,Não
 56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
 57030391,NDD IP LTDA.,NDD IP LTDA.,57030391000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
