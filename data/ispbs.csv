@@ -405,7 +405,7 @@
 10348181,COOP SICREDI VALE LITORAL SC,COOP SICREDI VALE LITORAL SC,10348181000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Sim,,,
 10371492,Banco Yamaha Motor do Brasil S.A.,BCO YAMAHA MOTOR S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2022,RSFN,Não
 10398952,CRESOL CONFEDERAÇÃO,CRESOL CONFEDERAÇÃO,10398952000169,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,02/05/2016,RSFN,Sim
-10440482,GETNET ADQUIRÊNCIA E SERVIÇOS PARA MEIOS DE PAGAMENTO S.A. INSTITUIÇÃO DE PAGAMENTO,GETNET IP,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/08/2025,RSFN,Não
+10440482,GETNET IP,GETNET IP,10440482000154,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,13/08/2025,RSFN,Não
 10506341,BLU IP LTDA.,BLU IP LTDA.,10506341000197,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 10520232,COOP CRESOL AMAZONIA,COOP CRESOL AMAZONIA,10520232000124,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10573521,MERCADO PAGO IP LTDA.,MERCADO PAGO IP LTDA.,10573521000191,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,24/06/2019,RSFN,Não
@@ -607,7 +607,7 @@
 30498377,CSD CENTRAL DE SERVICOS DE REGISTRO E DEPOSITO AOS MERCADOS FINANCEIRO E DE CAPITAIS S.A.,CSDBR,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/02/2025,RSFN,Não
 30507541,BRASIL CASH IP S.A.,BRASIL CASH IP S.A.,30507541000171,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/03/2026,RSFN,Não
 30680829,"NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento",NU FINANCEIRA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/01/2021,RSFN,Não
-30723871,BANQI,BANQI,30723871000102,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/05/2025,RSFN,Não
+30723871,CASAS BAHIA PAY IP LTDA.,CASAS BAHIA PAY IP LTDA.,30723871000102,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/05/2025,RSFN,Não
 30944783,PAGPRIME IP,PAGPRIME IP,30944783000122,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,23/10/2023,Internet,Não
 30949267,CECME CHOCOLATES GAROTO LTDA,CECME CHOCOLATES GAROTO LTDA,30949267000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 30980539,OKTO IP,OKTO IP,30980539000115,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,nan,24/04/2023,RSFN,Não
@@ -713,6 +713,7 @@
 36583700,"QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",QISTA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2022,RSFN,Não
 36586946,BONUSPAGO SCD S.A.,BONUSPAGO SCD S.A.,36586946000129,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/10/2020,RSFN,Não
 36690516,PAY IP S.A.,PAY IP S.A.,36690516000152,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/04/2025,RSFN,Não
+36741675,CORPAG IP,CORPAG IP,36741675000139,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36864992,MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,MAF DTVM SA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/07/2022,RSFN,Não
 36900256,UNICRED RAÍZES,UNICRED RAÍZES,36900256000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36947229,COBUCCIO S.A. SCFI,COBUCCIO S.A. SCFI,36947229000185,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Liquidante Especial,Não,nan,03/12/2020,RSFN,Não
@@ -764,7 +765,6 @@
 40083667,CAPITAL CONSIG SCD S.A.,CAPITAL CONSIG SCD S.A.,40083667000110,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/12/2021,RSFN,Não
 40112555,GIRO - SOCIEDADE DE CRÉDITO DIRETO S/A,GIRO - SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/10/2024,Internet,Não
 40276692,PROTEGE CASH,PROTEGE CASH,40276692000110,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/09/2023,RSFN,Não
-40303299,PORTOPAR DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.,PORTOPAR DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/02/2019,RSFN,Não
 40333582,SAYGO CORRETORA DE CÂMBIO S.A.,SAYGO CÂMBIO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/08/2023,RSFN,Não
 40353377,FOURTRADE CORRETORA DE CÂMBIO LTDA.,FOURTRADE COR. DE CAMBIO LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,19/02/2024,RSFN,Não
 40434681,AZUMI DISTRIBUIDORA DE TíTULOS E VALORES MOBILIáRIOS LTDA.,AZUMI DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/12/2021,RSFN,Não
