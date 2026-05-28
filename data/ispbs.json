@@ -12204,24 +12204,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "33930368",
-    "nome_completo": "7TRUST FINANCE IP S.A.",
-    "nome_reduzido": "7TRUST FINANCE IP S.A.",
-    "cnpj": "33930368000108",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "33959738",
     "nome_completo": "MOVA SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.",
     "nome_reduzido": "MOVA SEP S.A.",
@@ -13876,24 +13858,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
-  },
-  {
-    "ispb": "40478262",
-    "nome_completo": "PAGSTAR IP S.A.",
-    "nome_reduzido": "PAGSTAR IP S.A.",
-    "cnpj": "40478262000180",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
   },
   {
     "ispb": "40557732",
