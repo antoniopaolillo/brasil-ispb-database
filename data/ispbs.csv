@@ -205,6 +205,7 @@
 04013172,CC SICOOB 3 COLINAS,CC SICOOB 3 COLINAS,04013172000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04062902,OZ CORRETORA DE CÂMBIO S.A.,OZ CORRETORA DE CÂMBIO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/02/2019,RSFN,Não
 04079285,CCLA DE ITAJUBÁ - SICOOB SUDESTE MAIS,CCLA DE ITAJUBÁ - SICOOB SUDESTE MAIS,04079285000159,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+04088208,SEM PARAR IP,SEM PARAR IP,04088208000165,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 04120633,SICOOB EMPRESAS RJ,SICOOB EMPRESAS RJ,04120633000194,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04152107,CECM SERV POL MIL SP REGIÃO CE,CECM SERV POL MIL SP REGIÃO CE,04152107000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04174720,CC SICOOB COOPEMAR,CC SICOOB COOPEMAR,04174720000124,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -851,7 +852,7 @@
 49288113,KANASTRA CFI,KANASTRA CFI,49288113000123,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/09/2023,RSFN,Não
 49389307,CC COOPLIVRE,CC COOPLIVRE,49389307000115,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 49555647,QUADRA SOCIEDADE DE CRÉDITO DIRETO S.A.,QUADRA SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/11/2023,Internet,Não
-49686505,WASU IP LTDA.,WASU IP LTDA.,49686505000140,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
+49686505,WASU IP LTDA.,WASU IP LTDA.,49686505000140,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,05/06/2026,RSFN,Não
 49931906,TRIO IP LTDA.,TRIO IP LTDA.,49931906000119,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,01/08/2024,RSFN,Não
 49933388,BRCONDOS SCD S.A.,BRCONDOS SCD S.A.,49933388000172,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/12/2023,RSFN,Não
 50032584,LOAN BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.,LOAN BRASIL SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/01/2026,Internet,Não

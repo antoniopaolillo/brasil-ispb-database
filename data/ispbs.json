@@ -3708,6 +3708,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "04088208",
+    "nome_completo": "SEM PARAR IP",
+    "nome_reduzido": "SEM PARAR IP",
+    "cnpj": "04088208000165",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "04120633",
     "nome_completo": "SICOOB EMPRESAS RJ",
     "nome_reduzido": "SICOOB EMPRESAS RJ",
@@ -15343,15 +15361,15 @@
     "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
-    "participa_str": "Não",
+    "participa_str": "Sim",
     "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
+    "data_inicio_operacao": "05/06/2026",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "49931906",
