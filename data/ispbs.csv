@@ -472,7 +472,7 @@
 16695922,ID CTVM,ID CTVM,16695922000109,Sociedade Corretora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/09/2021,RSFN,Não
 16721078,CECMF SECRETARIA DA FAZENDA MG E LIVRE ADMISSÃO,CECMF SECRETARIA DA FAZENDA MG E LIVRE ADMISSÃO,16721078000135,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 16779741,COOP V. ALTO VALE,COOP V. ALTO VALE,16779741000152,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-16814330,BK IP S.A.,BK IP S.A.,16814330000150,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,02/04/2025,RSFN,Não
+16814330,BK INSTITUIÇÃO DE PAGAMENTO S.A.,BK IP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/04/2025,RSFN,Não
 16876258,APTARE,APTARE,16876258000196,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 16944141,Broker Brasil Corretora de Câmbio Ltda.,BROKER BRASIL CC LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2015,RSFN,Não
 17028875,MAGEN IP,MAGEN IP,17028875000102,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -656,7 +656,6 @@
 33370115,FURNAS,FURNAS,33370115000127,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33416108,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,COOPCENTRAL SICOOB NOVA CENTRAL LTDA.,33416108000119,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33423888,VILLELA IP S.A.,VILLELA IP S.A.,33423888000124,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-33440218,CEOPAG IP,CEOPAG IP,33440218000116,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33449007,EMPRESA DE BENEFÍCIOS IP LTDA.,EMPRESA DE BENEFÍCIOS IP LTDA.,33449007000144,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 33466988,Banco Caixa Geral - Brasil S.A.,BCO CAIXA GERAL BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,31/03/2009,RSFN,Não
 33479023,BCO CITIBANK S.A.,BCO CITIBANK S.A.,33479023000180,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
@@ -728,7 +727,7 @@
 37395399,CCLA CENTRO BRASILEIRA LTDA.,CCLA CENTRO BRASILEIRA LTDA.,37395399000167,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37414009,ZIPDIN SOLUÇÕES DIGITAIS SOCIEDADE DE CRÉDITO DIRETO S/A,ZIPDIN SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/08/2021,RSFN,Não
 37442605,COOP SICREDI GRANDES RIOS,COOP SICREDI GRANDES RIOS,37442605000142,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-37470405,SMART SOLUTIONS GROUP IP LTDA,SMART SOLUTIONS GROUP IP LTDA,37470405000101,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/10/2024,RSFN,Não
+37470405,SMART SOLUTIONS GROUP INSTITUICAO DE PAGAMENTO LTDA,SMART SOLUTIONS GROUP IP LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/10/2024,RSFN,Não
 37511258,INOVANTI IP S.A.,INOVANTI IP S.A.,37511258000162,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 37526080,LEND SCD S.A.,LEND SCD S.A.,37526080000123,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,25/03/2021,RSFN,Não
 37554441,COOP SICOOB UNI SUL MS,COOP SICOOB UNI SUL MS,37554441000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -741,7 +740,6 @@
 37763847,GERU SCD S.A.,GERU SCD S.A.,37763847000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 37839059,OWEM PAY,OWEM PAY,37839059000188,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37880206,CORA SCFI,CORA SCFI,37880206000163,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,29/09/2020,RSFN,Não
-37911077,YAW IP S.A.,YAW IP S.A.,37911077000123,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 38129006,NUMBRS SCD S.A.,NUMBRS SCD S.A.,38129006000136,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/03/2021,RSFN,Não
 38224857,DELFINANCE SCD S.A.,DELFINANCE SCD S.A.,38224857000168,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,27/08/2021,RSFN,Sim
 38297374,NUVENDE,NUVENDE,38297374000193,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
