@@ -211,7 +211,7 @@
 04174720,CC SICOOB COOPEMAR,CC SICOOB COOPEMAR,04174720000124,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04181542,CCLA DE PITANGUI E REGIAO LTDA,CCLA DE PITANGUI E REGIAO LTDA,04181542000169,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04184779,Banco Bradescard S.A.,BANCO BRADESCARD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
-04237413,COOP SICREDI VALE DO SÃO FRANCISCO PE,COOP SICREDI VALE DO SÃO FRANCISCO PE,04237413000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+04237413,COOP SICREDI NATIVA PE/BA,COOP SICREDI NATIVA PE/BA,04237413000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04243780,CENTRAL SICOOB UNI DE CC,CENTRAL SICOOB UNI DE CC,04243780000151,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04247370,CC DE EMPRESÁRIOS,CC DE EMPRESÁRIOS,04247370000189,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04257795,Nova Futura Corretora de Títulos e Valores Mobiliários Ltda.,NOVA FUTURA CTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/06/2017,RSFN,Não
@@ -673,7 +673,6 @@
 33775974,"ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES",ATIVA S.A. INVESTIMENTOS CCTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2017,RSFN,Não
 33862244,BGC LIQUIDEZ DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,BGC LIQUIDEZ DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/07/2014,RSFN,Não
 33884941,BANCO MASTER MÚLTIPLO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO MASTER MÚLTIPLO - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/09/2024,RSFN,Não
-33885724,Banco Itaú Consignado S.A.,BANCO ITAÚ CONSIGNADO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 33886862,"MASTER S/A CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS - EM LIQUIDAÇÃO EXTRAJUDICIAL",MASTER S/A CCTVM - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2021,RSFN,Não
 33923798,BANCO MASTER S/A - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO MASTER - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 33924028,SICOOB COOPVALE,SICOOB COOPVALE,33924028000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -953,6 +952,7 @@
 62448932,MULTIPLIKE FINANCEIRA S.A. SCFI,MULTIPLIKE FINANCEIRA S.A. SCFI,62448932000159,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,20/02/2026,RSFN,Não
 62673470,CC SICOOB COOPMIL,CC SICOOB COOPMIL,62673470000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 62931522,CCC ESTADO SP - CECRESP,CCC ESTADO SP - CECRESP,62931522000164,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+63019146,"J17 - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",J17 CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/06/2026,RSFN,Não
 63917579,CCC DO ESTADO DE SÃO PAULO,CCC DO ESTADO DE SÃO PAULO,63917579000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 64237530,CC CREDIUNA LTDA,CC CREDIUNA LTDA,64237530000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 64276058,CC CREDINORTE - SICOOB CREDINORTE,CC CREDINORTE - SICOOB CREDINORTE,64276058000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -1002,7 +1002,7 @@
 71441406,CCLA PEDRO LEOPOLDO,CCLA PEDRO LEOPOLDO,71441406000158,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71506513,CC SICOOB ITAPAGIPE,CC SICOOB ITAPAGIPE,71506513000117,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71590442,Lastro RDV Distribuidora de Títulos e Valores Mobiliários Ltda.,LASTRO RDV DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/09/2018,Internet,Não
-71677850,FRENTE SOCIEDADE CORRETORA DE CÂMBIO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,FRENTE SCC S.A - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/09/2018,RSFN,Não
+71677850,FRENTE SOCIEDADE CORRETORA DE CÂMBIO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,FRENTE SCC S.A - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/09/2018,Internet,Não
 71698674,COOP SICOOB MANTIQUEIRA,COOP SICOOB MANTIQUEIRA,71698674000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71884498,UNICRED DO ESTADO DE SÃO PAULO,UNICRED DO ESTADO DE SÃO PAULO,71884498000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 72128440,COOP SICREDI RIO RJ,COOP SICREDI RIO RJ,72128440000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
