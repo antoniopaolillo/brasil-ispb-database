@@ -12420,24 +12420,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "34878543",
-    "nome_completo": "CLARO PAY S.A. IP",
-    "nome_reduzido": "CLARO PAY S.A. IP",
-    "cnpj": "34878543000128",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "35136120",
     "nome_completo": "BITSO IP LTDA",
     "nome_reduzido": "BITSO IP LTDA",
@@ -15763,7 +15745,7 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Etapa Homologatória",
+    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
