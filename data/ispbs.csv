@@ -498,7 +498,7 @@
 18639407,E2E PAY INSTITUICAO DE PAGAMEN,E2E PAY INSTITUICAO DE PAGAMEN,18639407000129,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 18684408,AZIMUT BRASIL DTVM LTDA,AZIMUT BRASIL DTVM LTDA,18684408000195,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/01/2024,RSFN,Não
 18966739,CC COPERSUL LTDA,CC COPERSUL LTDA,18966739000118,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-19307785,BRAZA BANK S.A. BANCO DE CÂMBIO,BRAZA BANK S.A. BCO DE CÂMBIO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/04/2015,RSFN,Não
+19307785,BRAZA BANK S.A. BCO DE CÂMBIO,BRAZA BANK S.A. BCO DE CÂMBIO,19307785000178,Banco de Câmbio,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,27/04/2015,RSFN,Não
 19324634,LAMARA SOCIEDADE DE CRÉDITO DIRETO S.A.,LAMARA SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/04/2021,Internet,Não
 19402130,CECM EMPR EST HOSP BH RM ZM,CECM EMPR EST HOSP BH RM ZM,19402130000189,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 19449602,CC CREDCOOPER LTDA,CC CREDCOOPER LTDA,19449602000159,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -774,7 +774,6 @@
 40768766,LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,LIONS TRUST DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 40820176,PAY BROKERS IP,PAY BROKERS IP,40820176000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 40910463,BIPA INSTITUICAO DE PAGAMENTO,BIPA INSTITUICAO DE PAGAMENTO,40910463000105,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-41146382,COOPERLEGIS,COOPERLEGIS,41146382000143,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 41180092,COOP SICREDI EXPANSÃO,COOP SICREDI EXPANSÃO,41180092000116,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 41255225,COOP SICREDI CENTRO PERNAMBUCANA,COOP SICREDI CENTRO PERNAMBUCANA,41255225000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 41538335,CLARA IP,CLARA IP,41538335000145,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -895,13 +894,13 @@
 56106523,VUE IP S.A.,VUE IP S.A.,56106523000171,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,28/07/2025,RSFN,Não
 56198117,SQUID SCD S.A.,SQUID SCD S.A.,56198117000186,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,27/06/2025,RSFN,Não
 56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
-57030391,NDD IP LTDA.,NDD IP LTDA.,57030391000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
+57030391,NDD IP LTDA.,NDD IP LTDA.,57030391000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 57563728,CECME EMPR EMP GR ECON RHODIA,CECME EMPR EMP GR ECON RHODIA,57563728000149,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 57654096,APUSDIGITAL INSTITUICAO DE PAGAMENTO LTDA,APUSDIGITAL IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/05/2026,RSFN,Não
 57824223,WX IP LTDA.,WX IP LTDA.,57824223000190,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/10/2025,Internet,Não
 57839805,Banco Tricury S.A.,BCO TRICURY S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/08/2013,RSFN,Sim
-58006471,BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,BARU DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/04/2026,Internet,Não
+58006471,BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,BARU DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/04/2026,RSFN,Não
 58022195,CECM EMPR EMP ZILLO LORENZETTI,CECM EMPR EMP ZILLO LORENZETTI,58022195000150,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 58160789,BCO SAFRA S.A.,BCO SAFRA S.A.,58160789000128,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 58367961,BIT SOCIEDADE DE CRÉDITO DIRETO S.A.,BIT SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/07/2025,RSFN,Não
