@@ -11971,10 +11971,10 @@
   },
   {
     "ispb": "33641877",
-    "nome_completo": "EQUIS BANK",
-    "nome_reduzido": "EQUIS BANK",
+    "nome_completo": "EQUIS IP LTDA.",
+    "nome_reduzido": "EQUIS IP LTDA.",
     "cnpj": "33641877000110",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
+    "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Não",
     "participa_pix": "Sim",
     "participa_str": "Não",
