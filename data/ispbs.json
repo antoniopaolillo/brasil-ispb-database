@@ -9378,24 +9378,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "21041840",
-    "nome_completo": "PPRO BRASIL",
-    "nome_reduzido": "PPRO BRASIL",
-    "cnpj": "21041840000172",
-    "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "21332862",
     "nome_completo": "CARTOS SCD S.A.",
     "nome_reduzido": "CARTOS SCD S.A.",
