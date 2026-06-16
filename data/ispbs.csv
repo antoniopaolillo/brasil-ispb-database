@@ -355,7 +355,7 @@
 08055016,COOP CRESOL INTERAÇÃO,COOP CRESOL INTERAÇÃO,08055016000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 08071414,CECM SICOOB COOPERAC,CECM SICOOB COOPERAC,08071414000113,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 08075352,COOP TRANSPOCRED,COOP TRANSPOCRED,08075352000118,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-08240446,CCR DE IBIAM,CCR DE IBIAM,08240446000103,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,10/07/2020,RSFN,Não
+08240446,CCR DE IBIAM,CCR DE IBIAM,08240446000103,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,10/07/2020,Internet,Não
 08253539,COOP SULCREDI AMPLEA,COOP SULCREDI AMPLEA,08253539000164,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,24/04/2018,RSFN,Não
 08357240,BCO CSF S.A.,BCO CSF S.A.,08357240000150,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/05/2020,RSFN,Não
 08422119,BULLLA IP S.A.,BULLLA IP S.A.,08422119000164,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
@@ -625,6 +625,7 @@
 32062580,BANCO UBS (BRASIL) S.A.,BCO UBS BRASIL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 32074986,BEETELLER IP LTDA.,BEETELLER IP LTDA.,32074986000130,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,11/09/2023,RSFN,Não
 32192325,UZZIPAY IP S.A.,UZZIPAY IP S.A.,32192325000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,13/09/2023,RSFN,Não
+32223020,FLASH IP LTDA.,FLASH IP LTDA.,32223020000118,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 32246162,AIBR IP LTDA.,AIBR IP LTDA.,32246162000109,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32343119,MÊNTORE IP S.A.,MÊNTORE IP S.A.,32343119000153,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32345784,C6 CTVM LTDA.,C6 CTVM LTDA.,32345784000186,Sociedade Corretora de TVM,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
