@@ -868,6 +868,7 @@
 52440987,SANTS SCD S.A.,SANTS SCD S.A.,52440987000169,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/06/2024,RSFN,Não
 52586293,Z-ON SCD S.A.,Z-ON SCD S.A.,52586293000134,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/10/2024,RSFN,Não
 52833288,LB PAY IP LTDA,LB PAY IP LTDA,52833288000189,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,26/09/2025,Internet,Não
+53058329,LA FINTECA INSTITUICAO DE PAGAMENTO LTDA,LA FINTECA IP LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,29/06/2026,RSFN,Não
 53505601,"STONE SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",STONE CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,18/03/2025,RSFN,Não
 53518684,BCO HSBC S.A.,BCO HSBC S.A.,53518684000184,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/02/2018,RSFN,Não
 53575491,COOP CRESOL PRIMATO CREDI,COOP CRESOL PRIMATO CREDI,53575491000165,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
@@ -1123,4 +1124,4 @@
 95424891,COOP SICREDI VALE DO RIO PARDO,COOP SICREDI VALE DO RIO PARDO,95424891000110,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 95594941,COOP SICREDI REG CENTRO RS/MG,COOP SICREDI REG CENTRO RS/MG,95594941000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 97259253,CREDISIS CREDIPLAN - COOP DE CRÉD DE LIVRE ADMISSÃO DO PLANA,CREDISIS CREDIPLAN - COOP DE CRÉD DE LIVRE ADMISSÃO DO PLANA,97259253000116,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-97489280,COOP SICREDI INTEGRAÇÃO BAHIA,COOP SICREDI INTEGRAÇÃO BAHIA,97489280000185,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+97489280,COOP SICREDI INTEGRAÇÃO BAHIA - BA,COOP SICREDI INTEGRAÇÃO BAHIA - BA,97489280000185,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,

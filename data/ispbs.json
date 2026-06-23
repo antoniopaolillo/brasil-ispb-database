@@ -15642,6 +15642,24 @@
     "fonte_dados": "PIX+STR"
   },
   {
+    "ispb": "53058329",
+    "nome_completo": "LA FINTECA INSTITUICAO DE PAGAMENTO LTDA",
+    "nome_reduzido": "LA FINTECA IP LTDA",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "29/06/2026",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
+  },
+  {
     "ispb": "53505601",
     "nome_completo": "STONE SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
     "nome_reduzido": "STONE CFI S.A.",
@@ -20233,8 +20251,8 @@
   },
   {
     "ispb": "97489280",
-    "nome_completo": "COOP SICREDI INTEGRAÇÃO BAHIA",
-    "nome_reduzido": "COOP SICREDI INTEGRAÇÃO BAHIA",
+    "nome_completo": "COOP SICREDI INTEGRAÇÃO BAHIA - BA",
+    "nome_reduzido": "COOP SICREDI INTEGRAÇÃO BAHIA - BA",
     "cnpj": "97489280000185",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
