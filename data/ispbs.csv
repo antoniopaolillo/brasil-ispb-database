@@ -517,7 +517,7 @@
 20443996,"BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",BECKER FINANCEIRA SA - CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/08/2025,RSFN,Não
 20520298,BS2 PAYMENTS IP S.A.,BS2 PAYMENTS IP S.A.,20520298000178,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 20757199,PAY4FUN IP S.A.,PAY4FUN IP S.A.,20757199000104,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2023,RSFN,Não
-20833992,CC MECUNP,CC MECUNP,20833992000145,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/09/2025,RSFN,Não
+20833992,COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA,CC MECUNP,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/09/2025,RSFN,Não
 20855875,NEON PAGAMENTOS S.A. IP,NEON PAGAMENTOS S.A. IP,20855875000182,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,12/01/2023,RSFN,Não
 21018182,EBANX IP LTDA.,EBANX IP LTDA.,21018182000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,09/07/2020,RSFN,Não
 21332862,CARTOS SCD S.A.,CARTOS SCD S.A.,21332862000191,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,16/09/2020,RSFN,Não
@@ -773,7 +773,7 @@
 40735713,JRM2,JRM2,40735713000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 40768766,LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,LIONS TRUST DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 40820176,PAY BROKERS IP,PAY BROKERS IP,40820176000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-40910463,BIPA INSTITUICAO DE PAGAMENTO,BIPA INSTITUICAO DE PAGAMENTO,40910463000105,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+40910463,BIPA IP,BIPA IP,40910463000105,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 41180092,COOP SICREDI EXPANSÃO,COOP SICREDI EXPANSÃO,41180092000116,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 41255225,COOP SICREDI CENTRO PERNAMBUCANA,COOP SICREDI CENTRO PERNAMBUCANA,41255225000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 41538335,CLARA IP,CLARA IP,41538335000145,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -873,7 +873,7 @@
 53518684,BCO HSBC S.A.,BCO HSBC S.A.,53518684000184,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/02/2018,RSFN,Não
 53575491,COOP CRESOL PRIMATO CREDI,COOP CRESOL PRIMATO CREDI,53575491000165,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
 53623781,CC COOPCRED,CC COOPCRED,53623781000137,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-53720128,CONTA SIMPLES SCD S.A.,CONTA SIMPLES SCD S.A.,53720128000196,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
+53720128,CONTA SIMPLES SCD S.A.,CONTA SIMPLES SCD S.A.,53720128000196,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,01/07/2026,RSFN,Não
 53776852,COOP CREDICENTRO,COOP CREDICENTRO,53776852000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53822116,MW IP LTDA.,MW IP LTDA.,53822116000172,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/10/2025,RSFN,Não
 53841911,CCI UNINDÚSTRIA,CCI UNINDÚSTRIA,53841911000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
