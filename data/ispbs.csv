@@ -166,7 +166,7 @@
 03311443,PARATI - CFI S.A.,PARATI - CFI S.A.,03311443000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,07/01/2020,RSFN,Não
 03320525,COOP ARACOOP LTDA. - SICOOB ARACOOP,COOP ARACOOP LTDA. - SICOOB ARACOOP,03320525000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03323840,Banco Alfa S.A.,BCO ALFA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-03326437,CCLA CENTRO NORTE MT/MS,CCLA CENTRO NORTE MT/MS,03326437000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+03326437,CCLA CENTRO NORTE MT/MS,CCLA CENTRO NORTE MT/MS,03326437000108,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03358914,SICOOB CREDIROCHAS,SICOOB CREDIROCHAS,03358914000117,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03412878,CC CREDIRAMA,CC CREDIRAMA,03412878000122,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03419786,CC NOSSA SENHORA DO DESTERRO,CC NOSSA SENHORA DO DESTERRO,03419786000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -921,6 +921,7 @@
 60746948,BCO BRADESCO S.A.,BCO BRADESCO S.A.,60746948000112,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 60779196,CREFISA S.A. CFI,CREFISA S.A. CFI,60779196000196,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 60814191,BANCO MERCEDES-BENZ DO BRASIL S.A.,BCO MERCEDES-BENZ S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/05/2020,RSFN,Não
+60849822,COOP CREDI COOPERALFA,COOP CREDI COOPERALFA,60849822000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 60850229,OMNI BANCO S.A.,OMNI BANCO S.A.,60850229000147,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Não
 60889128,BCO SOFISA S.A.,BCO SOFISA S.A.,60889128000180,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 60934221,Câmara de Câmbio B3,Câmbio B3,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
@@ -933,6 +934,7 @@
 61348538,BANCO C6 CONSIGNADO S.A.,BCO C6 CONSIG,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 61384004,AVENUE SECURITIES BANCO DE INVESTIMENTO S.A.,AVENUE SECURITIES BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,18/08/2022,RSFN,Não
 61533584,BANCO SOCIETE GENERALE BRASIL S.A.,BCO SOCIETE GENERALE BRASIL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
+61637240,GO SCD S.A.,GO SCD S.A.,61637240000196,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 61723847,NEON CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,NEON CTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/11/2011,RSFN,Não
 61747085,TULLETT PREBON BRASIL CORRETORA DE VALORES E CÂMBIO LTDA,TULLETT PREBON BRASIL CVC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/07/2013,RSFN,Não
 61809182,UBS (BRASIL) CORRETORA DE VALORES S.A.,UBS (BRASIL) CORRETORA DE VALORES S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/06/2011,RSFN,Não
@@ -948,7 +950,7 @@
 62287735,WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,WARREN RENA DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2010,RSFN,Não
 62331228,DEUTSCHE BANK S.A. - BANCO ALEMAO,DEUTSCHE BANK S.A.BCO ALEMAO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 62421979,BANCO BMG SOLUÇÕES FINANCEIRAS S.A.,BANCO BMG SOLUÇÕES FINANCEIRAS S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-62448932,MULTIPLIKE FINANCEIRA S.A. SCFI,MULTIPLIKE FINANCEIRA S.A. SCFI,62448932000159,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,20/02/2026,RSFN,Não
+62448932,MULTIPLIKE FINANCEIRA S.A. SCFI,MULTIPLIKE FINANCEIRA S.A. SCFI,62448932000159,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,20/02/2026,RSFN,Não
 62673470,CC SICOOB COOPMIL,CC SICOOB COOPMIL,62673470000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 62931522,CCC ESTADO SP - CECRESP,CCC ESTADO SP - CECRESP,62931522000164,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 63019146,"J17 - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",J17 CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/06/2026,RSFN,Não

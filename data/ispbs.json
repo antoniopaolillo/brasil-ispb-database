@@ -3011,7 +3011,7 @@
     "nome_reduzido": "CCLA CENTRO NORTE MT/MS",
     "cnpj": "03326437000108",
     "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
+    "autorizada_bcb": "Não",
     "participa_pix": "Sim",
     "participa_str": "Não",
     "status_operacional": "",
@@ -16596,6 +16596,24 @@
     "fonte_dados": "STR"
   },
   {
+    "ispb": "60849822",
+    "nome_completo": "COOP CREDI COOPERALFA",
+    "nome_reduzido": "COOP CREDI COOPERALFA",
+    "cnpj": "60849822000173",
+    "tipo_instituicao": "Cooperativa de Crédito",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "60850229",
     "nome_completo": "OMNI BANCO S.A.",
     "nome_reduzido": "OMNI BANCO S.A.",
@@ -16810,6 +16828,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "STR"
+  },
+  {
+    "ispb": "61637240",
+    "nome_completo": "GO SCD S.A.",
+    "nome_reduzido": "GO SCD S.A.",
+    "cnpj": "61637240000196",
+    "tipo_instituicao": "Sociedade de Crédito Direto",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
   },
   {
     "ispb": "61723847",
@@ -17095,7 +17131,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Etapa Homologatória",
+    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
