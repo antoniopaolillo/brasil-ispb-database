@@ -36,7 +36,7 @@
 00952415,SICOOB CREDFAZ,SICOOB CREDFAZ,00952415000165,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 00954288,FUNDO GARANTIDOR DE CREDITOS - FGC,FDO GARANTIDOR CRÉDITOS,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/03/2023,RSFN,Não
 00966246,CC CREDICERIPA,CC CREDICERIPA,00966246000112,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-00968602,CCLA VALE SÃO PATRICIO LTDA,CCLA VALE SÃO PATRICIO LTDA,00968602000137,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+00968602,COOP SICOOB COOPERCRED LTDA.,COOP SICOOB COOPERCRED LTDA.,00968602000137,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 00971300,COOP CRESOL PIONEIRA,COOP CRESOL PIONEIRA,00971300000118,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 00997185,BCO B3 S.A.,BCO B3 S.A.,00997185000150,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,12/11/2004,RSFN,Não
 01009908,CCLA PARA DE MINAS,CCLA PARA DE MINAS,01009908000129,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -503,7 +503,7 @@
 19402130,CECM EMPR EST HOSP BH RM ZM,CECM EMPR EST HOSP BH RM ZM,19402130000189,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 19449602,CC CREDCOOPER LTDA,CC CREDCOOPER LTDA,19449602000159,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 19468242,IFOOD PAGO IP,IFOOD PAGO IP,19468242000132,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,21/03/2024,RSFN,Não
-19495266,CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS LTDA.,CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS LTDA.,19495266000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+19495266,CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS,CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS,19495266000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 19540550,ASAAS IP S.A.,ASAAS IP S.A.,19540550000121,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,29/10/2021,RSFN,Não
 19869338,CCLA VALE DO AÇO,CCLA VALE DO AÇO,19869338000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 19875244,CCLA SICOOB COPESITA,CCLA SICOOB COPESITA,19875244000146,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -775,7 +775,7 @@
 40820176,PAY BROKERS IP,PAY BROKERS IP,40820176000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 40910463,BIPA IP,BIPA IP,40910463000105,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 41180092,COOP SICREDI EXPANSÃO,COOP SICREDI EXPANSÃO,41180092000116,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-41255225,COOP SICREDI CENTRO PERNAMBUCANA,COOP SICREDI CENTRO PERNAMBUCANA,41255225000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+41255225,COOP SICREDI CENTRO PERNAMBUCANA PE,COOP SICREDI CENTRO PERNAMBUCANA PE,41255225000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 41538335,CLARA IP,CLARA IP,41538335000145,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 41592532,MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,MÉRITO DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/11/2021,RSFN,Não
 41669227,CCLA PROD RURAIS TRIÂNGULO,CCLA PROD RURAIS TRIÂNGULO,41669227000101,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -950,7 +950,7 @@
 62287735,WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,WARREN RENA DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2010,RSFN,Não
 62331228,DEUTSCHE BANK S.A. - BANCO ALEMAO,DEUTSCHE BANK S.A.BCO ALEMAO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 62421979,BANCO BMG SOLUÇÕES FINANCEIRAS S.A.,BANCO BMG SOLUÇÕES FINANCEIRAS S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-62448932,MULTIPLIKE FINANCEIRA S.A. SCFI,MULTIPLIKE FINANCEIRA S.A. SCFI,62448932000159,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,20/02/2026,RSFN,Não
+62448932,"MULTIPLIKE FINANCEIRA S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",MULTIPLIKE FINANCEIRA S.A. SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/02/2026,RSFN,Não
 62673470,CC SICOOB COOPMIL,CC SICOOB COOPMIL,62673470000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 62931522,CCC ESTADO SP - CECRESP,CCC ESTADO SP - CECRESP,62931522000164,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 63019146,"J17 - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",J17 CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/06/2026,RSFN,Não
