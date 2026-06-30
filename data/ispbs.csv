@@ -248,7 +248,7 @@
 04849745,HBI SCD,HBI SCD,04849745000180,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/01/2024,RSFN,Não
 04853988,COOP SICREDI BANDEIRANTES,COOP SICREDI BANDEIRANTES,04853988000192,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04862600,"PORTOSEG S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",PORTOSEG S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/07/2025,RSFN,Não
-04866275,BANCO INBURSA,BANCO INBURSA,04866275000163,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Liquidante Especial,Não,nan,04/05/2017,RSFN,Não
+04866275,Banco Inbursa S.A.,BANCO INBURSA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/05/2017,RSFN,Não
 04876393,CCLA TRÊS FRONTEIRAS,CCLA TRÊS FRONTEIRAS,04876393000152,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04886317,COOP SICREDI CREDJURIS,COOP SICREDI CREDJURIS,04886317000128,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04902979,BCO DA AMAZONIA S.A.,BCO DA AMAZONIA S.A.,04902979000144,Banco Comercial,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
