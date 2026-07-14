@@ -1710,24 +1710,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "02093154",
-    "nome_completo": "CCM EMPR MAGAZINE LUIZA",
-    "nome_reduzido": "CCM EMPR MAGAZINE LUIZA",
-    "cnpj": "02093154000109",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "02144899",
     "nome_completo": "CCLA DA REGIÃO CENTRAL DE RONDÔNIA",
     "nome_reduzido": "CCLA DA REGIÃO CENTRAL DE RONDÔNIA",
