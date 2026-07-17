@@ -864,7 +864,7 @@
 51414521,ALL IN CRED SCD S.A.,ALL IN CRED SCD S.A.,51414521000126,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/12/2023,RSFN,Não
 51489318,CECM MAGISTRADOS DE SÃO PAULO,CECM MAGISTRADOS DE SÃO PAULO,51489318000119,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 52067630,BANCO TRATON BRASIL S.A.,BANCO TRATON BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/05/2026,RSFN,Não
-52076716,AWX BRASIL  INSTITUICAO DE PAGAMENTO LTDA,AWX BRASIL IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/01/2026,RSFN,Não
+52076716,AWX BRASIL IP LTDA.,AWX BRASIL IP LTDA.,52076716000176,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,13/01/2026,RSFN,Não
 52440987,SANTS SCD S.A.,SANTS SCD S.A.,52440987000169,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/06/2024,RSFN,Não
 52586293,Z-ON SCD S.A.,Z-ON SCD S.A.,52586293000134,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/10/2024,RSFN,Não
 52833288,LB PAY IP LTDA,LB PAY IP LTDA,52833288000189,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,26/09/2025,Internet,Não
@@ -950,7 +950,7 @@
 62287735,WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,WARREN RENA DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2010,RSFN,Não
 62331228,DEUTSCHE BANK S.A. - BANCO ALEMAO,DEUTSCHE BANK S.A.BCO ALEMAO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 62421979,BANCO BMG SOLUÇÕES FINANCEIRAS S.A.,BANCO BMG SOLUÇÕES FINANCEIRAS S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-62448932,MULTIPLIKE FINANCEIRA S.A. SCFI,MULTIPLIKE FINANCEIRA S.A. SCFI,62448932000159,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,20/02/2026,RSFN,Não
+62448932,MULTIPLIKE FINANCEIRA S.A. SCFI,MULTIPLIKE FINANCEIRA S.A. SCFI,62448932000159,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/02/2026,RSFN,Não
 62673470,CC SICOOB COOPMIL,CC SICOOB COOPMIL,62673470000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 62931522,CCC ESTADO SP - CECRESP,CCC ESTADO SP - CECRESP,62931522000164,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 63019146,"J17 - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",J17 CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/06/2026,RSFN,Não

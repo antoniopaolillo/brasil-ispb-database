@@ -15571,21 +15571,21 @@
   },
   {
     "ispb": "52076716",
-    "nome_completo": "AWX BRASIL  INSTITUICAO DE PAGAMENTO LTDA",
+    "nome_completo": "AWX BRASIL IP LTDA.",
     "nome_reduzido": "AWX BRASIL IP LTDA.",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
+    "cnpj": "52076716000176",
+    "tipo_instituicao": "Instituição de Pagamento",
     "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
+    "participa_pix": "Sim",
     "participa_str": "Sim",
-    "status_operacional": "Ativo",
+    "status_operacional": "",
     "data_inicio_operacao": "13/01/2026",
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX+STR"
   },
   {
     "ispb": "52440987",
@@ -17131,8 +17131,8 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
   },
   {
