@@ -12780,24 +12780,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "36741675",
-    "nome_completo": "CORPAG IP",
-    "nome_reduzido": "CORPAG IP",
-    "cnpj": "36741675000139",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "36864992",
     "nome_completo": "MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
     "nome_reduzido": "MAF DTVM SA",
