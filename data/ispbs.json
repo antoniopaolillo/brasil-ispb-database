@@ -16578,24 +16578,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "60849822",
-    "nome_completo": "COOP CREDI COOPERALFA",
-    "nome_reduzido": "COOP CREDI COOPERALFA",
-    "cnpj": "60849822000173",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "60850229",
     "nome_completo": "OMNI BANCO S.A.",
     "nome_reduzido": "OMNI BANCO S.A.",
