@@ -4897,8 +4897,8 @@
   },
   {
     "ispb": "05392810",
-    "nome_completo": "CC REGIÃO MERIDIONAL BRASIL",
-    "nome_reduzido": "CC REGIÃO MERIDIONAL BRASIL",
+    "nome_completo": "COOP DA REGIÃO MERIDIONAL DO BRASIL - SICOOB MERIDIONAL",
+    "nome_reduzido": "COOP DA REGIÃO MERIDIONAL DO BRASIL - SICOOB MERIDIONAL",
     "cnpj": "05392810000154",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -16576,6 +16576,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "STR"
+  },
+  {
+    "ispb": "60849822",
+    "nome_completo": "COOP CREDI COOPERALFA",
+    "nome_reduzido": "COOP CREDI COOPERALFA",
+    "cnpj": "60849822000173",
+    "tipo_instituicao": "Cooperativa de Crédito",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Ativo em operação restrita",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
   },
   {
     "ispb": "60850229",
