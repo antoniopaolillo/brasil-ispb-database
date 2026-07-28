@@ -15030,24 +15030,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "48552108",
-    "nome_completo": "LIQUIDO INSTITUICAO DE PAGAMENTO LTDA",
-    "nome_reduzido": "LIQUIDO IP LTDA",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "05/03/2025",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "48584954",
     "nome_completo": "DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.",
     "nome_reduzido": "DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.",
