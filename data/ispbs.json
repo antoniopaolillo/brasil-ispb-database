@@ -9036,24 +9036,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "19495266",
-    "nome_completo": "CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS",
-    "nome_reduzido": "CC EMP DA CIA INDUSTRIAL CATAGUASES E BAUMINAS",
-    "cnpj": "19495266000180",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "19540550",
     "nome_completo": "ASAAS IP S.A.",
     "nome_reduzido": "ASAAS IP S.A.",
@@ -12781,8 +12763,8 @@
   },
   {
     "ispb": "36864992",
-    "nome_completo": "MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-    "nome_reduzido": "MAF DTVM SA",
+    "nome_completo": "APEX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "nome_reduzido": "APEX DTVM",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
