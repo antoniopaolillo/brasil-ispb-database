@@ -2160,24 +2160,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "02475222",
-    "nome_completo": "COOPSERVIDOR ES",
-    "nome_reduzido": "COOPSERVIDOR ES",
-    "cnpj": "02475222000196",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "02480577",
     "nome_completo": "CCLA E DOS ADV",
     "nome_reduzido": "CCLA E DOS ADV",
@@ -14446,7 +14428,7 @@
     "participa_str": "Sim",
     "status_operacional": "Ativo",
     "data_inicio_operacao": "27/05/2026",
-    "acesso_principal": "Internet",
+    "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "",
     "iniciacao_pagamento": "Não",
