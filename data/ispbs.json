@@ -7025,7 +7025,7 @@
     "nome_reduzido": "CECM EMP AMERICANA, LIMEIRA E",
     "cnpj": "09579249000178",
     "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
+    "autorizada_bcb": "Não",
     "participa_pix": "Sim",
     "participa_str": "Não",
     "status_operacional": "",
@@ -12652,24 +12652,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
-  },
-  {
-    "ispb": "36272465",
-    "nome_completo": "REAG IP",
-    "nome_reduzido": "REAG IP",
-    "cnpj": "36272465000149",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
   },
   {
     "ispb": "36321990",

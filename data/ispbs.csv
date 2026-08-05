@@ -389,7 +389,7 @@
 09526594,BANCO MASTER DE INVESTIMENTO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,MASTER BI S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/03/2023,RSFN,Não
 09552111,COOP JUST GOIAS E CELG,COOP JUST GOIAS E CELG,09552111000185,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09576849,CCLA CERES E RIALMA LTDA,CCLA CERES E RIALMA LTDA,09576849000182,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-09579249,"CECM EMP AMERICANA, LIMEIRA E","CECM EMP AMERICANA, LIMEIRA E",09579249000178,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+09579249,"CECM EMP AMERICANA, LIMEIRA E","CECM EMP AMERICANA, LIMEIRA E",09579249000178,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09590601,COOP CREDICOMIN,COOP CREDICOMIN,09590601000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10143499,CCLA JATAÍ E REGIÃO,CCLA JATAÍ E REGIÃO,10143499000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10143743,CREVISC,CREVISC,10143743000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -702,7 +702,6 @@
 35990763,ENOQ PAY,ENOQ PAY,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36113876,OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.,OLIVEIRA TRUST DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/03/2011,RSFN,Não
 36266751,FINVEST DTVM,FINVEST DTVM,36266751000100,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/08/2022,RSFN,Não
-36272465,REAG IP,REAG IP,36272465000149,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 36321990,"AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",AGORACRED S/A SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/08/2024,RSFN,Não
 36583700,"QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",QISTA S.A. CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/10/2022,RSFN,Não
 36586946,BONUSPAGO SCD S.A.,BONUSPAGO SCD S.A.,36586946000129,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/10/2020,RSFN,Não
