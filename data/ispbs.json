@@ -12618,6 +12618,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "36000836",
+    "nome_completo": "EXTRATTA IP",
+    "nome_reduzido": "EXTRATTA IP",
+    "cnpj": "36000836000133",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "36113876",
     "nome_completo": "OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.",
     "nome_reduzido": "OLIVEIRA TRUST DTVM S.A.",
