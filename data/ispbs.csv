@@ -92,7 +92,6 @@
 02031139,CCLA MONTES CLAROS,CCLA MONTES CLAROS,02031139000128,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02038232,BANCO SICOOB S.A.,BANCO SICOOB S.A.,02038232000164,Banco Múltiplo Cooperativo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 02057584,CC SICOOB SERTÃO,CC SICOOB SERTÃO,02057584000167,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-02072790,CECM SICOOB CREDSAÚDE,CECM SICOOB CREDSAÚDE,02072790000146,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02090126,CCLA SICOOB VALCREDI SUL,CCLA SICOOB VALCREDI SUL,02090126000120,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02144899,CCLA DA REGIÃO CENTRAL DE RONDÔNIA,CCLA DA REGIÃO CENTRAL DE RONDÔNIA,02144899000141,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02173447,CCLA CENTRO NORDESTE MINEIRO,CCLA CENTRO NORDESTE MINEIRO,02173447000198,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -138,7 +137,6 @@
 02876918,CC SICOOB NORTE SUL,CC SICOOB NORTE SUL,02876918000124,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02883398,CC VALE ITAJAÍ E ITAPOCÚ,CC VALE ITAJAÍ E ITAPOCÚ,02883398000187,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02904125,COOP CRESOL JACUTINGA,COOP CRESOL JACUTINGA,02904125000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-02904138,COOP CRESOL ÁUREA,COOP CRESOL ÁUREA,02904138000140,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02910987,COOP CRESOL CENTRO SUL,COOP CRESOL CENTRO SUL,02910987000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02923389,COOP SICREDI SERIGY SE/BA,COOP SICREDI SERIGY SE/BA,02923389000172,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02924977,COOP SICREDI MEDICRED,COOP SICREDI MEDICRED,02924977000120,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -161,10 +159,9 @@
 03215790,Banco Toyota do Brasil S.A.,BCO TOYOTA DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/07/2020,RSFN,Não
 03222753,CREDISIS CREDIARI COOP LTDA.,CREDISIS CREDIARI COOP LTDA.,03222753000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03269540,CC SERV MIL POL CIVIL SEC ED,CC SERV MIL POL CIVIL SEC ED,03269540000163,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-03311443,PARATI - CFI S.A.,PARATI - CFI S.A.,03311443000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,07/01/2020,RSFN,Não
+03311443,MEUTUDO SCFI,MEUTUDO SCFI,03311443000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,07/01/2020,RSFN,Não
 03320525,COOP ARACOOP LTDA. - SICOOB ARACOOP,COOP ARACOOP LTDA. - SICOOB ARACOOP,03320525000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03323840,Banco Alfa S.A.,BCO ALFA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-03326437,CCLA CENTRO NORTE MT/MS,CCLA CENTRO NORTE MT/MS,03326437000108,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03358914,SICOOB CREDIROCHAS,SICOOB CREDIROCHAS,03358914000117,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03412878,CC CREDIRAMA,CC CREDIRAMA,03412878000122,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03419786,CC NOSSA SENHORA DO DESTERRO,CC NOSSA SENHORA DO DESTERRO,03419786000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -316,7 +313,6 @@
 07194313,CC SICOOB HORIZONTE,CC SICOOB HORIZONTE,07194313000177,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07206072,COOP SICREDI NOVOS HORIZONTES PR/SP/RJ,COOP SICREDI NOVOS HORIZONTES PR/SP/RJ,07206072000139,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07207996,Banco Bradesco Financiamentos S.A.,BCO BRADESCO FINANC. S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
-07215632,COOP CRESOL ALTERNATIVA,COOP CRESOL ALTERNATIVA,07215632000111,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07237373,BCO DO NORDESTE DO BRASIL S.A.,BCO DO NORDESTE DO BRASIL S.A.,07237373000120,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 07252614,COOP CRESOL CONFIANÇA,COOP CRESOL CONFIANÇA,07252614000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07253654,HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,HEDGE INVESTMENTS DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/09/2021,RSFN,Não
@@ -330,7 +326,6 @@
 07469260,CC CREDIFIEMG,CC CREDIFIEMG,07469260000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07494300,CREDISIS/CREDISUL COOPERATIVA DE CRÉDITO,CREDISIS/CREDISUL COOPERATIVA DE CRÉDITO,07494300000113,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07502031,COOP EMPRECRED LTDA.,COOP EMPRECRED LTDA.,07502031000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-07509426,COOP CRESOL XANXERE,COOP CRESOL XANXERE,07509426000114,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07512441,"HS FINANCEIRA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS",HS FINANCEIRA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/06/2017,RSFN,Não
 07512780,COOP CRESOL VALE EUROPEU,COOP CRESOL VALE EUROPEU,07512780000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07599206,CCLA DA REGIÃO METROPOLITANA DE GOIÂNIA LTDA.,CCLA DA REGIÃO METROPOLITANA DE GOIÂNIA LTDA.,07599206000129,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -389,7 +384,6 @@
 09526594,BANCO MASTER DE INVESTIMENTO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,MASTER BI S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,20/03/2023,RSFN,Não
 09552111,"COOP PROF DA JUST, SERV PÚBL E ENERGIA LTDA","COOP PROF DA JUST, SERV PÚBL E ENERGIA LTDA",09552111000185,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09576849,CCLA CERES E RIALMA LTDA,CCLA CERES E RIALMA LTDA,09576849000182,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-09579249,"CECM EMP AMERICANA, LIMEIRA E","CECM EMP AMERICANA, LIMEIRA E",09579249000178,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09590601,COOP CREDICOMIN,COOP CREDICOMIN,09590601000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10143499,CCLA JATAÍ E REGIÃO,CCLA JATAÍ E REGIÃO,10143499000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10143743,CREVISC,CREVISC,10143743000174,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -671,7 +665,6 @@
 33884941,BANCO MASTER MÚLTIPLO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO MASTER MÚLTIPLO - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/09/2024,RSFN,Não
 33886862,"MASTER S/A CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS - EM LIQUIDAÇÃO EXTRAJUDICIAL",MASTER S/A CCTVM - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2021,RSFN,Não
 33923798,BANCO MASTER S/A - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO MASTER - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-33924028,SICOOB COOPVALE,SICOOB COOPVALE,33924028000174,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33959738,MOVA SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.,MOVA SEP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/02/2026,RSFN,Não
 33982918,SIMPAY PAGAMENTOS LTDA,SIMPAY PAGAMENTOS LTDA,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 34006497,ASTROPAY,ASTROPAY,34006497000177,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -893,12 +886,10 @@
 56392166,"HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",HARMOS S.A. - SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/06/2025,RSFN,Não
 57030391,NDD PAY,NDD PAY,57030391000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 57487987,VIVO PAY SCD S.A.,VIVO PAY SCD S.A.,57487987000138,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-57563728,CECME EMPR EMP GR ECON RHODIA,CECME EMPR EMP GR ECON RHODIA,57563728000149,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 57654096,APUSDIGITAL INSTITUICAO DE PAGAMENTO LTDA,APUSDIGITAL IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/05/2026,RSFN,Não
 57824223,WX IP LTDA.,WX IP LTDA.,57824223000190,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/10/2025,Internet,Não
 57839805,Banco Tricury S.A.,BCO TRICURY S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/08/2013,RSFN,Sim
 58006471,BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,BARU DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/04/2026,RSFN,Não
-58022195,CECM EMPR EMP ZILLO LORENZETTI,CECM EMPR EMP ZILLO LORENZETTI,58022195000150,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 58160789,BCO SAFRA S.A.,BCO SAFRA S.A.,58160789000128,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 58367961,BIT SOCIEDADE DE CRÉDITO DIRETO S.A.,BIT SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/07/2025,RSFN,Não
 58497702,BANCO LETSBANK S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO LETSBANK S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
@@ -963,7 +954,6 @@
 66398496,CC CREDIARA LTDA.,CC CREDIARA LTDA.,66398496000101,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 66402207,COOPERATIVA DE CRÉDITO SAROM,COOPERATIVA DE CRÉDITO SAROM,66402207000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 66463407,CCLA DE ITAÚNA E REGIÃO LTDA,CCLA DE ITAÚNA E REGIÃO LTDA,66463407000163,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-66788142,CC CREDIMOTA,CC CREDIMOTA,66788142000173,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 67030395,TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,TRUSTEE DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/05/2021,RSFN,Não
 67096909,CC CREDICOCAPEC,CC CREDICOCAPEC,67096909000166,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 67915868,CECM TRAB CIA PROC DADOS SP,CECM TRAB CIA PROC DADOS SP,67915868000192,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
