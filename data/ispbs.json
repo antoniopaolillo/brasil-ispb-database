@@ -14796,6 +14796,24 @@
     "fonte_dados": "PIX+STR"
   },
   {
+    "ispb": "47377613",
+    "nome_completo": "SOLVER IP",
+    "nome_reduzido": "SOLVER IP",
+    "cnpj": "47377613000106",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
+  },
+  {
     "ispb": "47381104",
     "nome_completo": "CONTAAZUL IP LTDA.",
     "nome_reduzido": "CONTAAZUL IP LTDA.",
