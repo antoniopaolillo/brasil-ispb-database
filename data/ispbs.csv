@@ -351,7 +351,7 @@
 08240446,CCR DE IBIAM,CCR DE IBIAM,08240446000103,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,10/07/2020,Internet,Não
 08253539,COOP SULCREDI AMPLEA,COOP SULCREDI AMPLEA,08253539000164,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,24/04/2018,RSFN,Não
 08357240,BCO CSF S.A.,BCO CSF S.A.,08357240000150,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/05/2020,RSFN,Não
-08422119,BULLLA IP S.A.,BULLLA IP S.A.,08422119000164,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
+08422119,BULLLA IP S.A.,BULLLA IP S.A.,08422119000164,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
 08482873,CCR DO AGRESTE ALAGOANO,CCR DO AGRESTE ALAGOANO,08482873000190,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/03/2025,RSFN,Não
 08488377,COOP CRESOL MISSÕES FRONTEIRA RS,COOP CRESOL MISSÕES FRONTEIRA RS,08488377000143,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 08560508,COOP CRESOL TRIUNFO,COOP CRESOL TRIUNFO,08560508000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -617,7 +617,7 @@
 32192325,UZZIPAY IP S.A.,UZZIPAY IP S.A.,32192325000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,13/09/2023,RSFN,Não
 32223020,FLASH IP LTDA.,FLASH IP LTDA.,32223020000118,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 32246162,AIBR IP LTDA.,AIBR IP LTDA.,32246162000109,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-32343119,MÊNTORE IP S.A.,MÊNTORE IP S.A.,32343119000153,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+32343119,MÊNTORE IP S.A.,MÊNTORE IP S.A.,32343119000153,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,24/08/2026,RSFN,Não
 32345784,C6 CTVM LTDA.,C6 CTVM LTDA.,32345784000186,Sociedade Corretora de TVM,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 32402502,QI SCD S.A.,QI SCD S.A.,32402502000135,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/04/2019,RSFN,Não
 32422628,CCR DE GUACUI,CCR DE GUACUI,32422628000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -742,7 +742,7 @@
 39664698,CREDSYSTEM SCD S.A.,CREDSYSTEM SCD S.A.,39664698000185,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/04/2021,RSFN,Não
 39669186,HEMERA DTVM LTDA.,HEMERA DTVM LTDA.,39669186000101,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,17/08/2021,RSFN,Não
 39676772,CREDIFIT SCD S.A.,CREDIFIT SCD S.A.,39676772000183,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/09/2021,RSFN,Não
-39696395,CACTVS IP S.A.,CACTVS IP S.A.,39696395000144,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,23/02/2026,Internet,Não
+39696395,CACTVS IP S.A.,CACTVS IP S.A.,39696395000144,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,23/02/2026,Internet,Não
 39715262,MASTERBARTER,MASTERBARTER,39715262000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 39738065,FFCRED SCD S.A.,FFCRED SCD S.A.,39738065000174,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/11/2022,RSFN,Não
 39908427,STARK SCD S.A.,STARK SCD S.A.,39908427000128,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Liquidante Especial,Não,nan,01/10/2021,RSFN,Não
