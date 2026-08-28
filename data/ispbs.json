@@ -8514,24 +8514,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "17352220",
-    "nome_completo": "SENSO CORRETORA DE CAMBIO E VALORES MOBILIARIOS S.A",
-    "nome_reduzido": "SENSO CCVM S.A.",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "27/09/2010",
-    "acesso_principal": "Internet",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "17361536",
     "nome_completo": "CC REG. COLAR METROPOLITANO VALE DO AÇO LTDA",
     "nome_reduzido": "CC REG. COLAR METROPOLITANO VALE DO AÇO LTDA",
@@ -12007,8 +11989,8 @@
   },
   {
     "ispb": "33982918",
-    "nome_completo": "SIMPAY PAGAMENTOS LTDA",
-    "nome_reduzido": "SIMPAY PAGAMENTOS LTDA",
+    "nome_completo": "SIMPAY IP",
+    "nome_reduzido": "SIMPAY IP",
     "cnpj": "33982918000132",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",
@@ -16957,8 +16939,8 @@
   },
   {
     "ispb": "63019146",
-    "nome_completo": "J17 - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",
-    "nome_reduzido": "J17 CFI S.A.",
+    "nome_completo": "ANKOR CAPITAL - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",
+    "nome_reduzido": "ANKOR CFI S.A.",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",

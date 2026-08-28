@@ -472,7 +472,6 @@
 17184037,BCO MERCANTIL DO BRASIL S.A.,BCO MERCANTIL DO BRASIL S.A.,17184037000110,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/04/2002,RSFN,Sim
 17343510,COOP CRESOL RAIZ,COOP CRESOL RAIZ,17343510000164,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 17351180,BCO TRIANGULO S.A.,BCO TRIANGULO S.A.,17351180000159,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Não
-17352220,SENSO CORRETORA DE CAMBIO E VALORES MOBILIARIOS S.A,SENSO CCVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/09/2010,Internet,Não
 17361536,CC REG. COLAR METROPOLITANO VALE DO AÇO LTDA,CC REG. COLAR METROPOLITANO VALE DO AÇO LTDA,17361536000135,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 17453575,ICBC do Brasil Banco Múltiplo S.A.,ICBC DO BRASIL BM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/09/2013,RSFN,Não
 17502881,CECM EMPR CEMIG IND METAL E SERV PUB MUN,CECM EMPR CEMIG IND METAL E SERV PUB MUN,17502881000141,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -666,7 +665,7 @@
 33886862,"MASTER S/A CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS - EM LIQUIDAÇÃO EXTRAJUDICIAL",MASTER S/A CCTVM - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/12/2021,RSFN,Não
 33923798,BANCO MASTER S/A - EM LIQUIDAÇÃO EXTRAJUDICIAL,BANCO MASTER - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 33959738,MOVA SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.,MOVA SEP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/02/2026,RSFN,Não
-33982918,SIMPAY PAGAMENTOS LTDA,SIMPAY PAGAMENTOS LTDA,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+33982918,SIMPAY IP,SIMPAY IP,33982918000132,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 34006497,ASTROPAY,ASTROPAY,34006497000177,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 34088029,LISTO SCD S.A.,LISTO SCD S.A.,34088029000199,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/10/2020,RSFN,Não
 34111187,Haitong Banco de Investimento do Brasil S.A.,HAITONG BI DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,31/07/2008,RSFN,Não
@@ -941,7 +940,7 @@
 62448932,MULTIPLIKE FINANCEIRA S.A. SCFI,MULTIPLIKE FINANCEIRA S.A. SCFI,62448932000159,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/02/2026,RSFN,Não
 62673470,CC SICOOB COOPMIL,CC SICOOB COOPMIL,62673470000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 62931522,CCC ESTADO SP - CECRESP,CCC ESTADO SP - CECRESP,62931522000164,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-63019146,"J17 - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",J17 CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/06/2026,RSFN,Não
+63019146,"ANKOR CAPITAL - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",ANKOR CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/06/2026,RSFN,Não
 63917579,CCC DO ESTADO DE SÃO PAULO,CCC DO ESTADO DE SÃO PAULO,63917579000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 64237530,CC CREDIUNA LTDA,CC CREDIUNA LTDA,64237530000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 64276058,CC CREDINORTE - SICOOB CREDINORTE,CC CREDINORTE - SICOOB CREDINORTE,64276058000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
