@@ -883,8 +883,8 @@
   },
   {
     "ispb": "01181521",
-    "nome_completo": "BCO COOPERATIVO SICREDI S.A.",
-    "nome_reduzido": "BCO COOPERATIVO SICREDI S.A.",
+    "nome_completo": "BANCO COOPERATIVO SICREDI",
+    "nome_reduzido": "BANCO COOPERATIVO SICREDI",
     "cnpj": "01181521000155",
     "tipo_instituicao": "Banco Múltiplo Cooperativo",
     "autorizada_bcb": "Sim",
@@ -5092,24 +5092,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
-  },
-  {
-    "ispb": "05841967",
-    "nome_completo": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA LTDA.",
-    "nome_reduzido": "CECM FABRIC CALÇADOS SAPIRANGA",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "22/03/2021",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
   },
   {
     "ispb": "05856736",
