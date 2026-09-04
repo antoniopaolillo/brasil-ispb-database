@@ -2251,8 +2251,8 @@
   },
   {
     "ispb": "02671743",
-    "nome_completo": "BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "nome_reduzido": "BANVOX DTVM",
+    "nome_completo": "BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "nome_reduzido": "BANVOX DTVM - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
@@ -9612,24 +9612,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "24722685",
-    "nome_completo": "BRX",
-    "nome_reduzido": "BRX",
-    "cnpj": "24722685000148",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "24795049",
     "nome_completo": "CCLA SUDOESTE GOIANO",
     "nome_reduzido": "CCLA SUDOESTE GOIANO",
@@ -11790,24 +11772,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "33667205",
-    "nome_completo": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO CENTRO NORTE DO BRASIL - CENTRAL SICREDI CENTRO NORTE",
-    "nome_reduzido": "CCC POUP INV DO CENTRO NORTE DO BRASIL",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "15/03/2024",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "33735811",
     "nome_completo": "B91",
     "nome_reduzido": "B91",
@@ -11824,24 +11788,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
-  },
-  {
-    "ispb": "33737818",
-    "nome_completo": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DE MATO GROSSO DO SUL, GOIÁS, DISTRITO FEDERAL E TOCANTINS - CENTRAL SICREDI BRASIL CENTRAL",
-    "nome_reduzido": "CCC POUP INV DE MS, GO, DF E TO",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "08/03/2024",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
   },
   {
     "ispb": "33775974",
@@ -13984,6 +13930,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "STR"
+  },
+  {
+    "ispb": "42547503",
+    "nome_completo": "QYON IP LTDA.",
+    "nome_reduzido": "QYON IP LTDA.",
+    "cnpj": "42547503000121",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
   },
   {
     "ispb": "42873828",
@@ -17173,8 +17137,8 @@
   },
   {
     "ispb": "67030395",
-    "nome_completo": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "nome_reduzido": "TRUSTEE DTVM LTDA.",
+    "nome_completo": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "nome_reduzido": "TRUSTEE DTVM LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
@@ -17368,24 +17332,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
-  },
-  {
-    "ispb": "70119680",
-    "nome_completo": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO NORDESTE - CENTRAL SICREDI NORDESTE",
-    "nome_reduzido": "CENTRAL NORDESTE",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "22/03/2024",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
   },
   {
     "ispb": "70241658",
@@ -18558,24 +18504,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "80230774",
-    "nome_completo": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DOS ESTADOS DO PARANÁ, SÃO PAULO E RIO DE JANEIRO - CENTRAL SICREDI PR/SP/RJ",
-    "nome_reduzido": "CCC POUP E INV DOS ESTADOS DO PR, SP E RJ",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "28/02/2024",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "80271455",
     "nome_completo": "BANCO RNX S.A.",
     "nome_reduzido": "BCO RNX S.A.",
@@ -19168,24 +19096,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
-  },
-  {
-    "ispb": "87437687",
-    "nome_completo": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE",
-    "nome_reduzido": "CCCPOUPINV SUL E SUDESTE - CENTRAL SUL/SUDESTE",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "21/02/2024",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
   },
   {
     "ispb": "87510475",
