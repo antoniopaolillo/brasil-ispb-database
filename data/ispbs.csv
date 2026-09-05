@@ -423,7 +423,7 @@
 11907520,CCLA DA PARAÍBA - SICOOB PARAÍBA,CCLA DA PARAÍBA - SICOOB PARAÍBA,11907520000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 11969853,COOP CRESOL CONEXÃO,COOP CRESOL CONEXÃO,11969853000152,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 11970623,BCO SENFF S.A.,BCO SENFF S.A.,11970623000103,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,12/06/2018,RSFN,Não
-12102128,SAFETYPAY BRASIL INSTITUICAO DE PAGAMENTO LTDA,SAFETYPAY BRASIL IP LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/02/2026,RSFN,Não
+12102128,SAFETYPAY BRASIL IP LTDA,SAFETYPAY BRASIL IP LTDA,12102128000145,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,06/02/2026,RSFN,Não
 12392983,"MIRAE ASSET (BRASIL) CORRETORA DE CÂMBIO, TÍTULOS  E VALORES MOBILIÁRIOS LTDA.",MIRAE ASSET (BRASIL) CCTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/09/2021,RSFN,Não
 12473687,CONTA PRONTA IP,CONTA PRONTA IP,12473687000161,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,31/10/2023,RSFN,Não
 12481100,BIZ IP LTDA.,BIZ IP LTDA.,12481100000166,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,28/07/2025,RSFN,Não
@@ -626,7 +626,7 @@
 32708748,WE PAY OUT IP LTDA.,WE PAY OUT IP LTDA.,32708748000130,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,25/11/2024,RSFN,Não
 32820711,EFEX INSTITUIÇÃO DE PAGAMENTO S.A.,EFEX IP,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2025,RSFN,Não
 32906701,EXPAG SOLUÇÕES EM PAGAMENTOS,EXPAG SOLUÇÕES EM PAGAMENTOS,32906701000180,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-32983165,COOP SICREDI VL DO CERRADO,COOP SICREDI VL DO CERRADO,32983165000117,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+32983165,COOP SICREDI VL DO CERRADO,COOP SICREDI VL DO CERRADO,32983165000117,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32995755,COOP SICREDI SUDOESTE MT/PA,COOP SICREDI SUDOESTE MT/PA,32995755000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32997490,Creditas Sociedade de Crédito Direto S.A.,CREDITAS SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/07/2019,RSFN,Não
 33021064,COOP SICREDI ARAXINGU,COOP SICREDI ARAXINGU,33021064000128,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -704,7 +704,6 @@
 37241230,SUMUP SCFI S.A,SUMUP SCFI S.A,37241230000152,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,16/10/2020,RSFN,Não
 37255049,SICOOB CREDIGOIÁS CC,SICOOB CREDIGOIÁS CC,37255049000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37293930,BASS PAGO,BASS PAGO,37293930000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-37319859,STATER PAY INSTITUICAO DE PAGA,STATER PAY INSTITUICAO DE PAGA,37319859000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37395399,CCLA CENTRO BRASILEIRA LTDA.,CCLA CENTRO BRASILEIRA LTDA.,37395399000167,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 37414009,ZIPDIN SOLUÇÕES DIGITAIS SOCIEDADE DE CRÉDITO DIRETO S/A,ZIPDIN SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/08/2021,RSFN,Não
 37442605,COOP SICREDI GRANDES RIOS,COOP SICREDI GRANDES RIOS,37442605000142,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
