@@ -11039,7 +11039,7 @@
     "nome_reduzido": "AIBR IP LTDA.",
     "cnpj": "32246162000109",
     "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
+    "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
     "participa_str": "Não",
     "status_operacional": "",
@@ -14470,6 +14470,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
+  },
+  {
+    "ispb": "45341994",
+    "nome_completo": "CREDIMÓVEL SCD S.A.",
+    "nome_reduzido": "CREDIMÓVEL SCD S.A.",
+    "cnpj": "45341994000148",
+    "tipo_instituicao": "Sociedade de Crédito Direto",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Etapa Homologatória",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
   },
   {
     "ispb": "45548763",

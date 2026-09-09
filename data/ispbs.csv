@@ -612,7 +612,7 @@
 32074986,BEETELLER IP LTDA.,BEETELLER IP LTDA.,32074986000130,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,11/09/2023,RSFN,Não
 32192325,UZZIPAY IP S.A.,UZZIPAY IP S.A.,32192325000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,13/09/2023,RSFN,Não
 32223020,FLASH IP LTDA.,FLASH IP LTDA.,32223020000118,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
-32246162,AIBR IP LTDA.,AIBR IP LTDA.,32246162000109,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+32246162,AIBR IP LTDA.,AIBR IP LTDA.,32246162000109,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32343119,MÊNTORE IP S.A.,MÊNTORE IP S.A.,32343119000153,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,24/08/2026,RSFN,Não
 32345784,C6 CTVM LTDA.,C6 CTVM LTDA.,32345784000186,Sociedade Corretora de TVM,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 32402502,QI SCD S.A.,QI SCD S.A.,32402502000135,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/04/2019,RSFN,Não
@@ -803,6 +803,7 @@
 45246410,BANCO GENIAL,BANCO GENIAL,45246410000155,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,19/11/2012,RSFN,Sim
 45283173,BBVA BRASIL BANCO DE INVESTIMENTO S.A.,BBVA BRASIL BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2025,RSFN,Não
 45331622,BNK DIGITAL SCD S.A.,BNK DIGITAL SCD S.A.,45331622000130,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/06/2023,RSFN,Não
+45341994,CREDIMÓVEL SCD S.A.,CREDIMÓVEL SCD S.A.,45341994000148,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 45548763,MAPS IP LTDA.,MAPS IP LTDA.,45548763000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,03/06/2024,RSFN,Não
 45716916,FIDEM SOCIEDADE DE CRÉDITO DIRETO S/A,FIDEM SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2025,RSFN,Não
 45745537,FUTURO SOCIEDADE DE CRÉDITO DIRETO S.A.,FUTURO SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/04/2023,RSFN,Não
