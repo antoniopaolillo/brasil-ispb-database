@@ -626,7 +626,7 @@
 32708748,WE PAY OUT IP LTDA.,WE PAY OUT IP LTDA.,32708748000130,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,25/11/2024,RSFN,Não
 32820711,EFEX INSTITUIÇÃO DE PAGAMENTO S.A.,EFEX IP,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2025,RSFN,Não
 32906701,EXPAG SOLUÇÕES EM PAGAMENTOS,EXPAG SOLUÇÕES EM PAGAMENTOS,32906701000180,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-32983165,COOP SICREDI VL DO CERRADO,COOP SICREDI VL DO CERRADO,32983165000117,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+32983165,COOP SICREDI VL DO CERRADO,COOP SICREDI VL DO CERRADO,32983165000117,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32995755,COOP SICREDI SUDOESTE MT/PA,COOP SICREDI SUDOESTE MT/PA,32995755000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32997490,Creditas Sociedade de Crédito Direto S.A.,CREDITAS SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/07/2019,RSFN,Não
 33021064,COOP SICREDI ARAXINGU,COOP SICREDI ARAXINGU,33021064000128,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -1027,7 +1027,6 @@
 79342069,COOP SICREDI DEXIS,COOP SICREDI DEXIS,79342069000153,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 79457883,COOP SICREDI AGROEMPRESARIAL,COOP SICREDI AGROEMPRESARIAL,79457883000113,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 80160260,CCC SICOOB CENTRAL SC/RS,CCC SICOOB CENTRAL SC/RS,80160260000163,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-80271455,BANCO RNX S.A.,BCO RNX S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/02/2021,RSFN,Não
 80959612,CC ALTO VALE DO ITAJAÍ,CC ALTO VALE DO ITAJAÍ,80959612000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 80959638,CCLA MEIO OESTE CATARINENSE,CCLA MEIO OESTE CATARINENSE,80959638000193,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 81011686,CC DO NORTE CATARINENSE E SUL PARANAENSE,CC DO NORTE CATARINENSE E SUL PARANAENSE,81011686000118,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
