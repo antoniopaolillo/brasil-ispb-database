@@ -11286,24 +11286,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "32983165",
-    "nome_completo": "COOP SICREDI VL DO CERRADO",
-    "nome_reduzido": "COOP SICREDI VL DO CERRADO",
-    "cnpj": "32983165000117",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "32995755",
     "nome_completo": "COOP SICREDI SUDOESTE MT/PA",
     "nome_reduzido": "COOP SICREDI SUDOESTE MT/PA",
