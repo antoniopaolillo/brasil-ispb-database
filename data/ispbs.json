@@ -13243,7 +13243,7 @@
     "acesso_principal": "Internet",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Ativo em operação restrita",
+    "iniciacao_pagamento": "Não",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
@@ -14611,7 +14611,7 @@
     "acesso_principal": "Internet",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
+    "iniciacao_pagamento": "Ativo em operação restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
