@@ -10247,7 +10247,7 @@
     "nome_reduzido": "ARQ IP LTDA",
     "cnpj": "27126513000108",
     "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
+    "autorizada_bcb": "Sim",
     "participa_pix": "Sim",
     "participa_str": "Não",
     "status_operacional": "",
