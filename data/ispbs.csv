@@ -831,7 +831,7 @@
 49555647,QUADRA SOCIEDADE DE CRÉDITO DIRETO S.A.,QUADRA SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/11/2023,Internet,Não
 49686505,WASU IP LTDA.,WASU IP LTDA.,49686505000140,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,05/06/2026,RSFN,Não
 49931906,TRIO IP LTDA.,TRIO IP LTDA.,49931906000119,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,01/08/2024,RSFN,Não
-49933388,BRCONDOS SCD S.A.,BRCONDOS SCD S.A.,49933388000172,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/12/2023,RSFN,Não
+49933388,BRCONDOS SOCIEDADE DE CRÉDITO DIRETO S.A.,BRCONDOS SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/12/2023,RSFN,Não
 50032584,LOAN BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.,LOAN BRASIL SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/01/2026,Internet,Não
 50489148,MONTE BRAVO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.,MONTE BRAVO CTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/07/2026,RSFN,Não
 50579044,LEVYCAM - CORRETORA DE CAMBIO E VALORES LTDA.,LEVYCAM CCV LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/06/2015,Internet,Não
@@ -1096,7 +1096,7 @@
 92934215,BANRISUL PAGAMENTOS IP,BANRISUL PAGAMENTOS IP,92934215000106,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 94243839,UNICRED PIONEIRA,UNICRED PIONEIRA,94243839000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 94433109,CECM MÉD DE PORTO ALEGRE,CECM MÉD DE PORTO ALEGRE,94433109000166,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-94968518,EFX CORRETORA DE CÂMBIO LTDA.,EFX CC LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/03/2019,RSFN,Não
+94968518,EFX CORRETORA DE CÂMBIO LTDA.,EFX CC LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/03/2019,Internet,Não
 95163002,UNICRED ELEVA,UNICRED ELEVA,95163002000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 95213211,COOP SICREDI CAMINHO DAS ÁGUAS RS,COOP SICREDI CAMINHO DAS ÁGUAS RS,95213211000119,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 95424891,COOP SICREDI VALE DO RIO PARDO,COOP SICREDI VALE DO RIO PARDO,95424891000110,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
