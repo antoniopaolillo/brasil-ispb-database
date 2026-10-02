@@ -14976,24 +14976,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "49933388",
-    "nome_completo": "BRCONDOS SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "nome_reduzido": "BRCONDOS SCD S.A.",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "08/12/2023",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "50032584",
     "nome_completo": "LOAN BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "nome_reduzido": "LOAN BRASIL SCD S.A.",
@@ -17173,8 +17155,8 @@
   },
   {
     "ispb": "68757681",
-    "nome_completo": "SIMPAUL",
-    "nome_reduzido": "SIMPAUL",
+    "nome_completo": "BINANCE BRASIL",
+    "nome_reduzido": "BINANCE BRASIL",
     "cnpj": "68757681000170",
     "tipo_instituicao": "Sociedade Corretora de TVM",
     "autorizada_bcb": "Sim",
