@@ -12070,7 +12070,7 @@
     "participa_str": "Sim",
     "status_operacional": "Ativo",
     "data_inicio_operacao": "06/03/2023",
-    "acesso_principal": "RSFN",
+    "acesso_principal": "Internet",
     "participa_compe": "Não",
     "modalidade_pix": "",
     "iniciacao_pagamento": "Não",
@@ -13459,8 +13459,8 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
-    "facilitador_saque": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX"
   },
   {
