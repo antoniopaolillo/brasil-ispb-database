@@ -663,7 +663,6 @@
 34111187,Haitong Banco de Investimento do Brasil S.A.,HAITONG BI DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,31/07/2008,RSFN,Não
 34139916,EMCASH SERVIÇOS FINANCEIROS SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.,EMCASH SERV FINANC SEP S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/08/2025,Internet,Não
 34148882,CC SICOOB CENTRAL BA,CC SICOOB CENTRAL BA,34148882000159,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-34265629,INTERCAM CORRETORA DE CÂMBIO LTDA.,INTERCAM CC LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/12/2022,RSFN,Não
 34335592,ÓTIMO SOCIEDADE DE CRÉDITO DIRETO S.A.,ÓTIMO SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/10/2019,Internet,Não
 34337707,BMP SCD S.A.,BMP SCD S.A.,34337707000100,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/05/2023,RSFN,Não
 34471744,PAGME IP LTDA,PAGME IP LTDA,34471744000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/10/2024,RSFN,Não
@@ -740,7 +739,7 @@
 40083667,CAPITAL CONSIG SCD S.A.,CAPITAL CONSIG SCD S.A.,40083667000110,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/12/2021,RSFN,Não
 40112555,GIRO - SOCIEDADE DE CRÉDITO DIRETO S/A,GIRO - SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,02/10/2024,Internet,Não
 40276692,PROTEGE CASH,PROTEGE CASH,40276692000110,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/09/2023,RSFN,Não
-40333582,SAYGO CORRETORA DE CÂMBIO S.A.,SAYGO CÂMBIO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/08/2023,RSFN,Não
+40333582,SAYGO SOCIEDADE CORRETORA DE CÂMBIO S.A.,SAYGO CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/08/2023,RSFN,Não
 40353377,FOURTRADE CORRETORA DE CÂMBIO LTDA.,FOURTRADE COR. DE CAMBIO LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,19/02/2024,Internet,Não
 40434681,AZUMI DISTRIBUIDORA DE TíTULOS E VALORES MOBILIáRIOS LTDA.,AZUMI DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/12/2021,RSFN,Não
 40473435,REPASSES FINANCEIROS E SOLUCOES TECNOLOGICAS IP S.A.,REPASSES FINANCEIROS E SOLUCOES TECNOLOGICAS IP S.A.,40473435000178,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/03/2024,RSFN,Não
@@ -769,7 +768,7 @@
 42066258,RJI CORRETORA DE TITULOS E VALORES MOBILIARIOS LTDA,RJI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/07/2022,RSFN,Não
 42259084,ARTTA SCD,ARTTA SCD,42259084000122,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,11/10/2022,RSFN,Não
 42272526,BNY Mellon Banco S.A.,BNY MELLON BCO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,19/11/2012,RSFN,Não
-42547503,QYON IP LTDA.,QYON IP LTDA.,42547503000121,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
+42547503,QYON IP LTDA.,QYON IP LTDA.,42547503000121,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 42873828,CC AGROCREDI LTDA,CC AGROCREDI LTDA,42873828000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42880617,CC SICOOB CREDITIROS,CC SICOOB CREDITIROS,42880617000199,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42887133,CC CREDISUCESSO LTDA. - SICOOB CREDISUCESSO,CC CREDISUCESSO LTDA. - SICOOB CREDISUCESSO,42887133000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,

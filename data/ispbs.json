@@ -11952,24 +11952,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "34265629",
-    "nome_completo": "INTERCAM CORRETORA DE CÂMBIO LTDA.",
-    "nome_reduzido": "INTERCAM CC LTDA",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "05/12/2022",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "34335592",
     "nome_completo": "ÓTIMO SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "nome_reduzido": "ÓTIMO SCD S.A.",
@@ -13339,8 +13321,8 @@
   },
   {
     "ispb": "40333582",
-    "nome_completo": "SAYGO CORRETORA DE CÂMBIO S.A.",
-    "nome_reduzido": "SAYGO CÂMBIO",
+    "nome_completo": "SAYGO SOCIEDADE CORRETORA DE CÂMBIO S.A.",
+    "nome_reduzido": "SAYGO CC S.A.",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
@@ -13873,7 +13855,7 @@
     "acesso_principal": "",
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Etapa Homologatória",
+    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
