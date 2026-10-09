@@ -10710,24 +10710,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "30949267",
-    "nome_completo": "CECME CHOCOLATES GAROTO LTDA",
-    "nome_reduzido": "CECME CHOCOLATES GAROTO LTDA",
-    "cnpj": "30949267000190",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "30980539",
     "nome_completo": "OKTO IP",
     "nome_reduzido": "OKTO IP",
@@ -12994,24 +12976,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX"
-  },
-  {
-    "ispb": "38429045",
-    "nome_completo": "VIS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "nome_reduzido": "VIS DTVM LTDA",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "05/12/2022",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
   },
   {
     "ispb": "38588174",
