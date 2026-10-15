@@ -11052,24 +11052,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "32422628",
-    "nome_completo": "CCR DE GUACUI",
-    "nome_reduzido": "CCR DE GUACUI",
-    "cnpj": "32422628000171",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "32428294",
     "nome_completo": "CCC DO ESP.SANTO - SICOOB ES",
     "nome_reduzido": "CCC DO ESP.SANTO - SICOOB ES",
