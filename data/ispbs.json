@@ -13788,24 +13788,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "42547503",
-    "nome_completo": "QYON IP LTDA.",
-    "nome_reduzido": "QYON IP LTDA.",
-    "cnpj": "42547503000121",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "42873828",
     "nome_completo": "CC AGROCREDI LTDA",
     "nome_reduzido": "CC AGROCREDI LTDA",
