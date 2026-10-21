@@ -412,7 +412,6 @@
 11275560,RECARGAPAY IP LTDA.,RECARGAPAY IP LTDA.,11275560000175,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
 11285104,"NEON FINANCEIRA - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A",NEON FINANCEIRA - SCFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/05/2021,RSFN,Não
 11351086,MERCADO BITCOIN IP LTDA,MERCADO BITCOIN IP LTDA,11351086000113,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/04/2024,RSFN,Não
-11476673,BANCO RANDON S.A.,BANCO RANDON S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/08/2020,RSFN,Não
 11491029,BSN,BSN,11491029000130,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/09/2025,RSFN,Não
 11495073,OM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,OM DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/03/2019,Internet,Não
 11581339,BMP SCMEPP LTDA,BMP SCMEPP LTDA,11581339000145,Sociedade de Crédito ao Microempreendedor,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/09/2019,RSFN,Não
@@ -503,7 +502,7 @@
 20443996,"BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",BECKER FINANCEIRA SA - CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/08/2025,RSFN,Não
 20520298,BS2 PAYMENTS IP S.A.,BS2 PAYMENTS IP S.A.,20520298000178,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 20757199,PAY4FUN IP S.A.,PAY4FUN IP S.A.,20757199000104,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2023,RSFN,Não
-20833992,COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA,CC MECUNP,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/09/2025,RSFN,Não
+20833992,COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA - EM LIQUIDAÇÃO EXTRAJUDICIAL,CC MECUNP - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/09/2025,RSFN,Não
 20855875,NEON PAGAMENTOS S.A. IP,NEON PAGAMENTOS S.A. IP,20855875000182,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,12/01/2023,RSFN,Não
 21018182,EBANX IP LTDA.,EBANX IP LTDA.,21018182000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,09/07/2020,RSFN,Não
 21332862,CARTOS SCD S.A.,CARTOS SCD S.A.,21332862000191,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,16/09/2020,RSFN,Não
@@ -765,6 +764,7 @@
 42066258,RJI CORRETORA DE TITULOS E VALORES MOBILIARIOS LTDA,RJI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/07/2022,RSFN,Não
 42259084,ARTTA SCD,ARTTA SCD,42259084000122,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,11/10/2022,RSFN,Não
 42272526,BNY Mellon Banco S.A.,BNY MELLON BCO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,19/11/2012,RSFN,Não
+42547503,QYON IP LTDA.,QYON IP LTDA.,42547503000121,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
 42873828,CC AGROCREDI LTDA,CC AGROCREDI LTDA,42873828000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42880617,CC SICOOB CREDITIROS,CC SICOOB CREDITIROS,42880617000199,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42887133,CC CREDISUCESSO LTDA. - SICOOB CREDISUCESSO,CC CREDISUCESSO LTDA. - SICOOB CREDISUCESSO,42887133000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,

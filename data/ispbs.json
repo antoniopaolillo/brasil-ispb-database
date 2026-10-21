@@ -7434,24 +7434,6 @@
     "fonte_dados": "PIX+STR"
   },
   {
-    "ispb": "11476673",
-    "nome_completo": "BANCO RANDON S.A.",
-    "nome_reduzido": "BANCO RANDON S.A.",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "03/08/2020",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "11491029",
     "nome_completo": "BSN",
     "nome_reduzido": "BSN",
@@ -9073,8 +9055,8 @@
   },
   {
     "ispb": "20833992",
-    "nome_completo": "COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA",
-    "nome_reduzido": "CC MECUNP",
+    "nome_completo": "COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "nome_reduzido": "CC MECUNP - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "cnpj": "",
     "tipo_instituicao": "Instituição Financeira",
     "autorizada_bcb": "Sim",
@@ -13786,6 +13768,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "STR"
+  },
+  {
+    "ispb": "42547503",
+    "nome_completo": "QYON IP LTDA.",
+    "nome_reduzido": "QYON IP LTDA.",
+    "cnpj": "42547503000121",
+    "tipo_instituicao": "Instituição de Pagamento",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Sim",
+    "participa_str": "Não",
+    "status_operacional": "",
+    "data_inicio_operacao": "",
+    "acesso_principal": "",
+    "participa_compe": "",
+    "modalidade_pix": "Provedor de Conta Transacional",
+    "iniciacao_pagamento": "Ativo em operação restrita",
+    "facilitador_saque": "",
+    "fonte_dados": "PIX"
   },
   {
     "ispb": "42873828",
