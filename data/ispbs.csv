@@ -534,7 +534,7 @@
 24795049,CCLA SUDOESTE GOIANO,CCLA SUDOESTE GOIANO,24795049000146,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24799033,CCLA VALE DO PARANAÍBA,CCLA VALE DO PARANAÍBA,24799033000101,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 24830879,CCLA VALE DO ARAGUAIA,CCLA VALE DO ARAGUAIA,24830879000167,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-25021356,DLOCAL BRASIL IP S.A.,DLOCAL BRASIL IP S.A.,25021356000132,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Sim,Não,,,
+25021356,DLOCAL BRASIL IP S.A.,DLOCAL BRASIL IP S.A.,25021356000132,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,22/10/2026,RSFN,Não
 25104230,PAGARE IP S.A.,PAGARE IP S.A.,25104230000121,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,28/08/2024,RSFN,Não
 25238191,BELLUNO IP LTDA.,BELLUNO IP LTDA.,25238191000155,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 25353939,CC CREDIALP,CC CREDIALP,25353939000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -618,7 +618,7 @@
 32474884,SICOOB SUL-LITORÂNEO,SICOOB SUL-LITORÂNEO,32474884000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32615247,CC SICOOB COOPEC LTDA.,CC SICOOB COOPEC LTDA.,32615247000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32648370,FAIR SOCIEDADE CORRETORA DE CÂMBIO S.A.,FAIR SOCIEDADE CC,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/09/2017,Internet,Não
-32708748,WE PAY OUT IP LTDA.,WE PAY OUT IP LTDA.,32708748000130,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,25/11/2024,RSFN,Não
+32708748,WE PAY OUT INSTITUICAO DE PAGAMENTO LTDA.,WE PAY OUT IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/11/2024,RSFN,Não
 32820711,EFEX INSTITUIÇÃO DE PAGAMENTO S.A.,EFEX IP,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2025,RSFN,Não
 32906701,EXPAG SOLUÇÕES EM PAGAMENTOS,EXPAG SOLUÇÕES EM PAGAMENTOS,32906701000180,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32995755,COOP SICREDI SUDOESTE MT/PA,COOP SICREDI SUDOESTE MT/PA,32995755000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -644,7 +644,6 @@
 33603457,BANCO RODOBENS S.A.,BCO RODOBENS S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,06/02/2012,RSFN,Sim
 33615055,CCLA ANÁPOLIS E REGIÃO,CCLA ANÁPOLIS E REGIÃO,33615055000165,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33630661,GOWD IP LTDA.,GOWD IP LTDA.,33630661000150,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/07/2026,RSFN,Não
-33641877,EQUIS IP LTDA.,EQUIS IP LTDA.,33641877000110,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33644196,Banco Fator S.A.,BCO FATOR S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 33657248,BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL,BNDES,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,30/06/2014,RSFN,Não
 33735811,B91,B91,33735811000190,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -795,7 +794,7 @@
 45246410,BANCO GENIAL,BANCO GENIAL,45246410000155,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,19/11/2012,RSFN,Sim
 45283173,BBVA BRASIL BANCO DE INVESTIMENTO S.A.,BBVA BRASIL BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2025,RSFN,Não
 45331622,BNK DIGITAL SCD S.A.,BNK DIGITAL SCD S.A.,45331622000130,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/06/2023,RSFN,Não
-45341994,CREDIMÓVEL SCD S.A.,CREDIMÓVEL SCD S.A.,45341994000148,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
+45341994,CREDIMÓVEL SCD S.A.,CREDIMÓVEL SCD S.A.,45341994000148,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 45548763,MAPS IP LTDA.,MAPS IP LTDA.,45548763000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,03/06/2024,RSFN,Não
 45716916,FIDEM SOCIEDADE DE CRÉDITO DIRETO S/A,FIDEM SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2025,RSFN,Não
 45745537,FUTURO SOCIEDADE DE CRÉDITO DIRETO S.A.,FUTURO SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/04/2023,RSFN,Não
@@ -1074,7 +1073,7 @@
 89990501,COOP SICREDI IBIRAIARAS RS/MG,COOP SICREDI IBIRAIARAS RS/MG,89990501000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 90400888,BCO SANTANDER (BRASIL) S.A.,BCO SANTANDER (BRASIL) S.A.,90400888000142,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,22/04/2002,RSFN,Sim
 90497256,COOP SICREDI INTERESTADOS,COOP SICREDI INTERESTADOS,90497256000149,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-90608712,COOP SICREDI SERRANA RS,COOP SICREDI SERRANA RS,90608712000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+90608712,COOP SICREDI SERRANA,COOP SICREDI SERRANA,90608712000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 90729369,COOP SICREDI CULTURAS RS/MG,COOP SICREDI CULTURAS RS/MG,90729369000122,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 91159764,COOP SICREDI INTEGRAÇÃO RS/MG,COOP SICREDI INTEGRAÇÃO RS/MG,91159764000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 91586982,COOP SICREDI PIONEIRA RS,COOP SICREDI PIONEIRA RS,91586982000109,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
