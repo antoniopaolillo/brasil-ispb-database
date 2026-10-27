@@ -10278,24 +10278,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "27652684",
-    "nome_completo": "Genial Investimentos Corretora de Valores Mobiliários S.A.",
-    "nome_reduzido": "GENIAL INVESTIMENTOS CVM S.A.",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "14/05/2018",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "27810157",
     "nome_completo": "IPAG PAGAMENTOS DIGITAIS",
     "nome_reduzido": "IPAG PAGAMENTOS DIGITAIS",
