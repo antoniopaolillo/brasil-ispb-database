@@ -12906,6 +12906,24 @@
     "fonte_dados": "PIX"
   },
   {
+    "ispb": "38486817",
+    "nome_completo": "BANCO DE DESENVOLVIMENTO DE MINAS GERAIS S.A.-BDMG",
+    "nome_reduzido": "BCO DES. DE MG S.A.",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "03/11/2026",
+    "acesso_principal": "RSFN",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
+  },
+  {
     "ispb": "38588174",
     "nome_completo": "CC CREDICOPE",
     "nome_reduzido": "CC CREDICOPE",

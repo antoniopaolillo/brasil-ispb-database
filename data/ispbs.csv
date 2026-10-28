@@ -716,6 +716,7 @@
 38297374,NUVENDE,NUVENDE,38297374000193,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 38320462,V3 IP S.A.,V3 IP S.A.,38320462000169,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,16/07/2026,RSFN,Não
 38372267,MAREE IP LTDA.,MAREE IP LTDA.,38372267000182,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
+38486817,BANCO DE DESENVOLVIMENTO DE MINAS GERAIS S.A.-BDMG,BCO DES. DE MG S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/11/2026,RSFN,Não
 38588174,CC CREDICOPE,CC CREDICOPE,38588174000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 38593706,MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A.,MULTICRED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/09/2023,RSFN,Não
 39343350,CC LAR CREDI,CC LAR CREDI,39343350000196,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/07/2021,RSFN,Sim
