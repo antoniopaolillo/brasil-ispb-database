@@ -14814,24 +14814,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "49686505",
-    "nome_completo": "WASU - WALLET SUPPORT INSTITUIÇÃO DE PAGAMENTO LTDA",
-    "nome_reduzido": "WASU IP LTDA.",
-    "cnpj": "",
-    "tipo_instituicao": "Instituição Financeira",
-    "autorizada_bcb": "Sim",
-    "participa_pix": "Não",
-    "participa_str": "Sim",
-    "status_operacional": "Ativo",
-    "data_inicio_operacao": "05/06/2026",
-    "acesso_principal": "RSFN",
-    "participa_compe": "Não",
-    "modalidade_pix": "",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "Não",
-    "fonte_dados": "STR"
-  },
-  {
     "ispb": "49931906",
     "nome_completo": "TRIO IP LTDA.",
     "nome_reduzido": "TRIO IP LTDA.",
@@ -17744,7 +17726,7 @@
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX"
   },
   {
