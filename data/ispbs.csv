@@ -197,7 +197,7 @@
 03973814,SERVICOOP,SERVICOOP,03973814000109,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,16/10/2017,RSFN,Não
 03985375,CREDISIS SUDOESTE/RO,CREDISIS SUDOESTE/RO,03985375000146,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04013172,CC SICOOB 3 COLINAS,CC SICOOB 3 COLINAS,04013172000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-04062902,OZ CORRETORA DE CÂMBIO S.A.,OZ CORRETORA DE CÂMBIO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/02/2019,RSFN,Não
+04062902,OZ SOCIEDADE CORRETORA DE CÂMBIO S.A.,OZ CÂMBIO,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,11/02/2019,RSFN,Não
 04079285,CCLA DE ITAJUBÁ - SICOOB SUDESTE MAIS,CCLA DE ITAJUBÁ - SICOOB SUDESTE MAIS,04079285000159,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04088208,SEM PARAR IP,SEM PARAR IP,04088208000165,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 04120633,SICOOB EMPRESAS RJ,SICOOB EMPRESAS RJ,04120633000194,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -568,7 +568,7 @@
 27098060,BANCO DIGIO,BANCO DIGIO,27098060000145,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/11/2019,RSFN,Não
 27126513,ARQ IP LTDA,ARQ IP LTDA,27126513000108,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 27214112,AL5 S.A. SCFI,AL5 S.A. SCFI,27214112000100,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,24/10/2019,RSFN,Não
-27302181,CRED.UFES,CRED.UFES,27302181000167,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,26/04/2021,RSFN,Não
+27302181,COOPERATIVA DE CRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO,CRED.UFES,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/04/2021,RSFN,Não
 27351731,"REALIZE SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",REALIZE SCFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,16/09/2020,RSFN,Não
 27810157,IPAG PAGAMENTOS DIGITAIS,IPAG PAGAMENTOS DIGITAIS,27810157000139,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 27842177,BPY CCTVM S.A.,BPY CCTVM S.A.,27842177000191,Sociedade Corretora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,26/02/2018,RSFN,Não
@@ -848,7 +848,7 @@
 53623781,CC COOPCRED,CC COOPCRED,53623781000137,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53720128,CONTA SIMPLES SCD S.A.,CONTA SIMPLES SCD S.A.,53720128000196,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/07/2026,RSFN,Não
 53776852,COOP CREDICENTRO,COOP CREDICENTRO,53776852000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-53822116,MW IP LTDA.,MW IP LTDA.,53822116000172,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/10/2025,RSFN,Não
+53822116,MW INSTITUICAO DE PAGAMENTO LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL,MW IP LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/10/2025,RSFN,Não
 53841911,CCI UNINDÚSTRIA,CCI UNINDÚSTRIA,53841911000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 53842122,URBANO S.A. SCFI,URBANO S.A. SCFI,53842122000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/12/2024,RSFN,Não
 53908413,KIWIFY IP,KIWIFY IP,53908413000135,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,31/10/2025,RSFN,Não
