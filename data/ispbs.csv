@@ -67,7 +67,7 @@
 01637949,CCLA VALE DO PARANAPANEMA,CCLA VALE DO PARANAPANEMA,01637949000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01644264,CCLA SICOOB CREDIMEPI,CCLA SICOOB CREDIMEPI,01644264000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01648418,NSTECH IP S.A.,NSTECH IP S.A.,01648418000172,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-01657678,CCLA SEBASTIAO PARAISO,CCLA SEBASTIAO PARAISO,01657678000104,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+01657678,CCLA SEBASTIAO PARAISO,CCLA SEBASTIAO PARAISO,01657678000104,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01658426,COOP COOPERFORTE LTDA.,COOP COOPERFORTE LTDA.,01658426000108,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/09/2020,RSFN,Não
 01667352,CCLA SICOOB CREDMISSÃO LTDA.,CCLA SICOOB CREDMISSÃO LTDA.,01667352000168,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01667766,CCLA CREDINOVA LTDA. - SICOOB CREDINOVA,CCLA CREDINOVA LTDA. - SICOOB CREDINOVA,01667766000197,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -145,7 +145,7 @@
 02992317,INTEX BANK BANCO DE CÂMBIO S.A.,INTEX BANK BCO DE CÂMBIO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/08/2015,RSFN,Não
 02992335,CIP S.A,CIP SA Siloc,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/02/2004,RSFN,Não
 03000142,COOP POL FED - SICREDI POL,COOP POL FED - SICREDI POL,03000142000147,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-03015152,COOP CRESOL SÃO VALENTIM,COOP CRESOL SÃO VALENTIM,03015152000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+03015152,COOP CRESOL PROSPERAR,COOP CRESOL PROSPERAR,03015152000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03017677,Banco J. Safra S.A.,BCO. J.SAFRA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/08/2004,RSFN,Sim
 03033469,CC DO PLANALTO SUL,CC DO PLANALTO SUL,03033469000115,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03042597,COOP SICREDI CAMPO GRANDE MS/GO,COOP SICREDI CAMPO GRANDE MS/GO,03042597000125,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -217,7 +217,7 @@
 04355489,CC UNICRED COOMARCA,CC UNICRED COOMARCA,04355489000175,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04388688,CC SICOOB ENGECRED,CC SICOOB ENGECRED,04388688000180,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04391007,CIP S.A,CIP SA Sitraf,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/11/2002,RSFN,Não
-04406371,COOP DO ESTADO DE GOIÁS,COOP DO ESTADO DE GOIÁS,04406371000129,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+04406371,COOP DO ESTADO DE GOIÁS,COOP DO ESTADO DE GOIÁS,04406371000129,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04414354,CCM DO ABC - COOPER 7,CCM DO ABC - COOPER 7,04414354000133,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04445917,UNICRED COALIZÃO,UNICRED COALIZÃO,04445917000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04463602,COOP SICREDI CEN OEST PAULISTA,COOP SICREDI CEN OEST PAULISTA,04463602000136,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -225,7 +225,7 @@
 04490531,COOP CRESOL GOIAS,COOP CRESOL GOIAS,04490531000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04525997,COOP SICREDI EDUCAÇÃO RS,COOP SICREDI EDUCAÇÃO RS,04525997000154,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04529074,COOP SICOOB CREDICAPITAL,COOP SICOOB CREDICAPITAL,04529074000170,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-04565791,COOP CRESOL ARATIBA,COOP CRESOL ARATIBA,04565791000158,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+04565791,COOP CRESOL ARATIBA,COOP CRESOL ARATIBA,04565791000158,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04572960,CECM MILITARES ESTADUAIS DE SC,CECM MILITARES ESTADUAIS DE SC,04572960000187,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 04608925,CREDJUST - CCM INTEGRANTES DA,CREDJUST - CCM INTEGRANTES DA,04608925000170,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 04632856,CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO,CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO,04632856000130,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,08/02/2011,RSFN,Sim
@@ -367,7 +367,7 @@
 09210106,SOCRED SA - SCMEPP,SOCRED SA - SCMEPP,09210106000194,Sociedade de Crédito ao Microempreendedor,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,12/06/2017,RSFN,Não
 09274232,STATE STREET BRASIL S.A. - BANCO COMERCIAL,STATE STREET BR S.A. BCO COMERCIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/08/2008,RSFN,Não
 09313766,CARUANA SCFI,CARUANA SCFI,09313766000109,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,12/08/2013,RSFN,Não
-09330158,COOP CRESOL TREZE DE MAIO,COOP CRESOL TREZE DE MAIO,09330158000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+09330158,COOP CRESOL TREZE DE MAIO,COOP CRESOL TREZE DE MAIO,09330158000102,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09343038,COOP SICREDI ALTSERTÃO PARAIBANO,COOP SICREDI ALTSERTÃO PARAIBANO,09343038000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09403026,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,CC CENTRO LESTE NORTE MARANHENSE - SICOOB CENTROLESTE,09403026000155,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09424988,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,CCLA DO OESTE MARANHENSE - SICOOB OESTE MARANHENSE,09424988000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -470,7 +470,7 @@
 17351180,BCO TRIANGULO S.A.,BCO TRIANGULO S.A.,17351180000159,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Não
 17361536,CC REG. COLAR METROPOLITANO VALE DO AÇO LTDA,CC REG. COLAR METROPOLITANO VALE DO AÇO LTDA,17361536000135,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 17453575,ICBC do Brasil Banco Múltiplo S.A.,ICBC DO BRASIL BM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/09/2013,RSFN,Não
-17502881,CECM EMPR CEMIG IND METAL E SERV PUB MUN,CECM EMPR CEMIG IND METAL E SERV PUB MUN,17502881000141,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+17502881,CECM EMPR CEMIG IND METAL E SERV PUB MUN,CECM EMPR CEMIG IND METAL E SERV PUB MUN,17502881000141,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 17768068,PINPAG IP S.A.,PINPAG IP S.A.,17768068000118,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 17772370,VIPS CORRETORA DE CÂMBIO S.A.,VIPS CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/08/2018,Internet,Não
 17819084,PAGCERTO IP LTDA.,PAGCERTO IP LTDA.,17819084000192,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -593,7 +593,7 @@
 30723871,CASAS BAHIA PAY IP LTDA.,CASAS BAHIA PAY IP LTDA.,30723871000102,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/05/2025,RSFN,Não
 30944783,PAGPRIME IP,PAGPRIME IP,30944783000122,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,23/10/2023,Internet,Não
 30980539,OKTO IP,OKTO IP,30980539000115,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,nan,24/04/2023,RSFN,Não
-31166683,MOUNT PAY,MOUNT PAY,31166683000185,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+31166683,MOUNT PAY IP LTDA,MOUNT PAY IP LTDA,31166683000185,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 31531997,CONPAY IP S.A.,CONPAY IP S.A.,31531997000130,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 31597552,BANCO CLASSICO S.A.,BCO CLASSICO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 31680151,SWAP IP S.A.,SWAP IP S.A.,31680151000161,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,19/02/2026,RSFN,Não
@@ -768,7 +768,7 @@
 42880617,CC SICOOB CREDITIROS,CC SICOOB CREDITIROS,42880617000199,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42887133,CC CREDISUCESSO LTDA. - SICOOB CREDISUCESSO,CC CREDISUCESSO LTDA. - SICOOB CREDISUCESSO,42887133000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42898825,CECM MEDICOS E PROFISSIONAIS AREA SAUDE DO BRASIL,CECM MEDICOS E PROFISSIONAIS AREA SAUDE DO BRASIL,42898825000115,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-42934794,CC CREDIPIMENTA,CC CREDIPIMENTA,42934794000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+42934794,CC CREDIPIMENTA,CC CREDIPIMENTA,42934794000100,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 42963742,BANSUR JM SOCIEDADE DE CRÉDITO DIRETO S/A,BANSUR JM SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/09/2025,RSFN,Não
 43180355,PEFISA S.A. - C.F.I.,PEFISA S.A. - C.F.I.,43180355000112,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/11/2017,RSFN,Não
 43394419,GOOGLE PAY BRASIL IP LTDA.,GOOGLE PAY BRASIL IP LTDA.,43394419000188,Instituição de Pagamento,Sim,Sim,Não,,PIX,Iniciador,Sim,nan,,,
