@@ -172,7 +172,7 @@
     "participa_str": "Sim",
     "status_operacional": "Ativo",
     "data_inicio_operacao": "21/11/2018",
-    "acesso_principal": "RSFN",
+    "acesso_principal": "Internet",
     "participa_compe": "Não",
     "modalidade_pix": "",
     "iniciacao_pagamento": "Não",
@@ -19562,7 +19562,7 @@
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX"
   },
   {

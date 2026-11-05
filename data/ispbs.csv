@@ -8,7 +8,7 @@
 00106180,"CCC DOS EST DE MT, MS E MUN DE CACOAL/RO","CCC DOS EST DE MT, MS E MUN DE CACOAL/RO",00106180000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 00122327,"SANTINVEST S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS",SANTINVEST S.A. - CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,17/04/2023,RSFN,Não
 00204963,CCR SEARA,CCR SEARA,00204963000107,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,27/08/2021,RSFN,Sim
-00250699,AGK CORRETORA DE CAMBIO S.A.,AGK CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/11/2018,RSFN,Não
+00250699,AGK CORRETORA DE CAMBIO S.A.,AGK CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/11/2018,Internet,Não
 00259231,CCLA SICOOB UNIMAIS METROPOLITANA,CCLA SICOOB UNIMAIS METROPOLITANA,00259231000114,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 00309024,CCC ESTADO MG - CECREMGE,CCC ESTADO MG - CECREMGE,00309024000127,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 00315557,UNICRED DO BRASIL,UNICRED DO BRASIL,00315557000111,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,28/07/2014,RSFN,Sim
@@ -1085,7 +1085,7 @@
 92874270,BANCO DIGIMAIS S.A.,BCO DIGIMAIS S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 92894922,BANCO ORIGINAL,BANCO ORIGINAL,92894922000108,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/04/2002,RSFN,Sim
 92934215,BANRISUL PAGAMENTOS IP,BANRISUL PAGAMENTOS IP,92934215000106,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-94243839,UNICRED PIONEIRA,UNICRED PIONEIRA,94243839000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+94243839,UNICRED PIONEIRA,UNICRED PIONEIRA,94243839000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 94433109,CECM MÉD DE PORTO ALEGRE,CECM MÉD DE PORTO ALEGRE,94433109000166,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 94968518,EFX CORRETORA DE CÂMBIO LTDA.,EFX CC LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,14/03/2019,Internet,Não
 95163002,UNICRED ELEVA,UNICRED ELEVA,95163002000108,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
