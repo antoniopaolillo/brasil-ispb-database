@@ -66,7 +66,7 @@
 01635462,UNICRED PREMIUM CAPITAL,UNICRED PREMIUM CAPITAL,01635462000148,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01637949,CCLA VALE DO PARANAPANEMA,CCLA VALE DO PARANAPANEMA,01637949000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01644264,CCLA SICOOB CREDIMEPI,CCLA SICOOB CREDIMEPI,01644264000140,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-01648418,NSTECH IP S.A.,NSTECH IP S.A.,01648418000172,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+01648418,NSTECH IP S.A.,NSTECH IP S.A.,01648418000172,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,17/11/2026,RSFN,Não
 01658426,COOP COOPERFORTE LTDA.,COOP COOPERFORTE LTDA.,01658426000108,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/09/2020,RSFN,Não
 01667352,CCLA SICOOB CREDMISSÃO LTDA.,CCLA SICOOB CREDMISSÃO LTDA.,01667352000168,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01667766,CCLA CREDINOVA LTDA. - SICOOB CREDINOVA,CCLA CREDINOVA LTDA. - SICOOB CREDINOVA,01667766000197,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -154,7 +154,6 @@
 03102185,CCLA CENTRO NORDESTE - SICOOB CENTRO NORDESTE,CCLA CENTRO NORDESTE - SICOOB CENTRO NORDESTE,03102185000133,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03130170,BRASIL CARD IP LTDA,BRASIL CARD IP LTDA,03130170000189,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 03212823,COOP SICREDI TRADIÇÃO RS,COOP SICREDI TRADIÇÃO RS,03212823000179,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-03215790,Banco Toyota do Brasil S.A.,BCO TOYOTA DO BRASIL S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/07/2020,RSFN,Não
 03222753,CREDISIS CREDIARI COOP LTDA.,CREDISIS CREDIARI COOP LTDA.,03222753000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03269540,CC SERV MIL POL CIVIL SEC ED,CC SERV MIL POL CIVIL SEC ED,03269540000163,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03311443,MEUTUDO SCFI,MEUTUDO SCFI,03311443000191,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,07/01/2020,RSFN,Não
@@ -784,7 +783,6 @@
 45246410,BANCO GENIAL,BANCO GENIAL,45246410000155,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,19/11/2012,RSFN,Sim
 45283173,BBVA BRASIL BANCO DE INVESTIMENTO S.A.,BBVA BRASIL BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2025,RSFN,Não
 45331622,BNK DIGITAL SCD S.A.,BNK DIGITAL SCD S.A.,45331622000130,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/06/2023,RSFN,Não
-45341994,CREDIMÓVEL SCD S.A.,CREDIMÓVEL SCD S.A.,45341994000148,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 45548763,MAPS IP LTDA.,MAPS IP LTDA.,45548763000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,03/06/2024,RSFN,Não
 45716916,FIDEM SOCIEDADE DE CRÉDITO DIRETO S/A,FIDEM SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2025,RSFN,Não
 45745537,FUTURO SOCIEDADE DE CRÉDITO DIRETO S.A.,FUTURO SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/04/2023,RSFN,Não
