@@ -6979,7 +6979,7 @@
     "acesso_principal": "RSFN",
     "participa_compe": "Não",
     "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Aguardando Início da Etapa de Operação Restrita",
+    "iniciacao_pagamento": "Ativo em operação restrita",
     "facilitador_saque": "",
     "fonte_dados": "PIX+STR"
   },
@@ -8830,7 +8830,7 @@
     "participa_str": "Sim",
     "status_operacional": "Ativo",
     "data_inicio_operacao": "13/08/2025",
-    "acesso_principal": "RSFN",
+    "acesso_principal": "Internet",
     "participa_compe": "Não",
     "modalidade_pix": "",
     "iniciacao_pagamento": "Não",
@@ -13894,6 +13894,24 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "PIX+STR"
+  },
+  {
+    "ispb": "44650156",
+    "nome_completo": "ONCRED - SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "nome_reduzido": "ONCRED - SCD S.A.",
+    "cnpj": "",
+    "tipo_instituicao": "Instituição Financeira",
+    "autorizada_bcb": "Sim",
+    "participa_pix": "Não",
+    "participa_str": "Sim",
+    "status_operacional": "Ativo",
+    "data_inicio_operacao": "18/11/2026",
+    "acesso_principal": "Internet",
+    "participa_compe": "Não",
+    "modalidade_pix": "",
+    "iniciacao_pagamento": "Não",
+    "facilitador_saque": "Não",
+    "fonte_dados": "STR"
   },
   {
     "ispb": "44663846",

@@ -386,7 +386,7 @@
 10348181,COOP SICREDI VALE LITORAL SC,COOP SICREDI VALE LITORAL SC,10348181000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Sim,,,
 10371492,Banco Yamaha Motor do Brasil S.A.,BCO YAMAHA MOTOR S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2022,RSFN,Não
 10398952,CRESOL CONFEDERAÇÃO,CRESOL CONFEDERAÇÃO,10398952000169,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,02/05/2016,RSFN,Sim
-10440482,GETNET IP,GETNET IP,10440482000154,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,13/08/2025,RSFN,Não
+10440482,GETNET IP,GETNET IP,10440482000154,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,13/08/2025,RSFN,Não
 10506341,BLU IP LTDA.,BLU IP LTDA.,10506341000197,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 10520232,COOP CRESOL AMAZONIA,COOP CRESOL AMAZONIA,10520232000124,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 10573521,MERCADO PAGO IP LTDA.,MERCADO PAGO IP LTDA.,10573521000191,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,24/06/2019,RSFN,Não
@@ -489,7 +489,7 @@
 20155248,UNIDA DTVM LTDA,UNIDA DTVM LTDA,20155248000139,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/10/2017,RSFN,Não
 20251847,SUDACRED SOCIEDADE DE CRÉDITO DIRETO S.A.,SUDACRED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/05/2023,RSFN,Não
 20308187,AVANCARD PROVER IP LTDA,AVANCARD PROVER IP LTDA,20308187000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,04/03/2024,RSFN,Não
-20443996,"BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",BECKER FINANCEIRA SA - CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/08/2025,RSFN,Não
+20443996,"BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",BECKER FINANCEIRA SA - CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/08/2025,Internet,Não
 20520298,BS2 PAYMENTS IP S.A.,BS2 PAYMENTS IP S.A.,20520298000178,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 20757199,PAY4FUN IP S.A.,PAY4FUN IP S.A.,20757199000104,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,18/10/2023,RSFN,Não
 20833992,COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA - EM LIQUIDAÇÃO EXTRAJUDICIAL,CC MECUNP - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/09/2025,RSFN,Não
@@ -771,6 +771,7 @@
 44373041,COOP UNIPRIME CREDICANA,COOP UNIPRIME CREDICANA,44373041000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 44469161,COOP SICOOB PRO,COOP SICOOB PRO,44469161000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 44478623,ATICCA SCD S.A.,ATICCA SCD S.A.,44478623000140,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,06/02/2023,RSFN,Não
+44650156,ONCRED - SOCIEDADE DE CRÉDITO DIRETO S.A.,ONCRED - SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,18/11/2026,Internet,Não
 44663846,FESTOR INSTITUIÇÃO DE PAGAMENTO LTDA.,FESTOR IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/10/2025,RSFN,Não
 44683140,MAGNUM SCD,MAGNUM SCD,44683140000187,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,22/08/2022,RSFN,Sim
 44704839,ZIMPLER BRASIL IP LTDA.,ZIMPLER BRASIL IP LTDA.,44704839000186,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
