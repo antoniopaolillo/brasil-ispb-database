@@ -186,7 +186,7 @@
 03793242,COOP SICREDI SUL SC,COOP SICREDI SUL SC,03793242000178,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03816413,PAGUEVELOZ IP LTDA.,PAGUEVELOZ IP LTDA.,03816413000137,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/03/2026,RSFN,Não
 03817702,VOLUS IP LTDA.,VOLUS IP LTDA.,03817702000150,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-03844699,CECM DOS TRAB.PORT. DA G.VITOR,CECM DOS TRAB.PORT. DA G.VITOR,03844699000164,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,08/03/2022,RSFN,Não
+03844699,CECM DOS TRAB.PORT. DA G.VITOR,CECM DOS TRAB.PORT. DA G.VITOR,03844699000164,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,08/03/2022,Internet,Não
 03862898,CCLA EMPREG DOS CORREIOS - SICOOB COOPERCORREIOS,CCLA EMPREG DOS CORREIOS - SICOOB COOPERCORREIOS,03862898000103,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03881423,SOCINAL S.A. CFI,SOCINAL S.A. CFI,03881423000156,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,27/07/2021,RSFN,Não
 03941182,CCLA CIRCUITO DAS ÁGUAS,CCLA CIRCUITO DAS ÁGUAS,03941182000193,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -315,7 +315,6 @@
 07469260,CC CREDIFIEMG,CC CREDIFIEMG,07469260000150,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07494300,CREDISIS/CREDISUL COOPERATIVA DE CRÉDITO,CREDISIS/CREDISUL COOPERATIVA DE CRÉDITO,07494300000113,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07502031,COOP EMPRECRED LTDA.,COOP EMPRECRED LTDA.,07502031000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-07512441,"HS FINANCEIRA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS",HS FINANCEIRA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/06/2017,RSFN,Não
 07512780,COOP CRESOL VALE EUROPEU,COOP CRESOL VALE EUROPEU,07512780000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07599206,CCLA DA REGIÃO METROPOLITANA DE GOIÂNIA LTDA.,CCLA DA REGIÃO METROPOLITANA DE GOIÂNIA LTDA.,07599206000129,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 07652226,"Lecca Crédito, Financiamento e Investimento S/A",LECCA CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/12/2011,RSFN,Não
@@ -654,6 +653,7 @@
 35136120,BITSO IP LTDA,BITSO IP LTDA,35136120000103,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 35210410,ONEKEY PAYMENTS IP S.A.,ONEKEY PAYMENTS IP S.A.,35210410000141,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/09/2024,RSFN,Não
 35340796,INCO SEP S.A.,INCO SEP S.A.,35340796000106,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/06/2025,RSFN,Não
+35379930,CHECKOUT DO BRASIL IP LTDA,CHECKOUT DO BRASIL IP LTDA,35379930000182,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Cadastral,nan,,,
 35479592,"DUFRIO FINANCEIRA, CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S.A.",DUFRIO CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/01/2025,RSFN,Não
 35523352,BEES IP LTDA.,BEES IP LTDA.,35523352000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/09/2025,Internet,Não
 35534511,A27 IP S/A,A27 IP S/A,35534511000178,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
@@ -781,6 +781,7 @@
 45246410,BANCO GENIAL,BANCO GENIAL,45246410000155,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,19/11/2012,RSFN,Sim
 45283173,BBVA BRASIL BANCO DE INVESTIMENTO S.A.,BBVA BRASIL BI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2025,RSFN,Não
 45331622,BNK DIGITAL SCD S.A.,BNK DIGITAL SCD S.A.,45331622000130,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/06/2023,RSFN,Não
+45341994,CREDIMÓVEL SCD S.A.,CREDIMÓVEL SCD S.A.,45341994000148,Sociedade de Crédito Direto,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Ativo em operação restrita,nan,,,
 45548763,MAPS IP LTDA.,MAPS IP LTDA.,45548763000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Não,03/06/2024,RSFN,Não
 45716916,FIDEM SOCIEDADE DE CRÉDITO DIRETO S/A,FIDEM SCD S/A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2025,RSFN,Não
 45745537,FUTURO SOCIEDADE DE CRÉDITO DIRETO S.A.,FUTURO SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/04/2023,RSFN,Não
@@ -788,7 +789,7 @@
 45854066,WNT CAPITAL DTVM,WNT CAPITAL DTVM,45854066000187,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,01/03/2023,RSFN,Não
 45860531,IDEA MAKER IP LTDA,IDEA MAKER IP LTDA,45860531000192,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/05/2026,RSFN,Não
 46026562,MONETARIE SCD,MONETARIE SCD,46026562000105,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,20/01/2023,RSFN,Não
-46505612,MONERY IP S.A.,MONERY IP S.A.,46505612000137,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Ativo em operação restrita,nan,03/02/2025,Internet,Não
+46505612,MONERY IP S.A.,MONERY IP S.A.,46505612000137,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/02/2025,Internet,Não
 46518205,"JPMorgan Chase Bank, National Association",JPMORGAN CHASE BANK,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 46642294,COOP SICOOB COOPEREMB,COOP SICOOB COOPEREMB,46642294000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 47074323,SICOOB CREDICONSUMO CC,SICOOB CREDICONSUMO CC,47074323000193,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -826,7 +827,7 @@
 52076716,AWX BRASIL IP LTDA.,AWX BRASIL IP LTDA.,52076716000176,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Etapa Homologatória,nan,13/01/2026,RSFN,Não
 52440987,SANTS SCD S.A.,SANTS SCD S.A.,52440987000169,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,14/06/2024,RSFN,Não
 52586293,Z-ON SCD S.A.,Z-ON SCD S.A.,52586293000134,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,03/10/2024,RSFN,Não
-52833288,LB PAY IP LTDA,LB PAY IP LTDA,52833288000189,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,26/09/2025,Internet,Não
+52833288,LB PAY IP LTDA,LB PAY IP LTDA,52833288000189,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,26/09/2025,RSFN,Não
 53058329,LA FINTECA INSTITUICAO DE PAGAMENTO LTDA,LA FINTECA IP LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,29/06/2026,RSFN,Não
 53505601,"STONE SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",STONE CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,18/03/2025,RSFN,Não
 53518684,BCO HSBC S.A.,BCO HSBC S.A.,53518684000184,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,07/02/2018,RSFN,Não
@@ -912,6 +913,7 @@
 62673470,CC SICOOB COOPMIL,CC SICOOB COOPMIL,62673470000173,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 62931522,CCC ESTADO SP - CECRESP,CCC ESTADO SP - CECRESP,62931522000164,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 63019146,"ANKOR CAPITAL - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",ANKOR CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,08/06/2026,RSFN,Não
+63822040,GUARDIAN SOCIEDADE DE CRÉDITO DIRETO S.A.,GUARDIAN SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/11/2026,Internet,Não
 63917579,CCC DO ESTADO DE SÃO PAULO,CCC DO ESTADO DE SÃO PAULO,63917579000171,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 64237530,CC CREDIUNA LTDA,CC CREDIUNA LTDA,64237530000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 64276058,CC CREDINORTE - SICOOB CREDINORTE,CC CREDINORTE - SICOOB CREDINORTE,64276058000145,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
