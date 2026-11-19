@@ -73,7 +73,6 @@
 01692448,CCLA DO PLANALTO SERRANO,CCLA DO PLANALTO SERRANO,01692448000186,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01699652,CCLA REGIÃO GUAXUPÉ,CCLA REGIÃO GUAXUPÉ,01699652000129,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01701201,Kirton Bank S.A. - Banco Múltiplo,Kirton Bank,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
-01703620,CCLA UNIÃO CENTRO OESTE MINAS,CCLA UNIÃO CENTRO OESTE MINAS,01703620000150,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01705236,UNICRED PROSPERAR,UNICRED PROSPERAR,01705236000196,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01709266,CCM PROF SAUDE E LIVRE ADMISSÃO TEOFILO OTONI LTDA,CCM PROF SAUDE E LIVRE ADMISSÃO TEOFILO OTONI LTDA,01709266000170,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 01722480,QUERO-QUERO VERDECARD IP S.A.,QUERO-QUERO VERDECARD IP S.A.,01722480000167,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Sim,,,
@@ -704,7 +703,7 @@
 38372267,MAREE IP LTDA.,MAREE IP LTDA.,38372267000182,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 38486817,BANCO DE DESENVOLVIMENTO DE MINAS GERAIS S.A.-BDMG,BCO DES. DE MG S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,03/11/2026,RSFN,Não
 38588174,CC CREDICOPE,CC CREDICOPE,38588174000190,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-38593706,MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A.,MULTICRED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/09/2023,RSFN,Não
+38593706,MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A.,MULTICRED SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/09/2023,Internet,Não
 39343350,CC LAR CREDI,CC LAR CREDI,39343350000196,Cooperativa de Crédito,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/07/2021,RSFN,Sim
 39416705,OCTA SOCIEDADE DE CRÉDITO DIRETO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,OCTA SCD S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,18/11/2021,RSFN,Não
 39519944,OPEA SCD,OPEA SCD,39519944000105,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,10/02/2023,RSFN,Não
@@ -945,7 +944,7 @@
 71146450,CCLA CAMPOS GERAIS E CAMPO DO,CCLA CAMPOS GERAIS E CAMPO DO,71146450000135,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71154256,CC SACRAMENTO,CC SACRAMENTO,71154256000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71154876,COOP CREDIPINHO LTDA - SICOOB CREDIPINHO,COOP CREDIPINHO LTDA - SICOOB CREDIPINHO,71154876000130,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-71163315,UNICRED AMPLA,UNICRED AMPLA,71163315000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+71163315,UNICRED AMPLA,UNICRED AMPLA,71163315000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 71207740,CCR IRAI - SICOOB CREDIMIL,CCR IRAI - SICOOB CREDIMIL,71207740000141,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71230338,CCLA ARCOS,CCLA ARCOS,71230338000188,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71237184,CC CREDIBELO LTDA. - SICOOB CREDIBELO,CC CREDIBELO LTDA. - SICOOB CREDIBELO,71237184000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -957,7 +956,7 @@
 71392047,CC MONTECREDI LTDA.,CC MONTECREDI LTDA.,71392047000196,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71418784,UNICRED SUL DE MINAS,UNICRED SUL DE MINAS,71418784000110,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71419600,CCLA DA REGIÃO DE FRUTAL,CCLA DA REGIÃO DE FRUTAL,71419600000137,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-71432926,CCPS E LA DO TRIANG MINEIRO E SUL DE MG LTDA,CCPS E LA DO TRIANG MINEIRO E SUL DE MG LTDA,71432926000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+71432926,CCPS E LA DO TRIANG MINEIRO E SUL DE MG LTDA,CCPS E LA DO TRIANG MINEIRO E SUL DE MG LTDA,71432926000102,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 71441406,CCLA PEDRO LEOPOLDO,CCLA PEDRO LEOPOLDO,71441406000158,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71506513,CC SICOOB ITAPAGIPE,CC SICOOB ITAPAGIPE,71506513000117,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 71590442,Lastro RDV Distribuidora de Títulos e Valores Mobiliários Ltda.,LASTRO RDV DTVM LTDA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/09/2018,Internet,Não
@@ -968,7 +967,6 @@
 73092827,CCM SERV MIN EDUC SÃO PAULO,CCM SERV MIN EDUC SÃO PAULO,73092827000146,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 73113243,COOP SICREDI MORADA DO SOL SP,COOP SICREDI MORADA DO SOL SP,73113243000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 73302408,EXIM SOCIEDADE CORRETORA DE CÂMBIO LTDA,EXIM SCC,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,01/11/2023,Internet,Não
-73326449,COOP LIVRE ADMISSÃO DE ASSOCIADOS SICOOB CRUZ ALTA LTDA,COOP LIVRE ADMISSÃO DE ASSOCIADOS SICOOB CRUZ ALTA LTDA,73326449000118,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 73398646,SOC CC SICOOB COOPERE,SOC CC SICOOB COOPERE,73398646000142,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 73422792,CCLA RUBIATABA REGIAO,CCLA RUBIATABA REGIAO,73422792000166,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 73443863,COOP UNICRED VALE LTDA.,COOP UNICRED VALE LTDA.,73443863000107,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,

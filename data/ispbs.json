@@ -1332,24 +1332,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "01703620",
-    "nome_completo": "CCLA UNIÃO CENTRO OESTE MINAS",
-    "nome_reduzido": "CCLA UNIÃO CENTRO OESTE MINAS",
-    "cnpj": "01703620000150",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "01705236",
     "nome_completo": "UNICRED PROSPERAR",
     "nome_reduzido": "UNICRED PROSPERAR",
@@ -12700,7 +12682,7 @@
     "participa_str": "Sim",
     "status_operacional": "Ativo",
     "data_inicio_operacao": "04/09/2023",
-    "acesso_principal": "RSFN",
+    "acesso_principal": "Internet",
     "participa_compe": "Não",
     "modalidade_pix": "",
     "iniciacao_pagamento": "Não",
@@ -17042,7 +17024,7 @@
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX"
   },
   {
@@ -17258,7 +17240,7 @@
     "participa_compe": "",
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
+    "facilitador_saque": "Não",
     "fonte_dados": "PIX"
   },
   {
@@ -17440,24 +17422,6 @@
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
     "fonte_dados": "STR"
-  },
-  {
-    "ispb": "73326449",
-    "nome_completo": "COOP LIVRE ADMISSÃO DE ASSOCIADOS SICOOB CRUZ ALTA LTDA",
-    "nome_reduzido": "COOP LIVRE ADMISSÃO DE ASSOCIADOS SICOOB CRUZ ALTA LTDA",
-    "cnpj": "73326449000118",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
   },
   {
     "ispb": "73398646",
