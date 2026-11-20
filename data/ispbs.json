@@ -2575,8 +2575,8 @@
   },
   {
     "ispb": "03000142",
-    "nome_completo": "COOP POL FED - SICREDI POL",
-    "nome_reduzido": "COOP POL FED - SICREDI POL",
+    "nome_completo": "COOP SICREDI POL RS/SC",
+    "nome_reduzido": "COOP SICREDI POL RS/SC",
     "cnpj": "03000142000147",
     "tipo_instituicao": "Cooperativa de Crédito",
     "autorizada_bcb": "Sim",
@@ -11935,8 +11935,8 @@
   },
   {
     "ispb": "35990763",
-    "nome_completo": "ENOQ PAY",
-    "nome_reduzido": "ENOQ PAY",
+    "nome_completo": "YATO PAY",
+    "nome_reduzido": "YATO PAY",
     "cnpj": "35990763000101",
     "tipo_instituicao": "Instituição de Pagamento não sujeita à autorização pelo BCB",
     "autorizada_bcb": "Não",

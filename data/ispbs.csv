@@ -142,7 +142,7 @@
 02935307,CC SICOOB CREDSEGURO LTDA.,CC SICOOB CREDSEGURO LTDA.,02935307000100,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 02992317,INTEX BANK BANCO DE CÂMBIO S.A.,INTEX BANK BCO DE CÂMBIO S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/08/2015,RSFN,Não
 02992335,CIP S.A,CIP SA Siloc,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,13/02/2004,RSFN,Não
-03000142,COOP POL FED - SICREDI POL,COOP POL FED - SICREDI POL,03000142000147,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+03000142,COOP SICREDI POL RS/SC,COOP SICREDI POL RS/SC,03000142000147,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03015152,COOP CRESOL PROSPERAR,COOP CRESOL PROSPERAR,03015152000156,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 03017677,Banco J. Safra S.A.,BCO. J.SAFRA S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/08/2004,RSFN,Sim
 03033469,CC DO PLANALTO SUL,CC DO PLANALTO SUL,03033469000115,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -662,7 +662,7 @@
 35713491,PROTOTYPE IP S.A.,PROTOTYPE IP S.A.,35713491000100,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,nan,15/01/2026,RSFN,Não
 35810871,Z1 IP LTDA.,Z1 IP LTDA.,35810871000155,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/02/2024,RSFN,Não
 35977097,UP.P SEP S.A.,UP.P SEP S.A.,35977097000171,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/03/2020,RSFN,Não
-35990763,ENOQ PAY,ENOQ PAY,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+35990763,YATO PAY,YATO PAY,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 36000836,EXTRATTA IP,EXTRATTA IP,36000836000133,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
 36113876,OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.,OLIVEIRA TRUST DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/03/2011,RSFN,Não
 36266751,FINVEST DTVM,FINVEST DTVM,36266751000100,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/08/2022,RSFN,Não
