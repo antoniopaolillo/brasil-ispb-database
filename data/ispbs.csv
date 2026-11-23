@@ -731,6 +731,7 @@
 40735713,JRM2,JRM2,40735713000118,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 40768766,LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.,LIONS TRUST DTVM,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,12/12/2022,RSFN,Não
 40820176,PAY BROKERS IP,PAY BROKERS IP,40820176000104,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
+40867163,RENDIMENTO SOCIEDADE DE CRÉDITO DIRETO S.A.,RENDIMENTO SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/11/2026,Internet,Não
 40910463,BIPA IP,BIPA IP,40910463000105,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 41180092,COOP SICREDI EXPANSÃO,COOP SICREDI EXPANSÃO,41180092000116,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 41255225,COOP SICREDI CENTRO PERNAMBUCANA PE,COOP SICREDI CENTRO PERNAMBUCANA PE,41255225000176,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -801,7 +802,7 @@
 48632754,CELCOIN SOCIEDADE DE CRÉDITO DIRETO S.A.,CELCOIN SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,04/02/2025,RSFN,Não
 48703388,ASA SCFI S.A.,ASA SCFI S.A.,48703388000113,"Sociedade de Crédito, Financiamento e Investimento",Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Sim,Sim,11/03/2024,RSFN,Não
 48707451,PERCAPITAL SOCIEDADE DE CRÉDITO DIRETO S.A.,PERCAPITAL SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/09/2023,RSFN,Não
-48756121,A55 SCD S.A.,A55 SCD S.A.,48756121000194,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/02/2025,RSFN,Não
+48756121,A55 SOCIEDADE DE CRÉDITO DIRETO S.A.,A55 SCD S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,21/02/2025,RSFN,Não
 48786608,"ASAAS SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",ASAAS CFI S.A,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/11/2026,RSFN,Não
 48795256,Banco AndBank (Brasil) S.A.,BCO ANDBANK S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
 48967968,VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA,VERT DTVM LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,27/05/2024,RSFN,Não
