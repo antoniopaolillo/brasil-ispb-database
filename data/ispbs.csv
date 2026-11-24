@@ -458,7 +458,7 @@
 17351180,BCO TRIANGULO S.A.,BCO TRIANGULO S.A.,17351180000159,Banco Múltiplo,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Sim,22/04/2002,RSFN,Não
 17361536,CC REG. COLAR METROPOLITANO VALE DO AÇO LTDA,CC REG. COLAR METROPOLITANO VALE DO AÇO LTDA,17361536000135,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 17453575,ICBC do Brasil Banco Múltiplo S.A.,ICBC DO BRASIL BM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/09/2013,RSFN,Não
-17768068,PINPAG IP S.A.,PINPAG IP S.A.,17768068000118,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+17768068,PINPAG IP S.A.,PINPAG IP S.A.,17768068000118,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,30/11/2026,RSFN,Não
 17772370,VIPS CORRETORA DE CÂMBIO S.A.,VIPS CC S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,15/08/2018,Internet,Não
 17819084,PAGCERTO IP LTDA.,PAGCERTO IP LTDA.,17819084000192,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
 17826860,BMS SCD S.A.,BMS SCD S.A.,17826860000181,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/10/2020,RSFN,Não
@@ -606,9 +606,9 @@
 32708748,WE PAY OUT INSTITUICAO DE PAGAMENTO LTDA.,WE PAY OUT IP LTDA.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,25/11/2024,RSFN,Não
 32820711,EFEX INSTITUIÇÃO DE PAGAMENTO S.A.,EFEX IP,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,05/09/2025,RSFN,Não
 32906701,EXPAG SOLUÇÕES EM PAGAMENTOS,EXPAG SOLUÇÕES EM PAGAMENTOS,32906701000180,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-32995755,COOP SICREDI SUDOESTE MT/PA,COOP SICREDI SUDOESTE MT/PA,32995755000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+32995755,COOP SICREDI SUDOESTE ARAXINGU,COOP SICREDI SUDOESTE ARAXINGU,32995755000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32997490,Creditas Sociedade de Crédito Direto S.A.,CREDITAS SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/07/2019,RSFN,Não
-33021064,COOP SICREDI ARAXINGU,COOP SICREDI ARAXINGU,33021064000128,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
+33021064,COOP SICREDI ARAXINGU,COOP SICREDI ARAXINGU,33021064000128,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33040601,"MERCANTIL FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO.",MERCANTIL FINANCEIRA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/08/2023,Internet,Não
 33042151,Banco de la Nacion Argentina,BCO LA NACION ARGENTINA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 33042953,Citibank N.A.,CITIBANK N.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
