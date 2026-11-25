@@ -663,7 +663,7 @@
 35810871,Z1 IP LTDA.,Z1 IP LTDA.,35810871000155,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,21/02/2024,RSFN,Não
 35977097,UP.P SEP S.A.,UP.P SEP S.A.,35977097000171,Sociedade de Empréstimo entre Pessoas,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,25/03/2020,RSFN,Não
 35990763,YATO PAY,YATO PAY,35990763000101,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-36000836,EXTRATTA IP,EXTRATTA IP,36000836000133,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Etapa Homologatória,nan,,,
+36000836,EXTRATTA IP,EXTRATTA IP,36000836000133,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Aguardando Início da Etapa de Operação Restrita,nan,,,
 36113876,OLIVEIRA TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIARIOS S.A.,OLIVEIRA TRUST DTVM S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,24/03/2011,RSFN,Não
 36266751,FINVEST DTVM,FINVEST DTVM,36266751000100,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/08/2022,RSFN,Não
 36321990,"AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",AGORACRED S/A SCFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,07/08/2024,RSFN,Não
@@ -711,7 +711,7 @@
 39664698,CREDSYSTEM SCD S.A.,CREDSYSTEM SCD S.A.,39664698000185,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,20/04/2021,RSFN,Não
 39669186,HEMERA DTVM LTDA.,HEMERA DTVM LTDA.,39669186000101,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,17/08/2021,RSFN,Não
 39676772,CREDIFIT SCD S.A.,CREDIFIT SCD S.A.,39676772000183,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,15/09/2021,RSFN,Não
-39696395,CACTVS IP S.A.,CACTVS IP S.A.,39696395000144,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,nan,23/02/2026,RSFN,Não
+39696395,CACTVS IP S.A.,CACTVS IP S.A.,39696395000144,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,23/02/2026,RSFN,Não
 39715262,MASTERBARTER,MASTERBARTER,39715262000178,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 39738065,FFCRED SCD S.A.,FFCRED SCD S.A.,39738065000174,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,30/11/2022,RSFN,Não
 39908427,STARK SCD S.A.,STARK SCD S.A.,39908427000128,Sociedade de Crédito Direto,Sim,Sim,Sim,,PIX+STR,Liquidante Especial,Não,nan,01/10/2021,RSFN,Não
