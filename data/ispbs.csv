@@ -348,7 +348,6 @@
 08673569,F D GOLD DTVM LTDA,F D GOLD DTVM LTDA,08673569000120,Sociedade Distribuidora de TVM,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,01/12/2020,RSFN,Não
 08742188,CCLA UNIÃO E NEGÓCIOS  - SICOOB INTEGRAÇÃO,CCLA UNIÃO E NEGÓCIOS  - SICOOB INTEGRAÇÃO,08742188000155,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 08795285,CCLA SICOOB CREDIACIL,CCLA SICOOB CREDIACIL,08795285000106,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
-08844074,CC DE ITAPETININGA - SICOOB CRED-ACI,CC DE ITAPETININGA - SICOOB CRED-ACI,08844074000116,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 08850613,CECM EMPR CENT ELÉTRICAS/SC,CECM EMPR CENT ELÉTRICAS/SC,08850613000120,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09004796,CECM SICOOB CRED-ACILPA,CECM SICOOB CRED-ACILPA,09004796000125,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 09033698,CCLA DE RIO VERDE E REGIÃO,CCLA DE RIO VERDE E REGIÃO,09033698000116,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
@@ -608,7 +607,6 @@
 32906701,EXPAG SOLUÇÕES EM PAGAMENTOS,EXPAG SOLUÇÕES EM PAGAMENTOS,32906701000180,Instituição de Pagamento não sujeita à autorização pelo BCB,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32995755,COOP SICREDI SUDOESTE ARAXINGU,COOP SICREDI SUDOESTE ARAXINGU,32995755000160,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 32997490,Creditas Sociedade de Crédito Direto S.A.,CREDITAS SCD,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,26/07/2019,RSFN,Não
-33021064,COOP SICREDI ARAXINGU,COOP SICREDI ARAXINGU,33021064000128,Cooperativa de Crédito,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 33040601,"MERCANTIL FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO.",MERCANTIL FINANCEIRA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,28/08/2023,Internet,Não
 33042151,Banco de la Nacion Argentina,BCO LA NACION ARGENTINA,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Não
 33042953,Citibank N.A.,CITIBANK N.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,22/04/2002,RSFN,Sim
@@ -655,7 +653,6 @@
 35479592,"DUFRIO FINANCEIRA, CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S.A.",DUFRIO CFI S.A.,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,10/01/2025,RSFN,Não
 35523352,BEES IP LTDA.,BEES IP LTDA.,35523352000106,Instituição de Pagamento,Sim,Sim,Sim,,PIX+STR,Provedor de Conta Transacional,Não,Não,04/09/2025,Internet,Não
 35534511,A27 IP S/A,A27 IP S/A,35534511000178,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,Não,,,
-35535240,SAQ IP LTDA.,SAQ IP LTDA.,35535240000175,Instituição de Pagamento,Não,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35542555,UNLIMIT IP LTDA.,UNLIMIT IP LTDA.,35542555000140,Instituição de Pagamento,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,
 35551187,"PLANTAE S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",PLANTAE CFI,,Instituição Financeira,Sim,Não,Sim,Ativo,STR,,Não,Não,23/06/2021,RSFN,Não
 35571249,COOP SICREDI EVOLUÇÃO,COOP SICREDI EVOLUÇÃO,35571249000131,Cooperativa de Crédito,Sim,Sim,Não,,PIX,Provedor de Conta Transacional,Não,nan,,,

@@ -6282,24 +6282,6 @@
     "fonte_dados": "PIX"
   },
   {
-    "ispb": "08844074",
-    "nome_completo": "CC DE ITAPETININGA - SICOOB CRED-ACI",
-    "nome_reduzido": "CC DE ITAPETININGA - SICOOB CRED-ACI",
-    "cnpj": "08844074000116",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "08850613",
     "nome_completo": "CECM EMPR CENT ELÉTRICAS/SC",
     "nome_reduzido": "CECM EMPR CENT ELÉTRICAS/SC",
@@ -10962,24 +10944,6 @@
     "fonte_dados": "STR"
   },
   {
-    "ispb": "33021064",
-    "nome_completo": "COOP SICREDI ARAXINGU",
-    "nome_reduzido": "COOP SICREDI ARAXINGU",
-    "cnpj": "33021064000128",
-    "tipo_instituicao": "Cooperativa de Crédito",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
-    "fonte_dados": "PIX"
-  },
-  {
     "ispb": "33040601",
     "nome_completo": "MERCANTIL FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO.",
     "nome_reduzido": "MERCANTIL FINANCEIRA",
@@ -11805,24 +11769,6 @@
     "modalidade_pix": "Provedor de Conta Transacional",
     "iniciacao_pagamento": "Não",
     "facilitador_saque": "Não",
-    "fonte_dados": "PIX"
-  },
-  {
-    "ispb": "35535240",
-    "nome_completo": "SAQ IP LTDA.",
-    "nome_reduzido": "SAQ IP LTDA.",
-    "cnpj": "35535240000175",
-    "tipo_instituicao": "Instituição de Pagamento",
-    "autorizada_bcb": "Não",
-    "participa_pix": "Sim",
-    "participa_str": "Não",
-    "status_operacional": "",
-    "data_inicio_operacao": "",
-    "acesso_principal": "",
-    "participa_compe": "",
-    "modalidade_pix": "Provedor de Conta Transacional",
-    "iniciacao_pagamento": "Não",
-    "facilitador_saque": "",
     "fonte_dados": "PIX"
   },
   {
